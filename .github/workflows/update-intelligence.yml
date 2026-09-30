@@ -1,0 +1,34 @@
+name: Refresh public reporting
+on:
+  schedule:
+    - cron: '43 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: nia-data-refresh
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r requirements.txt
+      - run: python scripts/update_intelligence.py
+        env:
+          X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
+          INTELLIGENCE_BATCH_SIZE: '60'
+      - name: Save reporting refresh
+        if: always()
+        run: |
+          git config user.name 'nia-data-bot'
+          git config user.email 'actions@users.noreply.github.com'
+          git add data/intelligence.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'data: refresh public reporting leads'
+            git push
+          fi
