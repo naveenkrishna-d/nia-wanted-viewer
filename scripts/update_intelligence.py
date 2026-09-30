@@ -64,7 +64,9 @@ def refresh():
             if provider == 'gdelt':
                 time.sleep(6)
         profiles[name] = {'attempted_at': now(), 'sources': sources}
-        PATH.write_text(json.dumps({'generated_at': now(), 'profiles': profiles, 'batch_size': budget, 'x_configured': bool(token)}, ensure_ascii=False, indent=2) + '\n')
+        temporary = PATH.with_suffix('.json.tmp')
+        temporary.write_text(json.dumps({'generated_at': now(), 'profiles': profiles, 'batch_size': budget, 'x_configured': bool(token)}, ensure_ascii=False, indent=2) + '\n')
+        temporary.replace(PATH)
     print(f'Refreshed reporting for {len(selected)} profiles; X configured: {bool(token)}')
 if __name__ == '__main__':
     refresh()

@@ -28,3 +28,35 @@ Open http://localhost:8000. Keep API credentials out of HTML and repository file
 
 ## Limits
 Scheduled updates start after deployment and Actions enablement; the ZIP itself does not run jobs. News index coverage and identity matching are imperfect. Single-word names can produce ambiguous leads. NIA can retain historical listings; presence on the list does not independently establish current real-world status. No private data collection or automated location tracking is provided.
+
+
+## Premium directory interface
+The redesigned interface runs directly on GitHub Pages without a build step. All paths are relative to support the `/nia-wanted-viewer/` project URL.
+
+- Lightweight inline SVG radar sweep; respects reduced motion and pauses in hidden tabs.
+- Responsive card/list layouts and 24-record desktop and 12-record mobile pagination.
+- Debounced, pre-indexed search across names, aliases, cases and official fields.
+- Shareable search filters and deep links to individual profiles.
+- Device-local bookmarks and CSV export of all filtered results.
+- Native modal dialog, keyboard navigation, labeled controls and source-linked reporting tabs.
+- Reporting data fetched only when its tab is opened; source photographs load lazily.
+- Separate cacheable CSS/JavaScript assets; no frontend dependencies, external fonts, analytics, or build tools.
+
+### Publish the redesign from your existing local repository
+Copy the contents of the extracted `nia_wanted_auto` folder into your local repository, including `assets` and the hidden `.github` directory. Then run:
+
+```bash
+git add -A
+git commit -m "Redesign NIA Explorer and optimize directory"
+git push
+```
+
+Keep Pages configured for `main` and `/ (root)`. The site remains at https://naveenkrishna-d.github.io/nia-wanted-viewer/.
+
+
+### Validation
+```
+python -m unittest discover -s tests
+node --check assets/app.js
+```
+For optional interaction tests, install Playwright locally and its Chromium browser, start the HTTP server above, and run `node tests/browser.cjs`. The test covers pagination, search, bookmarks, reporting tabs, profile links, CSV export, empty results, reduced motion, mobile overflow, and retained data on refresh errors. External photos are intentionally blocked in this test to verify initials fallback without depending on NIA image availability.

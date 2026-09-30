@@ -226,9 +226,15 @@ def load_json(path: Path, default):
         return default
 
 
+def write_json_atomic(path: Path, payload) -> None:
+    temporary = path.with_suffix(path.suffix + '.tmp')
+    temporary.write_text(json.dumps(payload, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+    temporary.replace(path)
+
+
 def write_status(ok: bool, **extra) -> None:
     payload = {"ok": ok, "checked_at": now_iso(), **extra}
-    STATUS_PATH.write_text(json.dumps(payload, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+    write_json_atomic(STATUS_PATH, payload)
 
 
 def main() -> int:
@@ -260,7 +266,7 @@ def main() -> int:
             "content_sha256": new_hash,
             "records": records,
         }
-        DATA_PATH.write_text(json.dumps(payload, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+        write_json_atomic(DATA_PATH, payload)
 
         history = load_json(CHANGELOG_PATH, [])
         if not isinstance(history, list):
@@ -272,7 +278,7 @@ def main() -> int:
             "added": added,
             "removed": removed,
         })
-        CHANGELOG_PATH.write_text(json.dumps(history[:100], indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+        write_json_atomic(CHANGELOG_PATH, history[:100])
         write_status(True, count=len(records), changed=new_hash != old_hash, checks=checks)
         print(f"OK: {len(records)} records; changed={new_hash != old_hash}; added={len(added)} removed={len(removed)}")
         return 0
