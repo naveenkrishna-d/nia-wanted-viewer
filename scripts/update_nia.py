@@ -14,7 +14,9 @@ import sys
 from dataclasses import dataclass
 from datetime import datetime, timezone
 from pathlib import Path
-from urllib.parse import urljoin
+from urllib.parse import urljoin, urlparse, parse_qs
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
 import requests
 from bs4 import BeautifulSoup
@@ -101,7 +103,7 @@ def parse_records(html: str, page_url: str, source_name: str) -> list[dict]:
             vals: list[str] = []
             while k < len(lines) and not LABEL_RE.match(lines[k]):
                 # Boilerplate indicates the modal/profile block is over.
-                if lines[k].startswith("Identity of the informant") or lines[k].startswith("PLEASE HELP US"):
+                if lines[k].startswith(("Identity of the informant", "PLEASE HELP US", "For any information")):
                     break
                 vals.append(lines[k])
                 k += 1
@@ -128,7 +130,8 @@ def parse_records(html: str, page_url: str, source_name: str) -> list[dict]:
                 "reward": reward,
                 "image_url": images.get(name.casefold(), ""),
                 "source_pages": [source_name],
-                "source_url": page_url.split("?", 1)[0],
+                "source_url": page_url,
+                "source_urls": [page_url],
             }
             records.append(rec)
         i = max(j, i + 1)
@@ -139,7 +142,8 @@ def parse_records(html: str, page_url: str, source_name: str) -> list[dict]:
 def merge_records(records: list[dict]) -> list[dict]:
     merged: dict[str, dict] = {}
     for r in records:
-        key = r["name"].casefold().strip()
+        key = r["name"].casefold().strip() + "|" + (r.get("image_url") or "|".join(r.get("cases", [])))
+        r["id"] = sha256_text(key)[:20]
         if key not in merged:
             merged[key] = r
             continue
@@ -147,6 +151,7 @@ def merge_records(records: list[dict]) -> list[dict]:
         for field in ["aliases", "parentage", "address", "wanted_in_raw", "status", "age", "organization", "reward", "image_url"]:
             if not cur.get(field) and r.get(field):
                 cur[field] = r[field]
+        cur["source_urls"] = list(dict.fromkeys(cur.get("source_urls", []) + r.get("source_urls", [])))
         cur["cases"] = list(dict.fromkeys(cur.get("cases", []) + r.get("cases", [])))
         cur["source_pages"] = list(dict.fromkeys(cur.get("source_pages", []) + r.get("source_pages", [])))
     return sorted(merged.values(), key=lambda x: x["name"].casefold())
@@ -158,22 +163,49 @@ def fetch_all() -> tuple[list[dict], list[dict]]:
     all_records: list[dict] = []
     checks: list[dict] = []
 
+    session.mount("https://", HTTPAdapter(max_retries=Retry(total=3, backoff_factor=1, status_forcelist=[429, 500, 502, 503, 504])))
     for source_name, base_url in SOURCES:
-        seen_names: set[str] = set()
-        stagnant = 0
-        for page in range(MAX_PAGES):
-            url = base_url if page == 0 else f"{base_url}?page={page}"
-            resp = session.get(url, timeout=30)
-            checks.append({"url": url, "status": resp.status_code, "bytes": len(resp.content)})
+        pending = {base_url}
+        visited = set()
+        fingerprints = set()
+        source_count = 0
+        while pending:
+            url = sorted(pending)[0]
+            pending.remove(url)
+            if url in visited:
+                continue
+            if len(visited) >= 500:
+                raise RuntimeError("Pagination safety limit reached; refusing partial dataset")
+            resp = session.get(url, timeout=45)
             resp.raise_for_status()
             page_records = parse_records(resp.text, url, source_name)
-            fresh = [r for r in page_records if r["name"].casefold() not in seen_names]
-            for r in fresh:
-                seen_names.add(r["name"].casefold())
-                all_records.append(r)
-            stagnant = stagnant + 1 if not fresh else 0
-            if page > 0 and stagnant >= STOP_AFTER_EMPTY_OR_DUPLICATE_PAGES:
-                break
+            if not page_records:
+                raise RuntimeError(f"No records on advertised page {url}")
+            fingerprint = sha256_text(json.dumps([r["name"] for r in page_records]))
+            if fingerprint in fingerprints:
+                raise RuntimeError(f"Repeated page content at {url}; pagination may be blocked")
+            fingerprints.add(fingerprint)
+            visited.add(url)
+            all_records.extend(page_records)
+            source_count += len(page_records)
+            checks.append({"url": url, "status": resp.status_code, "records": len(page_records)})
+            soup = BeautifulSoup(resp.text, "html.parser")
+            for link in soup.select('a[href]'):
+                target = urljoin(url, link['href'])
+                parsed = urlparse(target)
+                if parsed.netloc != urlparse(base_url).netloc or parsed.path != urlparse(base_url).path:
+                    continue
+                values = parse_qs(parsed.query).get('page', [])
+                if values and values[0].isdigit():
+                    last = int(values[0])
+                    if last >= 500:
+                        raise RuntimeError("Advertised page exceeds safety limit")
+                    for page in range(1, last + 1):
+                        candidate = f"{base_url}?page={page}"
+                        if candidate not in visited:
+                            pending.add(candidate)
+        if not source_count:
+            raise RuntimeError(f"Source empty: {source_name}")
 
     return merge_records(all_records), checks
 
@@ -206,7 +238,7 @@ def main() -> int:
     try:
         records, checks = fetch_all()
         # Guardrail: do not publish an obviously broken/blocked scrape.
-        min_expected = max(10, int(len(old_records) * 0.50)) if old_records else 10
+        min_expected = max(10, int(len(old_records) * 0.90)) if old_records else 10
         if len(records) < min_expected:
             raise RuntimeError(f"Validation failed: parsed {len(records)} records; expected at least {min_expected}")
 
