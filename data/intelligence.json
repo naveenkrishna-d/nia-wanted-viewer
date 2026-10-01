@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T21:50:18.816710+00:00",
+  "generated_at": "2026-10-01T01:07:47.075678+00:00",
   "profiles": {
     "1d5ef2acfc61b1838c47": {
       "attempted_at": "2026-09-30T04:52:19.711150+00:00",
@@ -10451,6 +10451,2414 @@
           "state": "ok",
           "checked_at": "2026-09-30T21:50:12.816489+00:00",
           "items": []
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "0552592750b23f0446f5": {
+      "attempted_at": "2026-10-01T00:49:31.169527+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T00:49:13.934274+00:00",
+          "items": []
+        },
+        "gdelt": {
+          "state": "failed",
+          "attempted_at": "2026-10-01T00:49:25.169369+00:00",
+          "error": "HTTPError HTTP 429"
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "458c1f5ff25b89c40451": {
+      "attempted_at": "2026-10-01T00:49:48.516782+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T00:49:31.436145+00:00",
+          "items": [
+            {
+              "title": "Radicalised Filipina lured Indian men into IS web - The Hindu",
+              "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOajV6THBXRnA4aWwxSU1IWTFQYWlla0ZOWEllVFg5aDRISDBKaG16eUVnSTdndUd4cUVWcHBCd1c0ai1RbmNSWWFxUmtEdDBhQUQ0ak1xekNqX2d2c1FpeUVpYmo1a0F1dFU5VF9wTklieXRTNHV5aHh5cEtnZEpWMXUtWUtqcXd3VjRJS2Q5cUdIOVpaZUI1WHZKa0FOX1hXNENwcy1aNVNPNlpi0gGzAUFVX3lxTE0tYlZQdi03dUpkUU5HelpUaXp4ZGFWOWtJdkFKX3JMRVRaUGlmMC1TUl9CQ2dIREdvVDRzOFR6dFpWaUMyaUhHMmlzUEhsSnlKcHB6U0V5RHc0VmxaVGx1MDctSGoyRW1fZm1SRUt1SXhseXBDVE9obkQ0U0RxMWVkMnhmbHJlVWI5RksyYmxFNEJ2VHZzZUp5RzZ2ZXo5a1lnY0hzMWJPMV9wbXdVa1Y5Yktj?oc=5",
+              "published_at": "Sun, 06 May 2018 07:00:00 GMT",
+              "publisher": "The Hindu"
+            },
+            {
+              "title": "Manila woman turned to religion, drew close to IS after father’s death: NIA - indianexpress.com",
+              "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdVFnbDRTT0VyN3JiVEdKSVBQQnhxYlo3NEZWc0ZVb1hQMlBMdGVBcnh2dmFBeVZXMC1wRW1LS0V0R2F4X09XbEJwX3JHVlJSUXllX2FSYWtwejMtamZtMEtHdS1IVWo0RXlObVBIS0FoVl9GSkV2QjZXQXJjd0NlcjRSTkRTQXFCZkVaQXg0MklETElXREtWWWhfS2NFVXphU2dBV2xWSjVIXzk0YnZodDVqU2NkV3BoOW9ORVlB0gHEAUFVX3lxTFB6NzJOcDZSUEU4TFFoQ2MwVHdoeGVub2U1YmtTbFR6aTU1U1dReC00Rkt3WFJHSGt4eVhrTW5pU3VxY3M0QUQ4YzVxcnlMMmotQVBFcldOMGhrUUNpRl9JeUpCLVBHYUtQWTg4UGJlYVB0bFF4OWRnT2lVRnU3ZlhFd0RXN196dzdIMXNjbmhMU3ktYTVJZ1pBQ3A5NWt1MmNGZFJuWFRXRG5mSFBteFNMT2JmY0JlbjdwZk85ZzVjdUQtWnU?oc=5",
+              "published_at": "Wed, 09 May 2018 07:00:00 GMT",
+              "publisher": "indianexpress.com"
+            },
+            {
+              "title": "National Investigation Agency quizzes Filipino ISIS operative in Manila - The New Indian Express",
+              "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQblNjRWxJZEl1N084alNqcHZfWE1aaWt5dGx3OXVyWkVwZGRHMFh5UXQtWFZFQ0NiVVZacUxTUzlWbFcwQzNJSWJCc0hmaEp3MldJOXl1S0FQeTZvLTBBYWxhdENUSW1aRG1yMHlpTTh2dUVvcDhIeml6ZENoMjc2bFNkazZLUzNmZHpqekFucGlhd2l3OFdhWHRoUHdwU1A3UHhmTXZTNDNMSmFZaWFFbEJEc2dVYUszWUxIa3pYMk1TYjkta25hYTBkcWlZOGx5?oc=5",
+              "published_at": "Thu, 03 May 2018 07:00:00 GMT",
+              "publisher": "The New Indian Express"
+            },
+            {
+              "title": "Sadiya Anwar Shaikh, who was arrested for links with ISIS, was de-radicalised twice in the past: NIA charge-sheet - opindia.com",
+              "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYWlKU05uZWU2THBiX2o0anlVal81ZkJVWm05cWh5dW9KZ1l0dHpZNTctYm1HNVpWTS0yX09uWVBvMXhMR0lneHZoakY2UHlsY2tXU0pCQ09XQzBlV29IZUVlVWpYZlFRd29vNXQwZi1RQlVRcEpzOGx1dDV6dTZKVEFDZjFaQXlzOEJQU0k2bXRhMjNQcjhNbm1JZzNjTFZ1aEE?oc=5",
+              "published_at": "Sat, 31 Oct 2020 07:00:00 GMT",
+              "publisher": "opindia.com"
+            },
+            {
+              "title": "NIA quizzes Filipino ISIS operative in Manila - Daily Excelsior",
+              "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU3ByY0dOdWo4WktQXzhvZ2ltYkpLY01sZU44bm15ck4wT1pYNDJ5MHFlLU1QbXpDZlRINzVPVHNEajIzWGZrS1owWUc3eUR1SVhNak9Gdnk5ZGg1cUkzSFpRdU01b19oQmdvbTVmSnp5MG9aUG9BOTFrQWtRTkZIcW10d3hEN3JwclUtWjJrUEhxRXlH?oc=5",
+              "published_at": "Fri, 04 May 2018 07:00:00 GMT",
+              "publisher": "Daily Excelsior"
+            },
+            {
+              "title": "Arrested IS recruit wanted to train his son for jihad - The Hindu",
+              "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRUw5VTc4eDhSd0gxY3NONU9sdmw0Z01zT29NM0pBdGR1R2pWYXh6UE9sUF9XWldidnpyd1lBdy1TVnVJeFZERkh1MmtJZ1YzakFkcmJDQVJ2N0FIUHpvOHNSaldmYnVmZzlpdUdET0gwZHdHdjg4SnN2RDlrZ3o4V1p0R09USnpnOWt1U1NWRkpwOUs5aHZFdHROWmFSMmp0LWJqMmxhR21MYlprSWNmbDFn0gG4AUFVX3lxTE5ENXkwbTNQR3FMV0dzVkRvSVFNNFctR05OZFNLcnE1WEVKQ3JGdDZLNXBDSUVpUjVxdXFVQm41MGhmcGhLQnJTNEJWd094WGZzeElRNmZ3RlBGcnItREQ5ZUptUXFpN2pOTkJ1ckhQWlZiYWtEMzh0MzZlYjZMZWxjb3JIWWhaV2ozbEVtMmU1eGUxU2J6dlV4NjYwRXprYTRfekxJb2s5UG10NkdSLTlzSWdnclJGVHQ?oc=5",
+              "published_at": "Sat, 21 May 2016 07:00:00 GMT",
+              "publisher": "The Hindu"
+            }
+          ]
+        },
+        "gdelt": {
+          "state": "failed",
+          "attempted_at": "2026-10-01T00:49:42.516638+00:00",
+          "error": "HTTPError HTTP 429"
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "15dd10eecd5faa00559b": {
+      "attempted_at": "2026-10-01T00:50:06.860244+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T00:49:48.754719+00:00",
+          "items": [
+            {
+              "title": "Pakistani handler behind Pathankot attack notified as 'terrorist' under UAPA - The Times of India",
+              "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeHBpaXU4U254dzBSbmlyLXFYV2g3TGFURzk1MlpaOVZOdW9XNmNOampETUNvVm1YdW12WWEyekh5TjRLNzZaZUZKaGNwRnNTSHhUdDBLWGNLVU5WSzlsWnlmMzJyZXh2aDNOMy14T1ZmM1VoY1RDdHA0WXBNN0huVmQyYV9QRmV6aGNscTlxazgyTzBnRWVBVlVIM01XM2hBQUY2TEgyTW93TV81UHotdGFvMGxkZUJiNnRMTmZxWVU0TUJ3SWJpaXN6aUx0RVpZZ2xzdWdVMWnSAd4BQVVfeXFMTkY3dFd6VjlpTDMyN2NkdGdlRGQyRUh0ZXREWVpLTXhnUTQzTXc3ZWQ0NlpjZkxmOFpuOU1UWDNTc2lneDUyaU5MWktud04tTDF3RjZ6amdQaHFiaU45N0pTNUtCY1hGRjJLVWxFLWNNWGVkdjFYNFhLblRNY2paTzBlUExSUWRsSXhGcEdLV3RXZlVVTnNYWXBGZ0ZlS3ZZcmNKN0hiZjJmUko0NWhoeTRrdVZubS03b3p2LWNRcnRLT2l4Z3pTUllmV3hYYXVKbm9jU1ZQNndzOVE1c1N3?oc=5",
+              "published_at": "Tue, 12 Apr 2022 07:00:00 GMT",
+              "publisher": "The Times of India"
+            },
+            {
+              "title": "NIA Files Pathankot Charge Sheet, Names JeM Chief Masood Azhar - thewire.in",
+              "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbkVNbndFVG1mZjFwc0QzRkp2TW9QMkpCMlNKcnIwMlhQMXF5OV9LWnFGU29GT0dNZmxrd2pSVzRRaEVKTjlCWlYwM0NiQjE3SmhnX0stWlRqbGgxYmlVX0JFa29QejczRUYtUDg4UGdZVUk1d1hsS0J2NnNUdW1sQzcxdHlvSE9NWWNHUGVB0gGTAUFVX3lxTE5BZGtFY3JSZWdJNV9RVUJIbE1pcUhiemV1OTF4VFRCMlljbUtNRVpCUWRqNkRWOUtvek5PMDM1MDFmd2xxTzZnYUdtMXdWTDdGaFhyR1gtX0IwQjFLRlpLXzQ3bTlLZjRKclY5ekZmYmoyNi1qUHptYWQzcExIRk4wTDJtekFIdVRicEc0d00tQUJNRQ?oc=5",
+              "published_at": "Mon, 19 Dec 2016 08:00:00 GMT",
+              "publisher": "thewire.in"
+            },
+            {
+              "title": "Pathankot attack: NIA court asks Masood Azhar to appear before it on March - Deccan Chronicle",
+              "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSkdPTHUwQmlLMU5STGpwQVgxeFI4eHJCa2RKWVpUcmZFcEFTQzI3ZXU1WTc2QjVZR01HUnhBR3RRUEhSY096QkNleEY0WlJoWGdDWF9BTk5sMmhmU1lCdEZMeGpqZ25DMHpnTURHM1ZGWkhHcnR4bzRzYTdRUkhfNWg0c1N4cndONS1JOWZCVVFyZzVZS0J2NVk1NGlYTmVSU3B1MFhHem5fTTIzTjJCTFl2MXd4N3pCMXVSZ1U1Q1dZQzNOWXpWVkxVdmN0QmxuTmpSZlM5d9IB3AFBVV95cUxPU1FYNHpjZnM4NEtkMUxtWDlhZmdDaXFKeDgzaGMtRkVSd3lrcjYybGhLMDBwVWkyNHB2OHM1NW5VZy1hUjQzVVJ6Z3NRSUpscFZTYWxEZmdWTTlPcWNkZkl4ZHpyRkZZYlhnYTE2ZlB5a1Q2V1QwcDFMVUFzQlRObTd1Q2h5V3BNRlhJZ1ZTSFVsQ3pqV1hQVWhRaUZkZ2tPakt3Y1MwcDE3RnplcWNPZ2JNdVdPRGszQ3A5ZjFNUWtTZi1sNzZtYk5pSkJ2WFJvbHlwY3duZTlnRDVx?oc=5",
+              "published_at": "Tue, 07 Feb 2017 08:00:00 GMT",
+              "publisher": "Deccan Chronicle"
+            },
+            {
+              "title": "Centre declares Pathankot attack handler terrorist | India News - Hindustan Times",
+              "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObDlNMW1RVjFzMHNIaDBPZ2hRZ0NQbFNJOXRyY29nM0RrYnoyZmlpdk5rNDhUbHJMX09yWkU5UzR4Y3cxellPZFF3V09COGcwQkIwV3dBeFk1RU5HRi1nRmJQNGlid21ZdkZJN3ZfQklUcHhQVnQ3OVJYcWlMZTNocWg0MVdrOUFUYUF3M1VvQVdsR0Y1b1VFN3FyODItWWpic1JNNDNfU1g3ekptVTZnTk5uc9IBuAFBVV95cUxPcmF5Tm9ybEJBSGtHRVR3X21WMVRDemRyUklFbE9RVUR1ZF9KaGhtOERuaDg3cGw2Nkh6b29ObERHdENvOXQydVF1R2tRQ2hOdUp4VU9DWTlVYlp4YUZ3ZS1rSEF1RFdXUGlrV2dxd3VfREc2MWRpR2J3Wk9zZ1Q2Ny1DTWZXOWdwaEVqVVBjLWNuVEgtVE9DaWpUVDlhSl9yZEVSdjE5cXRydTlTdm5GV0Iwd243NGZk?oc=5",
+              "published_at": "Wed, 13 Apr 2022 07:00:00 GMT",
+              "publisher": "Hindustan Times"
+            },
+            {
+              "title": "Revealed: The Face of Pathankot Terror - The New Indian Express",
+              "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSTlwaFJfRE9UQWRDdld0a1lCY01MeHhZck1JblRfNTRwcHlRWUFCXzdQLVpoOWlLQTUwbU5FS3FmR2o0V3lCaVJ5Y2FONExhVjBtRzhQeUppTEMtTDhYbGktSGYzdEgwTW13MHNUSVFCdlJhSTJmZUxlS1g2ekhUOHRnUTlqZG5tQ2k5Q0tOQUthMXlmTXhGVmt6d3ZKUkZiUnotS19NRWl3NWM0bWJfeUdn0gG_AUFVX3lxTFA4T19KLXVodWlGMDVjVkVleFQ1MTB6RHpwYXRlVk5mcVlHT2pMZllyNnU5cV93eGpXV2hPb2NJLS1zczIwbjRxdUtaTVI4VkpoU0lXeFRDU21ObFhtb3NZOU1ZOXh4R05sNXp5aHZsNzlrX1ItaXVFRXQyWWdpdkNmV1phVGxnSzZ4SGRNQk5SYUU1YVVYVW5BNm8zR01UTnZDMzF5OThkYVNKXzkyOUdWZzVGVDNwMVBfMldzY1A4?oc=5",
+              "published_at": "Sun, 10 Apr 2016 07:00:00 GMT",
+              "publisher": "The New Indian Express"
+            },
+            {
+              "title": "Pathankot attack: Jaish-e-Mohammed plotted attack in 2014 with Google map of airbase, says NIA - indianexpress.com",
+              "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUFE1S0Z6azhDeFhUVG0taWRVcXVfWENnRW5udHE0WDRyamJDX1N0NmJ5NFRiSllUQ0NJaGxVM2wzN19mMzZUUDNSVXRlMXRKSFFrZkxUbndKRmp5RFFnVUlpcWhFWlIzYVhTT2pzRGo5ZTNGZnBYVGMya0cxcXo5Y2RiSk5wcDBObXFvek0wbTBhLVRscXJqekFRRW95a1l2NnB3RkFCWTNma29IZ29VWWtZd09HZWlLaVo3OEdHUl94RnZiMGI4UWlQcDZtMnBXdlN5TFV3ZmrSAd8BQVVfeXFMTlNoRkhWSkJuUFc5VWNNOFdOVlVQajMzUDNiV1JhbWJIU3RCTzZpY0RYLS1nckR4RHZwNDdESjYtOU40dm1QeVZEbXlleTY1U1lyaXJrU1ducEoxamR6UDl5NkdyanNpczZ4SUYya1NBWVByR0NFY3Zkc3JmQlk5REN0YzFYMVBUTVFSWER6Tk96eDUwdnNyaWc2SEQ2S1Z2bWVLV1RhQ18tVWFON2FJWDdBTFJPWk1ZMG5kOVJRM2I3d2JfRTFITy1wbFpsMWJPR3c5VUFvVl9aVFZjUGdPdw?oc=5",
+              "published_at": "Tue, 20 Dec 2016 08:00:00 GMT",
+              "publisher": "indianexpress.com"
+            },
+            {
+              "title": "Pathankot attack: NIA files chargesheet against JeM chief Masood Azhar - The Times of India",
+              "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZ3RUNHY4TnQzSGRDNnVRcW1OVHVHRVVJOXJQVlFrRDhlcmJvNzhuam5Bci1FRTMwN0NwYU04T3EtdExMVFZyTk5mbjBfaGNTZmlaLUdrcWdRQm9iY0FqRncxcUM5SnU4c3doSFlkemFDaktBOWhPZDF0TDZxWUx5aVdFWW14N3FzY3lXbnFwWF8wVFR5S2YxNFlwakk2ODgySEp1dUQ4b0Rlb09HZ1JYMUtralpieXl4M2Z2NmU1VXJRaTk4RkY5STdjb1FlQS1vUVHSAdcBQVVfeXFMUENNVllwQlNQbUFVVXcxY1hiX2QzWlN6OUtVeGRZTXdQUTZkSnYycWVtOS1LVGhLUUN1dUlhdURpejI3VWxFbkljVWJFOWVaUFE4ZTdjQkFBck5haDVvc3hCVHBQOXV6bkRIbkljeVd2Yy1RSTFDTDVDckl4NldGVXI0RDhzeFRDcW1pSy1TRlkwdmZxQ1AxRGFEU0J3UHVGR1ZlQVRMazJwUS1vQmdZbDl2Q2lqZHFoWmVtaG5EcnUwTDR5eWhhZzVOZWI2VVJqaV9ZbTliNDQ?oc=5",
+              "published_at": "Mon, 19 Dec 2016 08:00:00 GMT",
+              "publisher": "The Times of India"
+            },
+            {
+              "title": "Key conspirator behind 2016 attack on Pathankot airbase killed in Pakistan - indianexpress.com",
+              "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdGkwYm1keXBCMGZMNjBIQlBQVmFSRFB3LTFYbHVkMmV2cjAwZUpNZ0hLUEFLNHYyRkJaTzJMZWpKYk1yTlFFM1I2T2tQb0xVOEUwNzllOFhyeXJpSWlRblgwQXpCSE5ZMlV4VnNOMUM3ekJ4QWptYWdfblZzdEx2RWE3ZlBSODRaZmNhWlVucFBCRENlLVhPNkJxdXF3NlNwMzdQTVJkVXctUElERGxhNmJsaVVLYTEtdGxqRnNxb1bSAccBQVVfeXFMTjhWeDlESldNXzNsX3FRS0x2enBrcFFjcnJQTkJGUDZaOVZVWkNyLWlnRk5oYUJYeUp6MjVkQkZ3V2hhQURsNWQ5bnAxM2lQQUdxajg3T3RMY2FPaEZjMkxmZXlZd1FwNlUyZGxmQ3NfMUpSQzVfVE9FMmFGdm54aFZ4ZG5ycTMwSFh1ZlYtMTQza2ZLdGM5OVd1alJrRmJuM09tLXJ6clFGaTB6dDAwTWdPR0VYUEdsS2xfYlBqMkNUQjg5RzN4WQ?oc=5",
+              "published_at": "Thu, 12 Oct 2023 07:00:00 GMT",
+              "publisher": "indianexpress.com"
+            },
+            {
+              "title": "Pathankot attack was code-named 'nikaah' - The Times of India",
+              "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRTVjby1FUGY5Nm5scG5PbFZLMTVMMDdVRl9jcFBNdjhqRXNoVmR4TVROQ1poakdVcjI2TjQ2blpHY194OWxXVnhnajZ1QXRIR3NRaFdiQmY4WDdvTlJKUmkwV3RoNkhkemhnVkFxZ3hkUzVmejNCaHo2Y045RlhXSmQwb2todHdpYzhGU1dWOUF6MTludWhxYU5iWERVcG1BX3pUV3JtTlrSAa4BQVVfeXFMUGpuTW1kbWgzR2liMEJ3YVdNMjJqZENqaGF3M21EVnRuSjhvc3hORHFWNGI1SXBoRGVhNzIzelEwYk1OSTc3UTF6Q0h4dXJsR2FXLUNhRVgxWnQ2dlIxbXRXOUdFY2E1NGxpX2FNa2ZsVHN4Q2FJV1VfSTd3dTBZZkRkRzB0VDRkUEhTNUUwYWpRWFNEX1A2VkczYjlCZzdFOW0wRkY5YWNBcWhnWjBR?oc=5",
+              "published_at": "Tue, 20 Dec 2016 08:00:00 GMT",
+              "publisher": "The Times of India"
+            },
+            {
+              "title": "Why doesn't Pakistan want NIA on its soil? Kashif Jan's there - DNA India",
+              "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZUo2Q2dKd0ExazZxaUNpSmV4dVVCeXpsa2hGLWFiOTd1SVNTLU93UVNsLUFfYlZZeElxVVluQTlVc08ta3NOS3BJalZiSEQ0VUxSX1FZelBIelRPSWVtd192c013Y0piZmx5clYzMlgyQURkMW4tX25GVzZnLVN5Zjk3MDQwREU4eHlKbTUtZV9wdDNINU12TFBuRUZXSml0SHN0TUxGWkpwZ9IBrwFBVV95cUxQVEpBSmU1c0RhM1ZFcU41dEtFWkVFQU14Ri1PeG9NeFRNdVR1T01ZekUyU2x6ZmlDaEROazhTQTJ2RE9PRDVrTHdPRFVCUTdzTk1kMHZEQlNxWVJDM1g1UU5qX3pyMGVUeHhUSU9rblMzUHdfeTBLMVBvQUlab1ZBMWlBck9oWElXR3NlRGo5Unl2M1hGZ0VSejFqQXZMNHliY1p0Y3NUSmhOTGRnbXhF?oc=5",
+              "published_at": "Mon, 11 Apr 2016 07:00:00 GMT",
+              "publisher": "DNA India"
+            }
+          ]
+        },
+        "gdelt": {
+          "state": "failed",
+          "attempted_at": "2026-10-01T00:50:00.860091+00:00",
+          "error": "HTTPError HTTP 429"
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "b927674a2af708f538c8": {
+      "attempted_at": "2026-10-01T00:50:25.624116+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T00:50:07.087162+00:00",
+          "items": [
+            {
+              "title": "Killing of Athuan Abonmai: NIA displays details of 8 wanted men : 01st may23 - e-pao.net",
+              "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tWkRsUDZzTnVIQ2FyV0JFS2E0RFZ4V0lLWEViQ3JqLUlBT3lEU3dPX2d4ZUF3Rkd5VmJYcGFfVVA1MmdjUk44cEQ5OGtlQUJqSmQ1STVfS1ZjWi1walE?oc=5",
+              "published_at": "Sun, 30 Apr 2023 07:00:00 GMT",
+              "publisher": "e-pao.net"
+            },
+            {
+              "title": "Manipur: NIA declares eight people ‘wanted’ for killing Naga leader - NE NOW",
+              "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNlNaU0FPbUZqZUxvR3RvaTlMMFBHQU5Cak83cExfcTAxY2tKN053dWxfZkdyLXNvWTkzTE4tV3ZLSUZjX2ZHVDRsa2FtcjJqTlQ2VFZIdVUyVnpJZkpQR3EteWd6Z1Y5M2tlYUhNcExYZ1dDOUVGeU82dVlpUFRtbmlJcXlISmVkSjJFVVRsNlhwWDV4ZHMzcFNQUFRfbUVNblRzX0xmUGtoaWdEdlQ0?oc=5",
+              "published_at": "Mon, 01 May 2023 07:00:00 GMT",
+              "publisher": "NE NOW"
+            },
+            {
+              "title": "Manipur: NIA Posts ‘Wanted’ Notice For 8 Killers Of Athuan Abonmai - The Sentinel - of this Land, for its People",
+              "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTWxZSzExRTNJdzhJVE5xdFhTekdFQU9FY3U4cHcwVjY0d1lkMmNyb1VCOHlQUFJ6MVY1NXZBVnR4NjVFZGY0Z2NjUmdGY3NqNGpqLTY5OWMzai1zVm1yc0lGNWVEeVdFWnBTaGQ3a0RMdHpqdGtHSUlObXpXSUR0R1p6QXBSM1pTZGI3WUFhdjdQSVl1QnU4VmR5a2lHZXVuOFNhYlRBX3M1ZjdOZVo5Y2dsNi1pemUzUWU3YnNocEdoRF9UeDZnVDdn0gHXAUFVX3lxTE9BMk5vV25kSzF3NFZyN21rS05EVUpRSGFkTzJKRndzVVJTbEoweTNsUFcxajNvaTd6aVZDN0UwUTFGaWNiT1dDRmlVb1dTS3NzTGpSdVVCUmcwQWItQVhhZHhpRnJkSWpLTnVibUNudWw5bzNzeVVDWHZkNl9qX1lzc0d1WEo4ODFOTVlDOFRzd0tURG5HWnFEclpQZENNczN5SkJ6TzRSTEdOTWotY05wd1prY2l0Rk1ZZEFXSFpBUjl5UnFNR1ZRMkRWQlBQNXhPNmtwMXM4?oc=5",
+              "published_at": "Mon, 01 May 2023 07:00:00 GMT",
+              "publisher": "The Sentinel - of this Land, for its People"
+            }
+          ]
+        },
+        "gdelt": {
+          "state": "failed",
+          "attempted_at": "2026-10-01T00:50:19.623968+00:00",
+          "error": "HTTPError HTTP 429"
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "873b922bf446826f8bdc": {
+      "attempted_at": "2026-10-01T00:50:43.357870+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T00:50:25.855482+00:00",
+          "items": [
+            {
+              "title": "NIA FILES CHARGE-SHEET AGAINST AGAINST FIVE OF NSCN(K) - India Today NE",
+              "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ010VW9DelhlT0Vfa2lsNS1oT1BheUIwS18xb0FaYlVVZ3FXRGQ0SldOWEFMaTltcTZBdm1FWjJkS00wMzlfU01vN3RUbkhka1dBbmdiVlg1RWJ6eTA4bTIwaWtzSnQ5enh1X291X3JEWE84NHZiVnF5WlBfSXkwYjc1UW9rOHpXcW0wcmJVSHlEZFg3LUZVSmNPRnFJVjkxMTFjSllOaWY2SV9QSHM40gG0AUFVX3lxTE1oUDIzZGdaVjd6ZkZLbVNEd1Mxc284bU0yT2FBZkdsbmpCb1NQeTRWUHFjaVN4NnJ1ZUg4cEFwenFmZ093aXlBM2FZQTQxdDhQekw0LXhVYndIUWEwTlV0S25VQ0dlcVYtakdEb3NiM1JpTThDNW40TlRmODAxYk8xbjZzMWNBZHZfbEluc1J0NUF3MTBPTXNLdzN3dW5HZzFjTXhLNi15c3ZST2FEN1JrLW5QOA?oc=5",
+              "published_at": "Tue, 06 Nov 2018 08:00:00 GMT",
+              "publisher": "India Today NE"
+            }
+          ]
+        },
+        "gdelt": {
+          "state": "failed",
+          "attempted_at": "2026-10-01T00:50:37.357674+00:00",
+          "error": "HTTPError HTTP 429"
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "f657b81a751e18c91510": {
+      "attempted_at": "2026-10-01T00:50:59.821278+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T00:50:43.606104+00:00",
+          "items": [
+            {
+              "title": "Manipur: NIA declares eight people ‘wanted’ for killing Naga leader - NE NOW",
+              "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNlNaU0FPbUZqZUxvR3RvaTlMMFBHQU5Cak83cExfcTAxY2tKN053dWxfZkdyLXNvWTkzTE4tV3ZLSUZjX2ZHVDRsa2FtcjJqTlQ2VFZIdVUyVnpJZkpQR3EteWd6Z1Y5M2tlYUhNcExYZ1dDOUVGeU82dVlpUFRtbmlJcXlISmVkSjJFVVRsNlhwWDV4ZHMzcFNQUFRfbUVNblRzX0xmUGtoaWdEdlQ0?oc=5",
+              "published_at": "Mon, 01 May 2023 07:00:00 GMT",
+              "publisher": "NE NOW"
+            },
+            {
+              "title": "Manipur: NIA Posts ‘Wanted’ Notice For 8 Killers Of Athuan Abonmai - The Sentinel - of this Land, for its People",
+              "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTWxZSzExRTNJdzhJVE5xdFhTekdFQU9FY3U4cHcwVjY0d1lkMmNyb1VCOHlQUFJ6MVY1NXZBVnR4NjVFZGY0Z2NjUmdGY3NqNGpqLTY5OWMzai1zVm1yc0lGNWVEeVdFWnBTaGQ3a0RMdHpqdGtHSUlObXpXSUR0R1p6QXBSM1pTZGI3WUFhdjdQSVl1QnU4VmR5a2lHZXVuOFNhYlRBX3M1ZjdOZVo5Y2dsNi1pemUzUWU3YnNocEdoRF9UeDZnVDdn0gHXAUFVX3lxTE9BMk5vV25kSzF3NFZyN21rS05EVUpRSGFkTzJKRndzVVJTbEoweTNsUFcxajNvaTd6aVZDN0UwUTFGaWNiT1dDRmlVb1dTS3NzTGpSdVVCUmcwQWItQVhhZHhpRnJkSWpLTnVibUNudWw5bzNzeVVDWHZkNl9qX1lzc0d1WEo4ODFOTVlDOFRzd0tURG5HWnFEclpQZENNczN5SkJ6TzRSTEdOTWotY05wd1prY2l0Rk1ZZEFXSFpBUjl5UnFNR1ZRMkRWQlBQNXhPNmtwMXM4?oc=5",
+              "published_at": "Mon, 01 May 2023 07:00:00 GMT",
+              "publisher": "The Sentinel - of this Land, for its People"
+            }
+          ]
+        },
+        "gdelt": {
+          "state": "failed",
+          "attempted_at": "2026-10-01T00:50:53.821150+00:00",
+          "error": "HTTPError HTTP 429"
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "f405fd51e55b28da6378": {
+      "attempted_at": "2026-10-01T00:51:16.559007+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T00:51:00.035125+00:00",
+          "items": [
+            {
+              "title": "Prime accused in Kohima terror attack arrested in Bengaluru - The News Minute",
+              "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMjFTUWxnQllBYlVHWW1FMmhLRGJOSG5WTTZWbU1jTmZjWlFRRTYxbkRnd0tkeDdweFEtSFJrNmJSTTdEWVdpelBybUVxQ1RlUWZEQUNWeHJjemU1ZHl4Yi1OQW8wQUlSYUpCRmNLQ1JWbjNzX1JtVTFwSUtoWHFDaDJHSXY4bURNR0NYSWt1T2Y1el9lUGpVNHRNRlktd3Fw0gGuAUFVX3lxTE9sT2R5c3ZRUVJ2a2p1ZFBkY3FJNVFDTTdwMlRnLTBuVFA3U3lhTlNMc19KMVo0VnJkX3JOZ1lyQklqN0k2REEzTkFMcVUwM0I1ZHZwNzl1a1RBOFlhaGtHYXlvSzNQU3RHZndRMEU3V25GNjJEY28tbXZDTGwzMGJxMEdRSUY1Ul9TS3lqTmx1aUxJUzZCMmZJVEo0eFNpREs2RnN3N0xyVElsTEdpQQ?oc=5",
+              "published_at": "Sat, 26 Dec 2015 08:00:00 GMT",
+              "publisher": "The News Minute"
+            }
+          ]
+        },
+        "gdelt": {
+          "state": "failed",
+          "attempted_at": "2026-10-01T00:51:10.558855+00:00",
+          "error": "HTTPError HTTP 429"
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "ad6002e68ec1f903589c": {
+      "attempted_at": "2026-10-01T00:51:35.339199+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T00:51:16.800730+00:00",
+          "items": [
+            {
+              "title": "Khuda Bakhsh oriental library to digitize all 21k rare manuscripts - The Times of India",
+              "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQXdWc1E2SUtXNXRjalNQMHVGN1N1dmxhQ1g5bTFVT0I4NXc1bG5fbVFJMFB3RUdWem1kSHpvTjFEWmZWa2NZZGpma2JpSlQ1UmpMaVF4RFZMaGMyX2Y2LXloenNZdjNxXzhPcTNwMUFSLWZRQlBld1g4Z3M3NlJHOGpYdDBVZFVsNEtuUnVURms1ZDBDb0FlakZoRDVpc1VzSG5rclFkd2JSZ290cno0MEt0YTNOSlVjZ3JPdTlDaGJDNWVTT1h5c29nODNUb1R4RXN2Slp30gHbAUFVX3lxTE5WSU80WjJvREdtaEI1aUs1cWdmUmRoN09UYjhxWThnWkZlbk5DajRBNGJPSnFsVVRNQ2h5dkx6Y2xuVm9KNTUwWmxRX0F1Mm5zR3B3Qy13VTJsOVY5b1Qxa2hPNHFWa0RIaTdYZ3BNRlNKMmlWWWdPY1duX3VqZlMtNXMwc1JsLTJRQzNPZkg4T3dpbVZYTXdWOHVObTVSZ1dXZnYzc0UwV3FaVlJSbFQ5Uy1mRzhxeV81Nkw5YWlldDhOcVNqU1NmZ2hpTEJFNVlweFRod0dsWkxFQQ?oc=5",
+              "published_at": "Tue, 10 Oct 2023 07:00:00 GMT",
+              "publisher": "The Times of India"
+            },
+            {
+              "title": "Khuda Bakhsh Oriental Public Library: A treasure trove of rare manuscripts, books - The Times of India",
+              "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUEJ2ZF9WS0JENTBsWHlnRUZBMHVDV1BZY3hMWF9mRDh6THFpSGdoZmJfbWhqVy11aDA1SXJxSlN4bHd0THFsb3YyQmNtbnBwRDRhcG5fWVhmaEFWZ25iTGtmbmNkQ2VVTTFRNmVZUk04N1FjMnZ3cE1va003em5KdVZENERGWmFSZFhzNEl0VEFHY0FPMWxxVVZKX3ZJWlZmQS1TUE1vQWNWTEFTa3FDdlE1ZW9OTGlWeFdlc2pTZjlDVklBdkhIdFAtQ1pnNnd3NEh6djlIczZ0ZDhfQmpibTJ5eF9OUdIB6wFBVV95cUxPbmZ1MUFCZkVKYzVlbjlkUkpHaE1JQ1NaVU5pMGhwajQwcDJhOGZvUWo0bnY5ZmdmSE9wdWl1WnpDYW9NMlMzZk82VWVGdFBSaFQwRUhYUHVsTzJBdlphMkJLTl9jejlrcGRxdXNsVnJRRkxtR1Z6TzVYd0llRnJtbkxOZkdRWHZzTUh1QXM4RzRHbzg2RC1kbFQ5eEFqak5uVTZmNjEzeDkyZU9BVEtMUUU0OVlWbnFpWUhPU0JkOGtsdE1UNnRoWGhpa0NMUjFWQkpEcEZkRE9zXzlLSEE2RnYyRzZmUnUyOV80?oc=5",
+              "published_at": "Wed, 30 Mar 2022 07:00:00 GMT",
+              "publisher": "The Times of India"
+            },
+            {
+              "title": "Centenary seminar revisits Gandhi’s praise for Khuda Bakhsh library - The Times of India",
+              "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNS1NiUEFTd2pIRDBUX0VLeXJySUlwQi1neW1pSWdBRG84Q1ZzeHhtU2FpT19wTU9ueGZOcWRRcGI4MjAwS0NKZW9QT2FSc05ITWkyVUR0dGNGcE1RTlNnRnVxZ3llSU1WN0V3bGU2bkRkNWZsZjJ6OWw4X2hvZGZuUnJZNXduWTltV0dFUkUyRmZCbmFZRmMwWWdkcm0zZlQydkdEYWhXN3c0c0x2ejQxWWpRZWVxcERySm83RXhJZDhvbE9FTG5vUnFFZWFzem9UQ0ZFN0pQRzdrMjDSAdsBQVVfeXFMTUtTYlBBU3dqSEQwVF9FS3lycklJcEItZ3ltaUlnQURvOENWc3h4bVNhaU9fcE1PbnhmTnFkUXBiODIwMEtDSmVvUE9hUnNOSE1pMlVEdHRjRnBNUU5TZ0Z1cWd5ZUlNVjdFd2xlNm5EZDVmbGYyejlsOF9ob2RmblJyWTV3blk5bVdHRVJFMkZmQm5hWUZjMFlnZHJtM2ZUMnZHRGFoVzd3NHNMdno0MVlqUWVlcXBEckpvN0V4SWQ4b2xPRUxub1JxRWVhc3pvVENGRTdKUEc3azIw?oc=5",
+              "published_at": "Tue, 29 Sep 2026 17:14:00 GMT",
+              "publisher": "The Times of India"
+            },
+            {
+              "title": "Bihar: Do not demolish Khuda Bakhsh library, INTACH appeals to Nitish Kumar - The Times of India",
+              "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRGJkazZuV2NkQjdUaVJvVVJZNXkwd0dkei01ZDkxYXhFV0NvM2laZWZGNzFaQlM5QmVrd0FBdHI5VVdTQWhLQkdhTGtDX05vTzliMnBzN0xIX3lsUzFvWEJWZEpzTklxd2Y0Nl9uaFhuenhoUDBzTnZCVnp2VS1YTFAtQl9tdTdGUjhIYmFWNTFKamt2NVRvTFZwYmNsSDNYR2FfUDl2ME8taWxXU284TjN0TEFjNUpkLXdEOC1HQTA5QzhkMjBkQVdEYW1nUdIB0wFBVV95cUxNLXI5SHJDam9FQW9aS1FEMlB5WUN2dFVrYVlrX1RRdzlmTEJpZHExUXRqVU85a1ZzZlJUbTVXWFlOUWRwbUdsQUhOc29qZ3hqQjk0MG01QTEzYi12YUNEMXlSSTNfcERhSkRNMUVaTkxHWUxwRVhsbW9vbHozZUFzS1FLY21SODVhaTZaUjh5R2NaUFdrUnF6QUFkSlJ6QkRKaDd3b20tTVBkcXhYT3pPUC1CZ0VEcU9CbXhyQUNkOGVzWEI0emtxWE9CM3BkdFU3dWxj?oc=5",
+              "published_at": "Sun, 04 Apr 2021 07:00:00 GMT",
+              "publisher": "The Times of India"
+            },
+            {
+              "title": "NIA arrests Assam man from Palakkad in terror network crackdown - The Times of India",
+              "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeGlheGtDRVpwMUpLRlZwLTYzaFVNOUF3S1doeUN4Q3ZVTnc2ek9hQjRXdWxBQTh4YnlrZ0RfTUNIVTlmQ3lPbkgyRmJTb0JGbFZDclhKVTd6UG13cXV4WFhadmZXZHR0N2NfYWhGSldnR01zSzdpNEtfTE9ldmpUdVlVS1hYOFpxbE01OTF2REJvQmhvNHlvb1U5YXVER3d2dUdrWXlXN2p0cDJnVWNWY1lQMVdQTUx2d1pOUk1FNXVGdzBqbWowdFJpNW5vLUJDV2wtc0FNSdIB1wFBVV95cUxOeGlheGtDRVpwMUpLRlZwLTYzaFVNOUF3S1doeUN4Q3ZVTnc2ek9hQjRXdWxBQTh4YnlrZ0RfTUNIVTlmQ3lPbkgyRmJTb0JGbFZDclhKVTd6UG13cXV4WFhadmZXZHR0N2NfYWhGSldnR01zSzdpNEtfTE9ldmpUdVlVS1hYOFpxbE01OTF2REJvQmhvNHlvb1U5YXVER3d2dUdrWXlXN2p0cDJnVWNWY1lQMVdQTUx2d1pOUk1FNXVGdzBqbWowdFJpNW5vLUJDV2wtc0FNSQ?oc=5",
+              "published_at": "Tue, 29 Sep 2026 17:52:00 GMT",
+              "publisher": "The Times of India"
+            },
+            {
+              "title": "NIA arrests six for ‘jihadi’ activities in Assam - The Times of India",
+              "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQY0JHQjd1NlRrNl9KNE5PaEJTV1dZZUR0U1FQSmkzZWhOc3FmVVFyWVlzZnZhbUt3VFQxQ21OdU5RX1ZzQVBhTV9ZTG1pV0ZqaW1vdmtWLUNST1JxSHRIYVAtUEFzbnBCYXdxU3hUUUlLMmJHUk5KVGdOTmR0b3Etb2hwT09maXNVWllwUzk5NWlKR29QYmxWU2Rob1E1cUFjMEhaNE5yeU50RFphZjJYbThOa1pEeFl0c01qbHE5ZWFudEdm0gHEAUFVX3lxTFBjQkdCN3U2VGs2X0o0Tk9oQlNXV1llRHRTUVBKaTNlaE5zcWZVUXJZWXNmdmFtS3dUVDFDbU51TlFfVnNBUGFNX1lMbWlXRmppbW92a1YtQ1JPUnFIdEhhUC1QQXNucEJhd3FTeFRRSUsyYkdSTkpUZ05OZHRvcS1vaHBPT2Zpc1VaWXBTOTk1aUpHb1BibFZTZGhvUTVxQWMwSFo0TnJ5TnREWmFmMlhtOE5rWkR4WXRzTWpscTllYW50R2Y?oc=5",
+              "published_at": "Tue, 29 Sep 2026 18:02:00 GMT",
+              "publisher": "The Times of India"
+            }
+          ]
+        },
+        "gdelt": {
+          "state": "ok",
+          "checked_at": "2026-10-01T00:51:29.339044+00:00",
+          "items": []
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "e92496f25dc91225b671": {
+      "attempted_at": "2026-10-01T00:52:04.523996+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T00:51:35.571016+00:00",
+          "items": [
+            {
+              "title": "UNLF members sentenced to prison - Behindwoods",
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdk1pUlBLSi1JaERFcEdzdVdBOGhITnU2cjNZdjZZMWh3NFJ6OFRVQXNQOXJuU2Q3RjdqWlNrem42V1lSeHdCZ2NSMGVib20ybEkxd09qUzVvYTR1OVVZM2RaWVlCOUl3QTVTSmhIY2ZJMWcyTlplR2wtdXoxcWc2T3JR?oc=5",
+              "published_at": "Sat, 23 Dec 2017 14:58:04 GMT",
+              "publisher": "Behindwoods"
+            }
+          ]
+        },
+        "gdelt": {
+          "state": "ok",
+          "checked_at": "2026-10-01T00:51:58.523850+00:00",
+          "items": []
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "55c1c351610a5039ccc5": {
+      "attempted_at": "2026-10-01T00:52:21.967461+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T00:52:04.749201+00:00",
+          "items": [
+            {
+              "title": "Leaders of Naga armed groups in India's 'most wanted' list - Eastern Mirror Nagaland",
+              "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZkZXakExM1cyMFZTYUhGcUxYOHVJelVRb3R4dTR2bXdnUjlsWFZkMUFJZUJNeDktTFhOYVpud3JHa01EQmpDRFA4OEdBMEMyNC1vbEF1TDJfcEgwM3FwbzRlSDNWYVRNeDEwRTBVTktNZ2xZT216c2tHRDM2Q1g2SDRpcWZFS0Q2ajFDeklwdE5RcWM?oc=5",
+              "published_at": "Mon, 22 Oct 2018 07:00:00 GMT",
+              "publisher": "Eastern Mirror Nagaland"
+            }
+          ]
+        },
+        "gdelt": {
+          "state": "failed",
+          "attempted_at": "2026-10-01T00:52:15.967299+00:00",
+          "error": "HTTPError HTTP 429"
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "c8e521d5ffea52f6d130": {
+      "attempted_at": "2026-10-01T00:52:39.033418+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T00:52:22.198534+00:00",
+          "items": [
+            {
+              "title": "Prime accused in Kohima terror attack arrested in Bengaluru - The News Minute",
+              "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMjFTUWxnQllBYlVHWW1FMmhLRGJOSG5WTTZWbU1jTmZjWlFRRTYxbkRnd0tkeDdweFEtSFJrNmJSTTdEWVdpelBybUVxQ1RlUWZEQUNWeHJjemU1ZHl4Yi1OQW8wQUlSYUpCRmNLQ1JWbjNzX1JtVTFwSUtoWHFDaDJHSXY4bURNR0NYSWt1T2Y1el9lUGpVNHRNRlktd3Fw0gGuAUFVX3lxTE9sT2R5c3ZRUVJ2a2p1ZFBkY3FJNVFDTTdwMlRnLTBuVFA3U3lhTlNMc19KMVo0VnJkX3JOZ1lyQklqN0k2REEzTkFMcVUwM0I1ZHZwNzl1a1RBOFlhaGtHYXlvSzNQU3RHZndRMEU3V25GNjJEY28tbXZDTGwzMGJxMEdRSUY1Ul9TS3lqTmx1aUxJUzZCMmZJVEo0eFNpREs2RnN3N0xyVElsTEdpQQ?oc=5",
+              "published_at": "Sat, 26 Dec 2015 08:00:00 GMT",
+              "publisher": "The News Minute"
+            },
+            {
+              "title": "NIA arrests NSCN(K) operative - India.com",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xSGdDSGt0MVRxWlZBWTE1ME5lQTRDZjlLUHVMTlhEN1gxRnRjanFfazZaaXI0TzlZd0VfTTh5QkNuRkNBM1IyYmxHNzBjWno3b0k0VHo5TkI2b01OWWhqeURpRlAwaDE2NThIaUZUVTd4VnF1d3Vr0gF8QVVfeXFMTmNLN3lpLUNjdVVVbHFUelpWWm8wWVowMDhYNS1EM2tmWnM5Wmp6MC05RVJ3S3RmMWlTVFNMZk5Nd1NTUGRONHVBaTJSNEVHdWJGQlhORGtWQmhPUjBPTDNGbzc3eFItZThIdkpNUlQ0eFgxemRjSDV4cXg3Zg?oc=5",
+              "published_at": "Mon, 03 Aug 2015 07:00:00 GMT",
+              "publisher": "India.com"
+            },
+            {
+              "title": "NSCN (K) wanted to attack Army in March in Kohima: National Investigation Agency - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeHVYdUsyN2VCX0dRbWR3VENrQVZVZGEwbFRjcTRjbURCdUswaU9QVEFnY0ItNFhCQnVEckdsUDZxNnEyUWZQbDZZVTVFTGk3aDhwZzFxUjJyd3ZhZlVwZERJbzZRSFFoVFFSbG80UVlZaXNWU3M1aXhwbG5rMEctd05fUXY3bUxIamdsX2dzQklYMllQaTJxTXpjQUc0TzZjQlZNR2dwYV9RRFVsTkM2bUZ1Sm53UGs5MUViN1FEaWwzd0t1VDRWSXEwbTRTZEo2cF9jWnkzRVBBNWfSAeABQVVfeXFMTjB3eUlrWU13VGNoQzFySTUzNzBkMko2OVljVlg5TnA3RFBZcVNQQU9GVEpXbzAwa2lxaXpjVDB4UUNxWVRlMWxGa1lDLXgxclVyZjcydGVSNFN1MUZqZW8wSHRfNVpLNUNETGtXMGU4Z1d5THhfM05DdXFsa1VKMlVuZkZBLVhpZEc0YVlGVFpMMGtnN3R2SjEwLUhVS2cwVGQtQ2w4VWtYcmpBTGdaT2xXd0RUSmc4eHZWMHBsRE9JSjJHOGpQdEYyRE9NdHFvNkJMdUx5cHdUTWhpaVJleS0?oc=5",
+              "published_at": "Sun, 27 Dec 2015 08:00:00 GMT",
+              "publisher": "The Economic Times"
+            }
+          ]
+        },
+        "gdelt": {
+          "state": "failed",
+          "attempted_at": "2026-10-01T00:52:33.033261+00:00",
+          "error": "HTTPError HTTP 429"
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "9a12222418a4b6d06b89": {
+      "attempted_at": "2026-10-01T00:52:55.693538+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T00:52:39.307050+00:00",
+          "items": []
+        },
+        "gdelt": {
+          "state": "failed",
+          "attempted_at": "2026-10-01T00:52:49.693354+00:00",
+          "error": "HTTPError HTTP 429"
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "8cc275cb45ad4bcad1ca": {
+      "attempted_at": "2026-10-01T00:53:12.586414+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T00:52:55.931096+00:00",
+          "items": []
+        },
+        "gdelt": {
+          "state": "failed",
+          "attempted_at": "2026-10-01T00:53:06.586252+00:00",
+          "error": "HTTPError HTTP 429"
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "948dd5104277655e82fc": {
+      "attempted_at": "2026-10-01T00:53:28.225099+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T00:53:12.887209+00:00",
+          "items": []
+        },
+        "gdelt": {
+          "state": "failed",
+          "attempted_at": "2026-10-01T00:53:22.224951+00:00",
+          "error": "HTTPError HTTP 429"
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "256dcad57b810f792894": {
+      "attempted_at": "2026-10-01T00:53:44.562757+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T00:53:28.465454+00:00",
+          "items": [
+            {
+              "title": "Maoists admit Telangana unit chief among 18 dead | India News - Hindustan Times",
+              "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYXhlaWJaZHMyc3VhTzFrZ09xemFjWTFUbVlLVHZncnhRLXJKMEE0Smx0T2NFa19EQnJzNG1FWGNzMlNkWmdyZ3RKVjJWM2JsRzFCZU1rOWxEMEhqQVMyZHJ6cXNwSV90bTVJanhNQnJJQ3h3OUJ5Q1BqTlBVT2RCR2VpLXBqMzNSNXRCRkhibVo4T2pOLVBUS3JyU1duRU1hLUtrMmw1bzR4dEd2RzM3RtIBtgFBVV95cUxNSkU2SWVQWjhuS1lZaWtHUjBSenZLczlDTDNROXpRN3JlQ3g3bE9EZHYzclZnOTA0aGswOEhGRnpvcTVtTUJSa2YySF9NeXowa3I2dDFZU2R1ZVBzaDU1SVFSR1dwQXJGVTRpRlJpQUR2QWtkOWw3UzJmc0NNc1NMT21MWHZzYkw3WGxjRHA4cjlyZHJIaFowRWNfbG5iM3ZiLWZyVU9wVXp5anFJR2lTR3dJTHBXZw?oc=5",
+              "published_at": "Sun, 19 Jan 2025 08:00:00 GMT",
+              "publisher": "Hindustan Times"
+            }
+          ]
+        },
+        "gdelt": {
+          "state": "failed",
+          "attempted_at": "2026-10-01T00:53:38.562611+00:00",
+          "error": "HTTPError HTTP 429"
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "46bcc54bf8b3fe96483c": {
+      "attempted_at": "2026-10-01T00:54:00.847949+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T00:53:44.801013+00:00",
+          "items": []
+        },
+        "gdelt": {
+          "state": "failed",
+          "attempted_at": "2026-10-01T00:53:54.847805+00:00",
+          "error": "HTTPError HTTP 429"
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "76144cfd1047e5165c9f": {
+      "attempted_at": "2026-10-01T00:54:19.336200+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T00:54:01.134094+00:00",
+          "items": []
+        },
+        "gdelt": {
+          "state": "failed",
+          "attempted_at": "2026-10-01T00:54:13.336041+00:00",
+          "error": "HTTPError HTTP 429"
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "ad4189dccadc0fcd8eb9": {
+      "attempted_at": "2026-10-01T00:54:37.022929+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T00:54:19.599610+00:00",
+          "items": [
+            {
+              "title": "Leaders of Naga armed groups in India's 'most wanted' list - Eastern Mirror Nagaland",
+              "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZkZXakExM1cyMFZTYUhGcUxYOHVJelVRb3R4dTR2bXdnUjlsWFZkMUFJZUJNeDktTFhOYVpud3JHa01EQmpDRFA4OEdBMEMyNC1vbEF1TDJfcEgwM3FwbzRlSDNWYVRNeDEwRTBVTktNZ2xZT216c2tHRDM2Q1g2SDRpcWZFS0Q2ajFDeklwdE5RcWM?oc=5",
+              "published_at": "Mon, 22 Oct 2018 07:00:00 GMT",
+              "publisher": "Eastern Mirror Nagaland"
+            }
+          ]
+        },
+        "gdelt": {
+          "state": "failed",
+          "attempted_at": "2026-10-01T00:54:31.022756+00:00",
+          "error": "HTTPError HTTP 429"
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "d2cfaa7f42316ebce227": {
+      "attempted_at": "2026-10-01T00:54:54.060195+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T00:54:37.254978+00:00",
+          "items": []
+        },
+        "gdelt": {
+          "state": "failed",
+          "attempted_at": "2026-10-01T00:54:48.060047+00:00",
+          "error": "HTTPError HTTP 429"
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "447c5c78df847f2d99bc": {
+      "attempted_at": "2026-10-01T00:55:14.960561+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T00:54:54.311838+00:00",
+          "items": [
+            {
+              "title": "NIA chargesheets four accused in Punjab former Minister’s residence grenade attack case - The Hindu",
+              "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSmNOcXFtN3loME1PenJ1TGx1bTNhaDkyZkp5TlZVMVlWaFlibjc1QnY4VGVMWWRUeFlTS2Qxa2J4UzZJUm9zWFgtTFFfQTZYV29yNWRqNExqZkhkdkhSV1ctX2lNZFNLSUtBbW9EUFM0c3RQVWJubHdnTGtjaExpSGU4cWhVb0k5Z0ZuT05PekN0eDJGclVCY21URmhsOWJ3Yk5HeHdOUVdMNHd0bmFLUTRKQU5sTlFFTXVOTTkzU2dQeG1RVlZzWEpsZlh0UTZZc0djLW9aWmNKY3dSUWfSAeQBQVVfeXFMTTRKZDFNWU1sc3hDeHJhRWhCbHlpekNxVDQ3VlJZc2R4blB4MHgtMXF2WFFidUktOVE1S2RHbkMzOG9YX3ZfdjNrUFNKbWIwa0JyUGY3ZHFrRmZob3lSN1FycXJ3cUVBSnMxM041SGNYUHNQcEZtQlUySm50OEpnX0JGVUxhM2VkOXhFb29hU2JwbUhhY1BiQ1FadkNvcG5MM0pwMnY4VE92RkhxN2dyWmVlWS16SW1wQ0tXeUpMVVRpTEF1M2gzMFVzMkdZdmw5WkxFSzhLMEFkbVVzZmtZR2gwS0t1?oc=5",
+              "published_at": "Sun, 05 Oct 2025 07:00:00 GMT",
+              "publisher": "The Hindu"
+            },
+            {
+              "title": "₹10 Lakh reward for Khalistani terrorist Sidhu: NIA hunts clues in Pilibhit; sent boys from UP to Pakistan - Bhaskar English",
+              "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQekloblBISG1KdzkwQk1xMHl2NDlKdi12TTl0WktaMTlrNFFocHptOF8waTY0TUtKQ0RJRF8yMk12MllaendKNjRQLTlobWVYVzBLTUZpa0RLSGMxaU5LU1M2NVVuOGdySVJuelZXUXN3ZHlqdmVzUTgyd1NoOWtWSVlXMjhBdUgyTi1tYWlIX0s1bm85eVg2cG9ib3I1MVZHdS1FRlF1VXA5U2tqUDdtbk1OUXNzN29kQkYyakJta01MNjZsVEUw0gHMAUFVX3lxTFA2Yk1fNG5lMWNETTJDRkM3THRVeHhIRC1ldktEV09QZnRLMG1uODVXeEJlZ0ZTN3pCLWRqMHRNMWs4amtCdFhaOGV1N1dUbTJEaDIteWs2Y3QzcjEycWxrWXBiSlRkaDFINTEtZlNWc3FTOW4wd0Nrb1dyaG9BSDJhdWJ3dDlIUFZQTzVUZGk2eVBaV0xRam5aOTIwSmVqRUlrMGdISGRaRUx6MWg0LWdFejR0T2pEdEJ0c1c0Zm92VnZ5aVhnVmV4MmdrdQ?oc=5",
+              "published_at": "Mon, 21 Apr 2025 07:00:00 GMT",
+              "publisher": "Bhaskar English"
+            },
+            {
+              "title": "NIA files chargesheet in Manoranjan Kalia’s residence grenade attack case - newsonair.gov.in",
+              "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdkxobnMtVzNfWG1oYlNhV3EzRFJjd2NyQk1OaC16a3hZa0ppRFJRWTZra0NYNE1UWkx3cGo1OUFNeTRseWFpLTJLN3RUUVh1TDljMDNVUTRiYXk4V1VXRU9idndCVGljejF2UUwxQnRacVRMdVUxMlhTWG56OUhGeU5aVjBQdVFVeWRwNlFmcHdGb2MzdkEzMjlNUDZMMmc?oc=5",
+              "published_at": "Sun, 05 Oct 2025 07:00:00 GMT",
+              "publisher": "newsonair.gov.in"
+            },
+            {
+              "title": "UK-based operative with Rs 10 lakh bounty linked to terrorists killed in Pilibhit - India Today",
+              "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQWhnVDZmRXUyY0ZnTDg2dVNyOWk0eVA5MThobzFiYVpOZ0trTDFwbTBabXJPaG55S3otZDFTNUdydnl2U3c0WDR5aVRJbUdENXdYMzR3SHItcG1VSDlEV3dPOTFBSzlQOEMtUFhCbjEtdWRhb1NwOGNlYnFPLTJyNzNJQUhRUVhWUG9WQ0JIeWNsZmJTbGdnVlA1em45UDdoLTFzNzdCaXl5em5PdXpISGt0cFQybnVwa2dhRG1pSE5ObjA2T0w5Tzg2ekVzdVZmUDVMRl9XVGlZWmo0bV82VDcxZmpLcUNER3fSAe8BQVVfeXFMTTdSelZJS0E5V3RoTFhlRWxTNjUzYUVqTVUxUDdRTXdUWm1aMlMyVkdzdXlaVlVqdjZ2eGQ5WmpxMFpIV01rY0M5VTM3LUVYMlhVbXhpVUxVMlA5WFN4VFZVcEJPVXlOZ2xnOFRBZDlqeUJpR1lka2xrMnJLVG81TTVweU9xMjVNSGw3N09IZ0hBQUk2aHB3MU1RX1g0T3R1bWlmNjdzN0NHNy00Y2lQQTlKa1RJNVdwYm41elItR0hMcm5OTWxpUGxKeVBxVFRBN2oyM05uRjhxSVpLUTB0X0RNYmktQUJUY21aOUZpS00?oc=5",
+              "published_at": "Sun, 29 Dec 2024 08:00:00 GMT",
+              "publisher": "India Today"
+            },
+            {
+              "title": "NIA raids properties of Amritpal’s kin, aides; gadgets, papers seized | Hindustan Times - Hindustan Times",
+              "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVER5UEZSN3F1c0tJSXhhbFdvUlhoNEQ0aGU0TkRtTWRqaEVHNnZfZUNxQXBmU2loUGJwR3ZHc01VY1FqMW4tMU9EeWVFRk1hQjRYeGRiRVNxbER5RkpQSG5qWkktUDJPSVRwZkVvRWNmdTN0c3IwSWpac0paM0tIY241WnVRbkQ1LVJvVlJITHRGQURMUXhJZ3BpYkFPRGtxSWlxOEprWmU5R1lSSFNiU0ExeGgyUEctdGFpTVlZTjBORlZoWmpuMy1qaTU2SFUyRnJZS0x1NXLSAd4BQVVfeXFMTTJUTER0WFlhZWpuZ1F0blJOb1NybU03QjdjRWJCMklXbzBXY2pQLWxLUFdNVl94dy1aeTZ0UDc3QzlnbkQ0UVIzZ2l0ZVJ2M1UzcjRPSG1CdWpCNmVXeWR3NGRHalhKZUp3UGFnbHF3M2FKN3lBdFNKb3dvZ0kyWEZuQ2h2dG04T29BXzA3S1d6VGZOTDJXM3JNM2QwUVRxUnc1QWxKLWFpTmFmTTZwVGIycldQTE4yZExJZGxvMjNvSmxqdFFkcl9JSEplNklSekRpT1kwMGl3YWRya3Zn?oc=5",
+              "published_at": "Fri, 13 Sep 2024 07:00:00 GMT",
+              "publisher": "Hindustan Times"
+            },
+            {
+              "title": "NIA chargesheets four in grenade attack on ex-Punjab minister’s house - Greater Kashmir",
+              "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMG1ubXlQRm1wTFBJQllTN1pTbS1HbWJuX0xxUjdBNHJDS0RYNE4wT2EyRTFoUVZoUXBZRmJ4ZHpVeFltNS1Hb1JtTHdjcHpjWk1MTVl4ck9PcURBX0NwMzBzM0VOY2JUMmtsemlveEsxYl9VYXgyc016akY1WVFCTXZUWnFzdEV6SDJNcWREOTFSWnMydVUwVVg5ZWpSSHBDQThLTHUyeHBNREVpMmpUWEp30gG2AUFVX3lxTE5TTE50OTZkRy1Ha3NuRDNrTmQ0dHBSQzdEYWkzQzljY2lrVmhkbGVUd09vbTlkbE5PNHpWTmdiT0ZYem96LXZ6YmVnQ2ItVWR3bEcyTWhNTE9GdFZFLUhXTXhCazlhbC1jX084cEo0Z25CSVJPSkZQSmZYcllMX1FDRzFkc1AwQnVlMUQ3cmJ4aFhwbmhzaS1uVzN3VFMtQ2lNeFYzQ0laOV9sNjZaS2N0clZFNFN3?oc=5",
+              "published_at": "Sun, 05 Oct 2025 07:00:00 GMT",
+              "publisher": "Greater Kashmir"
+            },
+            {
+              "title": "NIA chargesheets 4, including Khalistani operatives, for attack on ex-Punjab minister's house - CNBC TV18",
+              "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOV2VoRVc1bTBXMXUzZ3FBUEN6WWJ5bThIWVQwdzAzMWdDNnFQMHd3aXR3OGlJOWRwTkQyWHU1ODkzMnRsYmFkcDdjVi1VLVpyRmZtbW8yOENQUGg4RVlEaVpsWGpYNWQ5RGxWazEzQ2xJajlqUzc4a0RGYkZPZS1tOGFiWGhWQ0JlYjZRR240MThjU0h1ZkxtYXZNNHhHR1lzS2pyWjNnRVYwTDdyUjhqUVFVTzNkVEJIdzkzd3lFQ3pZZEczR2NMLWNmd1Vxbm1reWp1LXV30gHbAUFVX3lxTE5kV2NrLW12WWxXOTQ5S0h3QWcxR0szWWJUZ3VDelRtWWRBWjJENU5scnNTQV9Jb0FoMVhSZHVKbUdoTVQzRC1uVWpRTm5Sb0gtLWZzZFhuLUtOeEdaUkRucVVaSDVZMTAwNWJrd1FKV2otRC1TWXIzWEV6bUR2STNCX1NBbVRhZFpia3IwYlZmcEJnWjdQYTlOR2NNek1lTFVaWGhiSmw4emMtLU9WaEpvR2RzYlFZNloyQWtLV2c3LWEwanRuSFVPb19NTVBNWmc5SHBZU0dSUDNsaw?oc=5",
+              "published_at": "Sun, 05 Oct 2025 07:00:00 GMT",
+              "publisher": "CNBC TV18"
+            },
+            {
+              "title": "NIA files charge sheet in grenade attack: Former Punjab minister’s house targeted; 4 accused named 3 from H... - Bhaskar English",
+              "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPekJHbzB0Y19iZEFnd0dzZDRaSXlTZ0Fac09iY0xGTk52R0FlOC1IZFU4NmxhT3NBRm8wbnJCemgtck9SOXBSTXJoclFCTFZ3SjNsMjY4dEhaUnJJYmN6bVBjT1F2elhSN25RVTd2bXMwMGF2VGVOTFdMSFNxdWR2anFrREI3NjJGa1ZWRHkyUE1TS0pXaWtXTXNmSEtBcVdnai10dm9mdC1oYVFuUkd2c19hWmpKeUpKME5wS3FNNTZBUGFFYV85dnhuTHNIS2xMdzFqcFJDc1NCY0ZVYW5rTlpUQzdtLWlMZE9YMXRZblVCQ2dzYU93QtIB_gFBVV95cUxQeVlUcWVwSlF0RlNldUFTVVF0bzI5dkxUTW5sRGwwTmhMRGF1WlFfcXNsbHh4U2Y2d0R5X3ZSdVNYNmtkYUlnaDFWVUotUEpYTy1HZ1c4RWRUS2F2VFpkWXRlR0JINnpEQlhVanFhTmIzOXVSQ0J6UkxJeEJXWTRNQV9DN05JQTRJM1NKSWR1SHpQWEdpUzY1RHZiS1ZWbC1BWTFKTjFvZExKUk5qNXpINmwxNk9ZWmlPbmRpa190Y09rVGFWVjZZZmJpTlpUOWpuSHdkeGJQU3NEdE1WTWFhcVhkZnZXd21YeU9iZTg1aDRyYjJKUVNNWklkQmFJZw?oc=5",
+              "published_at": "Sat, 04 Oct 2025 07:00:00 GMT",
+              "publisher": "Bhaskar English"
+            },
+            {
+              "title": "Who is Harjeet Singh Laddi, Khalistani terrorist behind firing at Kap's Cafe? - India Today",
+              "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZXNlcy1LWFpwRUFzRFRuVURxZWgycXF3dmN5OU5SLV9TY3UwOE5WMEZ6OTRpOGllRnNkeG5VZVhWUENjU1EtQ01VR3RQMW54VHEtRDVNU1FvMXA4WE1yY29CWkRJVkh3NEIyZ2J4ZnRmZkVfNF9UTTJld3BXR1RFdmpRWjBoMnFVamNMVWRoS2tfcFBHaVFoSFM5TjE1SFo2elV2SDNad2lPZ1o1Y09Jb1QtSFZSaTZRVmF1MmxzZEhELW5lSFlDYlhtdUtkZ9IB0wFBVV95cUxQUGk2c3ZCSlVpanRRXzVpdUJLZjZFcGgxMW4ySUZzeURIb3BaWDBjaFdJaXk0bnlSbWJyLUtlZ0pDVnNjd3RJUF9uNmNfMVhob1kzTGNtR3MxZEY2LS03ajcwZzdiUlh2Tjg1X0hYWG5BeDBBUUJjdmJKWS00Yk85eVhObzhFQUstTHdVZm03RE5zOGM5UHlWUHJIeTg4by16TFBPamF4UnRzN2VFVUJHNjJPOWpGRWx0UkRyUVVvZHpBU1RGTHZfdk9Ea2tDaDhiMTZj?oc=5",
+              "published_at": "Fri, 11 Jul 2025 07:00:00 GMT",
+              "publisher": "India Today"
+            },
+            {
+              "title": "₹10 Lakh reward for Khalistani terrorist Sidhu: NIA hunts clues in Pilibhit; sent boys from UP to Pakistan - Bhaskar English",
+              "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeFhmMVZ6ZEhkc0c4eDkxc3VrOUEwUTlKcG1ZYlgwa0VnRTNZQ0pnNVh1S0RQR0FvTnJobnhVUm5aX1puTnBadFBmQ2hKMVFOUXNYREFlemZ4ZGZFVWFDUzkyQ0NwclRyTXNuNm9Ua204UjFTNUhRTFpfay02Ym90LTJoRXZsVGRDT2ZITTh4MDNZWmNzUzRBdEtCLU5NQUFjMDk1THo1dFFfdEhZbE9iZjN6cW9hV0hWRkgzTDhhWXd2azNYYUZWQQ?oc=5",
+              "published_at": "Mon, 21 Apr 2025 07:00:00 GMT",
+              "publisher": "Bhaskar English"
+            }
+          ]
+        },
+        "gdelt": {
+          "state": "ok",
+          "checked_at": "2026-10-01T00:55:08.960407+00:00",
+          "items": []
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "16ca12bf89eba4dacac9": {
+      "attempted_at": "2026-10-01T00:55:32.931930+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T00:55:15.278390+00:00",
+          "items": [
+            {
+              "title": "NIA files charge sheet against 16 foreign-based ‘Khalistanis’ - The Hindu",
+              "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZG9nX1dnNUZVZWdFVHVJOEQxYjhSTDR2R0dET0RzamVUcWJQVTRYRmZYRHY0R29SbExGVXdSanRjbXBpUVlWU2Q4VUMxT3BLekc3RDk5allVV1h5bmhrVjVsQnRLeGJwaXRzNklYaXA1ZGI2WkR1WWJWaldLR0dWSHYwaTAzQXAtTk5HWFF2VnlfU2ZadFZPcXRGX2lyaGxCV2FZWE00Wnlwc1BKSmZuSmRYM1ZkNERr0gG_AUFVX3lxTFBkbGEtOFZOenFzQi05dUlMTlZETXVKV09udy1fYzZCOHNnX2F6Nm1XcWptWTM5UVY4SEJUN1g5YkNybU1wT0kzd0JvYWR1djBGekVlUXhvbnZwQ2VfSmlaMnRWQmFyaXdkOWtwZHFrNlVtZXNUTHMyZU81emlWQ2w0c2JYelgtNlBsR3ZrakFqSEZ3aVRXeVU5cWlTd0hQY0FOeWVFOFAxcVVlcXJ4SjBHdl9acFBmSlR3Z3VpbFow?oc=5",
+              "published_at": "Wed, 09 Dec 2020 08:00:00 GMT",
+              "publisher": "The Hindu"
+            },
+            {
+              "title": "Properties of 19 Khalistani fugitives likely to be confiscated, says NIA - The New Indian Express",
+              "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcGpGcDlEU01sOV9XZHpucEdDN3Y3ZndMRHRmd2RWeFVZSU5CU0dBenVPZWlRVWVoeU5qYUE1RllKT19YV2lhUFFpcWVyZ3pLb2dqSUdOcUNYbEQ2NzBFR0VTZVFkYndWTDlKTVBGbmVicXREZXFScUhBQ3otVkNUcUNOQ1VGVXU0Vi0xVTBBNmNEVENMT0M2YlF0OWJtNXdSVEJzR3JqZnRRc0E3N2M2NnN2VHR3amlpN3hqNkYzRzFZVE05M2FoNy1LUTVKcWc30gHeAUFVX3lxTFBENWJHQ3dycUJaV3c1aFlKaGxjMmdjcm50TjFZVnNYNFZvdXYzM3dUYjF3UGdwTmhSbVFEUGh6NGUwMk1DN3dhcVU5Njl5LUJEU2hGTFZCb19paEh0NlZJTXFfamNjSjUxZlJpTGlELWxyck0wVTUzZkdEY293SUdKbmxleTZWSVFuOHF6RGJvbkxsMXdCMUN2WFVha21ja3hJMmMtTGYxMFZqVDR0VndZME1wcWkzSV9naVdBVXhyLUE0Tnd0ZjZ3X29BaVYzWWRNVTd6b042UnpNc3BIZw?oc=5",
+              "published_at": "Mon, 25 Sep 2023 07:00:00 GMT",
+              "publisher": "The New Indian Express"
+            },
+            {
+              "title": "NIA files chargesheet against 16 foreign-based ‘Khalistanis’ - theweek.in",
+              "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSVhHR2FXQ0haamNOWEx0bDZ3Z0ZWbFVzNDl2V1pZS3A0eDhick5GRkZpQnNaVjU2OTExUERESzBSMTVfZ2VSbVJpUUZrM05FMDdSZ0pHOGtTMEZBUFRoSHlVSzFBeEx0dk44SmdCVGVtYko3bktyUkJSWlNaN0NvUUxtdFhYbUdTUTVucGJLN011VzcwajlaLWVXLVlYM3kwdkZSZVRJOWx6SHEx0gGyAUFVX3lxTE52NXBCWWlIY2Nqal9Vc2tuZW1TX04tR3h1a3RyTlUwUE5xbU9NZ0FEUlBqR2xUNkY4SHNaYkZDSlhkdU5WT0h2OHRMV3Y3TS10d1RHY01SSUg3ZVBIeFJjbnRFOVFTU3BMR1dFNlI2MXo0N3U4ZDlERDdvYnF6MU9sLVhja3phLTRjekhDazQxc2JKeHp2VWtZV1pFUlNUWjBZSm53UXI5RGNqeWY5ZmFkM3c?oc=5",
+              "published_at": "Wed, 09 Dec 2020 08:00:00 GMT",
+              "publisher": "theweek.in"
+            },
+            {
+              "title": "Big crackdown on foreign-based Khalistani terrorists spreading anti-India hate - India Today",
+              "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVkdzazMxQjlpQW5rTW4wQnVqSmxuemxBNzdicklzcHY0eWw4czdxaGJaRndQdGVOUGNmOTNxczlHWkRQMlFfVTl0dDJFVDNsWlNMUlZUeF9HR1hCQzRVNVk0dTRyUWNfUmdjSE5waU1Lc3hZeDJqZXBpVHVFNmFYc0RhNHRmeDY5UnhQaEtLUm9zVFNlTWxBQ0I3RzhGRkQ0R0dKMlRPN09icXpvNkMydFc3dTI1SVd1U1ZQWkFGM3I4RkxrNU92SmhtNG5kVUF20gHWAUFVX3lxTE9ZYzhVZ2VhcGlFeDZ1aFlmVGc0WmlQM0pNejZYUWdidUhMTm5pOFRLcmVGd3NHMktJVnl1b2Fra0E0Wm05Yk9fd2tHdXdsQTVEUWFxTkVoMHNCQ0NFN1V2MTJJSTViVDV1bnNRcm1EVnZaX20xTjVuV2FSbHZFN184VXRESzR3SlRMdS1UUDZTWXQ3YjZXWTJDU0Q4NE1yT21RUTVZSmVJYWxqeGdXZXQzYlB5azdobmxwbk1DTjdRdVZSNHdaYVd4bjJsOEQ1Y1hRYmg5UEE?oc=5",
+              "published_at": "Sun, 24 Sep 2023 07:00:00 GMT",
+              "publisher": "India Today"
+            },
+            {
+              "title": "Former Mohali mayor Kulwant Singh joins AAP - The Times of India",
+              "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQV3BlX2hGdVBzNkZLN25UcWUwcVEyUkRSUU9lVDN5STF1NlRNemYzVVpFWXd2S212S19UaFhHV1l5V2tLQVd0cXZNSzhtUGkwS1Y5R0dCbDJCU3kzbGtscm1iV0hqSkdsYWViUlR2RFBxX2d1YnBQWld2WGlRY0tZbmhYNGowbzNZMmtTSUo5c00yVjlrbThFZ2YxcFdtakkxelBYcnFfNHB0RWNoMHFFTFh3UE1MYjhFbGpmb9IBwgFBVV95cUxOZ2pCalNNTkRoREQyWDRLeG5YRHZzZGd3amM2c09vZEFCcDA4UEdVMllVX0FVMW1EMmV6bDFSOTMxUl8zUWJBZnltd3VRam9rN2JOdk5xN2J0cnoxQnluaTJ0ZkwxVU1hZWhFOXdaeE8waDREbHpXdHpxc1oyOGJiNjhzOGNMczRJdFFHQ0FKcU5Cdk9DZ0xrTHBNRVFrMWRpdHdBVFVJb3NacTZiUm0xelhmdnA5S1FOS2R5QTNaSHdGZw?oc=5",
+              "published_at": "Tue, 28 Dec 2021 08:00:00 GMT",
+              "publisher": "The Times of India"
+            },
+            {
+              "title": "Seizing properties, revoking OCI status: India’s big crackdown on Khalistanis - Firstpost",
+              "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPSkdUaU45QlJ0T2FONVRlaUU5N1hYY2RqdTBpbTdWYXREOGRLU29malF4Z0JGTmxISFQ4ak9HQlpBSE01S1h0LTQ2amZiSlZHSnAyckJEVHB2cFdHbHRHbUVTZEJXSW5rZkJ5YzNxQVJCMk5nMXREVkJMakdlbXR5T25WSUU4XzBDZ0tBYjI1akYwVjZqdnpLTVlMY1cwanJCQkh1R2d6Y29adEJxNjNHTk42cUtHaVpJUm1HMW51cDlLYkpGNkhDNVp4a084bFZlYW15bjNwNzRITkx3b2tucVhrVzdnZWhFXzExNTBhbkNMcUJZLVpWLXF0dU1JeVpSWTFxQnhOQQ?oc=5",
+              "published_at": "Mon, 25 Sep 2023 07:00:00 GMT",
+              "publisher": "Firstpost"
+            },
+            {
+              "title": "India's NIA files chargesheet against 16 Khalistanis based out of US, UK & Canada - wionews.com",
+              "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOb1RMOXFpX1ltNlpxSXRWYUpIcnZwV3N1NWg5SmRlc25xczFQRmNjcnI1LVplNnByNmxBeUNwRld2dnJ0dkV2SmdCRTFJSjJ0TmVZazB3U1dnSnJ2NDZXT0t1M212SDI2MHc3RzlIaF93ak1mSjFqWTJiLXNOUDYyVjUzSWZOclZHU2c0TWQ1OFRTLVlKYlpYNmIzS3M4eFF3M0NNZVlDaEJkRkozSThOemZZS1p0Mzh5U3NN0gHAAUFVX3lxTE4xNEZCZ2U0TDVscVRoR3hCbEpSZEZmbVExV3BpNXhGSDc0eG9oQW1icDQxSEc3dVNvbjZBRl9sUlMzcThhREdOa0ZNWnpkYkZseUhiRjRyZnByQWd5U05HRkZBZUNDdVoxQjVwTnYtZjR0ZGNWeEw3T1NFVF9HbDhZcnZfQmIxOXNnc0NkZmFnSVpUX0VuWGhiLW9WXzlPSjU5LTlNLWdQOXE4c0t0elpqTW9lWDZaXzJVcFNTUEpzWg?oc=5",
+              "published_at": "Wed, 09 Dec 2020 08:00:00 GMT",
+              "publisher": "wionews.com"
+            },
+            {
+              "title": "Dr Kulwant Singh Appointed SP in BPR&D - Legend Officers",
+              "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTVTVzUUYzV1N4b0ZqbmI4SUxzNFRtWFNlSzJYc1pVdmI4UjJ3ZFNnNF95X2RNMmRhMkhOSURWLXE0QzY1cGtneUFyc0RKYmlOYXpta2lvZ29xc3RKVENVR1kzQmlpdUMwRDJRSGFzUmRwVXM?oc=5",
+              "published_at": "Tue, 20 May 2025 07:00:00 GMT",
+              "publisher": "Legend Officers"
+            },
+            {
+              "title": "NIA chargesheets 16 operatives of pro-Khalistan group: ‘Promoting secession in Kashmir’ - The Indian Express",
+              "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTlNNSGZWaldJZjNJbU1VaUpQR1hHQ1IyamM1SFFsYm9HZk54V0lPbF81SFhtVFhSSGlwT01mU3h3SmlWaFpod2VUclZmczRJVWc1cExUUGEzMzZDWWpqbVdiWm9Kejg4T2pYOGI2OW9QVU5TdFUzLWRlYm0ya2R0OFd3RE5yMHNpc3fSAZABQVVfeXFMTXNEck5hR2F2WHJRTlNDcmdzWklQWW14akhiQnZhdGRXR3N1WUxBZERiSzdmNFE3TC1nejJOMzZTT0F1X3lobzdxUHpqam1SM3dTeUtfNUFVUjBFazNsSmZvU290U25iOTBLN2UtcnFmbjRZOTU3ODJubmw5Y3hDWlU2WWhndVBBZTJQOHRZa0p2?oc=5",
+              "published_at": "Thu, 10 Dec 2020 08:00:00 GMT",
+              "publisher": "The Indian Express"
+            },
+            {
+              "title": "NIA charge-sheets 16 people based abroad under anti-terror law for pro-Khalistan activities - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTFpyVTBSc0RWdTB1TV9FN3ZxejRNN2ZsclJPVFRQMmg3QU55VE5mOVM3YTVIRnFUdlJpMUVhUzN1M0hvSVlsb2doTHJWU0JhR05tWG9EdHZQVDdNbFlLdHQtdGZwLVBpRjR4ZS1MeWMtdmJpTm5lM2lUeEVfRHU0ekJyNDBZTkFyYnlGRzdReUZoNDMyMnkydnoxQjFkY3hjb01vaEhISnJST1prbHFaOG5IakNoejFubVJIUF9nRF9yY2pBQlIzdE93T00tY19xT2Nydi1qdWg2VGVWa3NDeFJacGNDRlpBRWNBNzdR0gHzAUFVX3lxTFBTVi1RUGJSU0ZVYzdPNG9KLVZmdWFWakFROUpXdHJBN1NQblp4aXl0QV9pdnlpYmNVdWFnbUNDUVFpLWlmSkFuZkJld1Zfb21LM3EwUDNyWW9EZ2RRMmJSS05LNVdSN3Z5MTl0bl9YQm1naTdrRDExd3lLbHExV01wX2V1dVBxWURQck9EM3JpcVRHWFk2N0tocDRvYVRyMHJ2NHN6WEZ4RlJBNmxqV1htSVdUQzlFTHlzYlY3NzZLWkVOdmx0N0JndEFtc3FMdElxbXJSY3NBSGl2TE5oYmxJTE1ha2NhNUhVaklvZHRSY2JGNA?oc=5",
+              "published_at": "Wed, 09 Dec 2020 08:00:00 GMT",
+              "publisher": "The Economic Times"
+            }
+          ]
+        },
+        "gdelt": {
+          "state": "failed",
+          "attempted_at": "2026-10-01T00:55:26.931780+00:00",
+          "error": "HTTPError HTTP 429"
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "7d42161bda413b6c0f43": {
+      "attempted_at": "2026-10-01T00:55:50.635218+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T00:55:33.166739+00:00",
+          "items": [
+            {
+              "title": "NIA files charge sheet against 16 foreign-based ‘Khalistanis’ - The Hindu",
+              "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZG9nX1dnNUZVZWdFVHVJOEQxYjhSTDR2R0dET0RzamVUcWJQVTRYRmZYRHY0R29SbExGVXdSanRjbXBpUVlWU2Q4VUMxT3BLekc3RDk5allVV1h5bmhrVjVsQnRLeGJwaXRzNklYaXA1ZGI2WkR1WWJWaldLR0dWSHYwaTAzQXAtTk5HWFF2VnlfU2ZadFZPcXRGX2lyaGxCV2FZWE00Wnlwc1BKSmZuSmRYM1ZkNERr0gG_AUFVX3lxTFBkbGEtOFZOenFzQi05dUlMTlZETXVKV09udy1fYzZCOHNnX2F6Nm1XcWptWTM5UVY4SEJUN1g5YkNybU1wT0kzd0JvYWR1djBGekVlUXhvbnZwQ2VfSmlaMnRWQmFyaXdkOWtwZHFrNlVtZXNUTHMyZU81emlWQ2w0c2JYelgtNlBsR3ZrakFqSEZ3aVRXeVU5cWlTd0hQY0FOeWVFOFAxcVVlcXJ4SjBHdl9acFBmSlR3Z3VpbFow?oc=5",
+              "published_at": "Wed, 09 Dec 2020 08:00:00 GMT",
+              "publisher": "The Hindu"
+            },
+            {
+              "title": "NIA files chargesheet against 16 foreign-based ‘Khalistanis’ - theweek.in",
+              "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSVhHR2FXQ0haamNOWEx0bDZ3Z0ZWbFVzNDl2V1pZS3A0eDhick5GRkZpQnNaVjU2OTExUERESzBSMTVfZ2VSbVJpUUZrM05FMDdSZ0pHOGtTMEZBUFRoSHlVSzFBeEx0dk44SmdCVGVtYko3bktyUkJSWlNaN0NvUUxtdFhYbUdTUTVucGJLN011VzcwajlaLWVXLVlYM3kwdkZSZVRJOWx6SHEx0gGyAUFVX3lxTE52NXBCWWlIY2Nqal9Vc2tuZW1TX04tR3h1a3RyTlUwUE5xbU9NZ0FEUlBqR2xUNkY4SHNaYkZDSlhkdU5WT0h2OHRMV3Y3TS10d1RHY01SSUg3ZVBIeFJjbnRFOVFTU3BMR1dFNlI2MXo0N3U4ZDlERDdvYnF6MU9sLVhja3phLTRjekhDazQxc2JKeHp2VWtZV1pFUlNUWjBZSm53UXI5RGNqeWY5ZmFkM3c?oc=5",
+              "published_at": "Wed, 09 Dec 2020 08:00:00 GMT",
+              "publisher": "theweek.in"
+            },
+            {
+              "title": "'We can be killed in the UK at any time': Sikh activist fears for life after being named on Indian 'hit list' - Sky News",
+              "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTkpfR1l1WGlSdVk3N0lROFItSnVXaERwNWtEb3BEMVY3X1M0LWVqLWNVc0RpWFpWVjItWUpLZDYxVElMRlozSmlsaFF3TDEyT2JVTjVSVUhJWjlWS3NUYlEtQXZpMjh1TGF3OVNzTGVQcVFwMkI2T1NyQW5JNlR6U1ZwRk9QNDVGWDNCYW5tRUpHczVhUVFUQ01ZUHpadEVzQmNNZHpQMUdCdW9Ca050Wi12WEJZLTZMNnRHS25LWEc?oc=5",
+              "published_at": "Wed, 14 Feb 2024 08:00:00 GMT",
+              "publisher": "Sky News"
+            },
+            {
+              "title": "India's NIA files chargesheet against 16 Khalistanis based out of US, UK & Canada - wionews.com",
+              "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOb1RMOXFpX1ltNlpxSXRWYUpIcnZwV3N1NWg5SmRlc25xczFQRmNjcnI1LVplNnByNmxBeUNwRld2dnJ0dkV2SmdCRTFJSjJ0TmVZazB3U1dnSnJ2NDZXT0t1M212SDI2MHc3RzlIaF93ak1mSjFqWTJiLXNOUDYyVjUzSWZOclZHU2c0TWQ1OFRTLVlKYlpYNmIzS3M4eFF3M0NNZVlDaEJkRkozSThOemZZS1p0Mzh5U3NN0gHAAUFVX3lxTE4xNEZCZ2U0TDVscVRoR3hCbEpSZEZmbVExV3BpNXhGSDc0eG9oQW1icDQxSEc3dVNvbjZBRl9sUlMzcThhREdOa0ZNWnpkYkZseUhiRjRyZnByQWd5U05HRkZBZUNDdVoxQjVwTnYtZjR0ZGNWeEw3T1NFVF9HbDhZcnZfQmIxOXNnc0NkZmFnSVpUX0VuWGhiLW9WXzlPSjU5LTlNLWdQOXE4c0t0elpqTW9lWDZaXzJVcFNTUEpzWg?oc=5",
+              "published_at": "Wed, 09 Dec 2020 08:00:00 GMT",
+              "publisher": "wionews.com"
+            },
+            {
+              "title": "British Sikhs concerned over lack of security advice after activist’s murder in Canada - The Guardian",
+              "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLXVmcVJBcHRrcWtUUUVjVTEzbnZRSHJhNGY2Wm83V3ZzRGFNeGU5YmdmZFhuWHVwaElKQzlmTUNkb0RuNm16VmpLLWxiMFVzQm9PdFdEYUFGSWlqd21IMzRmMHMtSU13aVdRRDVkbWhNbG45QkNMUXNDNnp6d05WSGRUNzlrSlRSSmktQWUwV3Y3TXBfMnJCVF9XUnZ6TDdvd0ZtVkVwYWZXZFlNOUE?oc=5",
+              "published_at": "Thu, 28 Sep 2023 07:00:00 GMT",
+              "publisher": "The Guardian"
+            },
+            {
+              "title": "NIA chargesheets 16 operatives of pro-Khalistan group: ‘Promoting secession in Kashmir’ - The Indian Express",
+              "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTlNNSGZWaldJZjNJbU1VaUpQR1hHQ1IyamM1SFFsYm9HZk54V0lPbF81SFhtVFhSSGlwT01mU3h3SmlWaFpod2VUclZmczRJVWc1cExUUGEzMzZDWWpqbVdiWm9Kejg4T2pYOGI2OW9QVU5TdFUzLWRlYm0ya2R0OFd3RE5yMHNpc3fSAZABQVVfeXFMTXNEck5hR2F2WHJRTlNDcmdzWklQWW14akhiQnZhdGRXR3N1WUxBZERiSzdmNFE3TC1nejJOMzZTT0F1X3lobzdxUHpqam1SM3dTeUtfNUFVUjBFazNsSmZvU290U25iOTBLN2UtcnFmbjRZOTU3ODJubmw5Y3hDWlU2WWhndVBBZTJQOHRZa0p2?oc=5",
+              "published_at": "Thu, 10 Dec 2020 08:00:00 GMT",
+              "publisher": "The Indian Express"
+            },
+            {
+              "title": "NIA charge-sheets 16 people based abroad under anti-terror law for pro-Khalistan activities - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTFpyVTBSc0RWdTB1TV9FN3ZxejRNN2ZsclJPVFRQMmg3QU55VE5mOVM3YTVIRnFUdlJpMUVhUzN1M0hvSVlsb2doTHJWU0JhR05tWG9EdHZQVDdNbFlLdHQtdGZwLVBpRjR4ZS1MeWMtdmJpTm5lM2lUeEVfRHU0ekJyNDBZTkFyYnlGRzdReUZoNDMyMnkydnoxQjFkY3hjb01vaEhISnJST1prbHFaOG5IakNoejFubVJIUF9nRF9yY2pBQlIzdE93T00tY19xT2Nydi1qdWg2VGVWa3NDeFJacGNDRlpBRWNBNzdR0gHzAUFVX3lxTFBTVi1RUGJSU0ZVYzdPNG9KLVZmdWFWakFROUpXdHJBN1NQblp4aXl0QV9pdnlpYmNVdWFnbUNDUVFpLWlmSkFuZkJld1Zfb21LM3EwUDNyWW9EZ2RRMmJSS05LNVdSN3Z5MTl0bl9YQm1naTdrRDExd3lLbHExV01wX2V1dVBxWURQck9EM3JpcVRHWFk2N0tocDRvYVRyMHJ2NHN6WEZ4RlJBNmxqV1htSVdUQzlFTHlzYlY3NzZLWkVOdmx0N0JndEFtc3FMdElxbXJSY3NBSGl2TE5oYmxJTE1ha2NhNUhVaklvZHRSY2JGNA?oc=5",
+              "published_at": "Wed, 09 Dec 2020 08:00:00 GMT",
+              "publisher": "The Economic Times"
+            },
+            {
+              "title": "India: SFJ Struggling For Relevance In Punjab – Analysis - Eurasia Review",
+              "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNEtEMjdpSnJuSTZ2TUVUcnJqRkIxaGcteXhidXlHNVdUSGw3ZGdkUUFLNndqTEFJNTFwWGdPRnRvNVNwaEFWVHVRSktwMjR5di1mV2c3cnZRc1hlRmxrRFJtQ3EzRVlOeFJIMF8zcVVSQ3g5RU1VYThCRkZxVTlvMFRaR205M3Z3cWoxbzd4ZlNqQ2NHaWtMdg?oc=5",
+              "published_at": "Mon, 21 Dec 2020 08:00:00 GMT",
+              "publisher": "Eurasia Review"
+            }
+          ]
+        },
+        "gdelt": {
+          "state": "failed",
+          "attempted_at": "2026-10-01T00:55:44.635064+00:00",
+          "error": "HTTPError HTTP 429"
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "39c429b886f01728725e": {
+      "attempted_at": "2026-10-01T00:56:09.233461+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T00:55:50.866188+00:00",
+          "items": []
+        },
+        "gdelt": {
+          "state": "failed",
+          "attempted_at": "2026-10-01T00:56:03.233315+00:00",
+          "error": "HTTPError HTTP 429"
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "995d246edc8195acb47c": {
+      "attempted_at": "2026-10-01T00:56:26.684677+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T00:56:09.470514+00:00",
+          "items": []
+        },
+        "gdelt": {
+          "state": "failed",
+          "attempted_at": "2026-10-01T00:56:20.684496+00:00",
+          "error": "HTTPError HTTP 429"
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "6083ac1c9ab1c7d26fdf": {
+      "attempted_at": "2026-10-01T00:56:43.772928+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T00:56:26.913438+00:00",
+          "items": []
+        },
+        "gdelt": {
+          "state": "failed",
+          "attempted_at": "2026-10-01T00:56:37.772776+00:00",
+          "error": "HTTPError HTTP 429"
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "28be5d22d0ef42b5ddb1": {
+      "attempted_at": "2026-10-01T00:57:05.229070+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T00:56:44.009103+00:00",
+          "items": []
+        },
+        "gdelt": {
+          "state": "ok",
+          "checked_at": "2026-10-01T00:56:59.228924+00:00",
+          "items": []
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "7c2cbea36642fa53c9d2": {
+      "attempted_at": "2026-10-01T00:57:21.630345+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T00:57:05.487946+00:00",
+          "items": []
+        },
+        "gdelt": {
+          "state": "failed",
+          "attempted_at": "2026-10-01T00:57:15.630174+00:00",
+          "error": "HTTPError HTTP 429"
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "3fa2f12ac190763f7e0b": {
+      "attempted_at": "2026-10-01T00:57:38.316811+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T00:57:21.928734+00:00",
+          "items": []
+        },
+        "gdelt": {
+          "state": "failed",
+          "attempted_at": "2026-10-01T00:57:32.316656+00:00",
+          "error": "HTTPError HTTP 429"
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "ff49c2c10dbf7f330eee": {
+      "attempted_at": "2026-10-01T00:57:55.885026+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T00:57:38.555631+00:00",
+          "items": []
+        },
+        "gdelt": {
+          "state": "ok",
+          "checked_at": "2026-10-01T00:57:49.884840+00:00",
+          "items": []
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "d1d9c3ebd32613c9f5e1": {
+      "attempted_at": "2026-10-01T00:58:16.274915+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T00:57:56.157198+00:00",
+          "items": [
+            {
+              "title": "NIA confiscates land belonging to Pak-based KLF terrorist Lakhbir Rode in Moga - The Indian Express",
+              "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZkNzVHNydG5JOWdERTdjWl9UWVFnNWlvNUJINFN6dWpjSnFfYWxBMGg4T0FyU1RDbTJYbVo4TzRXd0lVcU93UXY2Wm1KMnFWMWpsQXV5cGpCWnRJS2lXUlFmcHFWbW1ZSmFZOERMWkRld3dYYUxBdjdrYlJMWDFVaTJzVnpxbmxDX003LXg2S0RfZ0IyS2VocENhWl9tSWJxRGV5ZjNtWTZjU2FKS21ncnRQUlRLWlhSN3Qxa2p5NEVZX2FCMmVjb3I1c2JSaEdXeC1YcnJ30gHcAUFVX3lxTFBnRGtkQ2dmTGxMX0pzRGt4N3QwSFhfNXNrckpiWDZMeFZKekNHUHcweEJhbEZ4OUh3Y1MydEFobjBFLUtsYTBFQ1dic2J6M216MlE1WEpGR191VHZfU0luVEdJbjBhRlU3dUVwdXdsdlRSQmU5LTcxMm9zX05JRWUwQXZ0amM0cUhjeVlqRlUySjZqUXdNYmJqTXgxVmpOTGx0QlFoRFhuWXpPaWNsVlJLMXZtU0NObllaWVc4eDE1UUl3OEhDaWdyN09qdllieGM0U3V1U1JLUUFGaHo?oc=5",
+              "published_at": "Wed, 11 Oct 2023 07:00:00 GMT",
+              "publisher": "The Indian Express"
+            },
+            {
+              "title": "Anti-terror agency NIA confiscates property of Khalistani terrorist Lakhbir Rode - India Today",
+              "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZHZDWWRocXJSQTlkSnE5b3U4Q2hIdmJZemlva1JmUjRzcnZYODYxWnJydnNudGlMQ2VXUlFJZTA3c2xjMlpFSTVSb1NxMHpGMW52S09jeDZMb01tNW12bGxMNWhQNWZWOERzOEQtTTV5OHFTWnlra0dUTmZfWC04VUNJVl92QUJnd2Z0LTZjb2l5d3ZjTDMzbVlKNEhUTlh2VDB3RU5DRE11SVNnX1pzMnJaR0k2MXJLTzNRVndaM0dCSDN4cXN1dE44b0I5SDRlV1Zz0gHYAUFVX3lxTFBScHlYWTRCMzVEdzVfSjRGSklMei1OTjRRMFVselh1MTNQVzdiN204WWE2dlhGaDV4ck43cEhkejF4QzRWZzhyUzRQQ0JnblFCcGNZSU91R0VxWmpuSzNiNjJHcG1RaU0wSlpQdmNycE92LWt2b1BLT3BHWE8xU25uMUxTODVHQUM5RVdySThtY2hVVHM5ZGY4WC1HRDdOT2NCNUJBbllSRW8yUVRlNjJoSkF3RlZTeElfdmE5THpfeTFtRU0yRGFHMURySUozUkZrX0F4R1RlMA?oc=5",
+              "published_at": "Wed, 11 Oct 2023 07:00:00 GMT",
+              "publisher": "India Today"
+            },
+            {
+              "title": "Khalistani terrorist Lakhbir Singh Rode dies of heart attack in Pakistan - BW Police World",
+              "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc2RBcFlTZ3VtUy0yNFA3WndJdEwzNE11QjVmUzlLdmdWbnlXVkdUdk1aTFZrNnUybnJSLXl1eWxJeDE5US15bENlMmZkVDA4SmRSclg5M29HWTcwVVVfWDRVSnJpLVl1Nk9YMkZFeGYxOHBVRS0xNWRDVlNza0NZSEIyM0RTcVQtYkNlVUdJNFFadTJjTjZIZHdtcHg5YmdPcVppV3ZqNHk3RUxrOVY3X0FwQW5qZDFF?oc=5",
+              "published_at": "Fri, 22 Aug 2025 14:48:38 GMT",
+              "publisher": "BW Police World"
+            },
+            {
+              "title": "Anti-Terror Agency Files Charge Sheet Against 5 In Cross-Border Arms Smuggling Case In Punjab - NDTV",
+              "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVnhBQ21jMUdySzZrYTM4WXZtdkJFUzd3c0pPSE1jYVp3UHp3RkFwcXluRXBkTXlBWkhqNXlodFR6ZWdfUkFoaFhFQnlqMU1nb3AzNXFTdU10QnBQcnZ1Q0w0bFlMWndlZlZTdkRJVWxISnZzZjZQUDJmMzR3WlZvazRkVGg5a3ZBUGdDRENWTkE0bTdrRi1rdGQtdVk1Z1V6VGdRQ2tScWdXYzlLUWhzRHRaMWFQZF9fMVBBeWlR0gHGAUFVX3lxTE5MWENsMlhiMUJSTVBZejI5bjRFdnlWR0xaczI0b0VQNzFlWmo5VGZZS1ptaXFxX2xmWm8tZnNlOWJYS1pzaW1TQlV2ZzVqNnYxQVFpc1lNeHVlb0wtUEZ2UEt4S25DckpENWVzSDZHMmdfczVrSFYyWkF5OTgweW5ZckdQZHFRY2xJa2htRHRRTDJYcTZMZG1SUVFvdnl1dXVqZlhfQ2dUbUZ1SUpkSXpRclhPemJtYi1aRE5UYlB0R1VFVWZiUQ?oc=5",
+              "published_at": "Tue, 16 Jan 2024 08:00:00 GMT",
+              "publisher": "NDTV"
+            },
+            {
+              "title": "Khalistani terrorist Lakhbir Singh Rode dies in Pakistan - The Times of India",
+              "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcld3SDVzMnRfNzQ2MGM4d1g4X0doTmN4Q3JPVTBENmJvcDVUemlfcjZKRGkzUmxXRGNOd09vcGJrNm1vVGhEU1EwdmdGQ255ZHlRbmNpbWY4YUtEc3hSeE5sTEFYZ1dCTS1QaGdRYUtlVnA0VDhzTl9wU1A4THNaVFJDblBHbjJkQW9rekR0eVRWQkE3WFNYOHBVMGwyaXAwT0VTeHhrOFA0UmhqMWROclRycGFIZk01WDVYSEhVT3dzVERnbDhLNGFhenQzX3UyUlRIQm5KeFF4MVhnODJQdtIB5gFBVV95cUxPSDRqNjJ1cGtnZjBCLUQ3UVVLYzNXa0FiRzdBX2ZoY1JQeU5jS2p6Ym1oMEFpZDJyTERhMU5mVUowdkVicmFLRlBoN2R0R1liZ1ZYM3pRbUpCRDZSQjQ0VUhGcGszdHF4NWdQT3ZjemI1dWRUbVc4em90M1JIWW0wQnppV2sydDhUcXdyc2txYUc3MU83djVnUU5RUnd2Zk5DLTIxM0hKb0pFb2Jub0o1XzFTWThmU2d1T2syWUVzUl9tRWowZ0NwSmZIcEdab2tCQk9PZURYaXJ4akg2QnBuXzZ0Uk9fZw?oc=5",
+              "published_at": "Tue, 05 Dec 2023 08:00:00 GMT",
+              "publisher": "The Times of India"
+            },
+            {
+              "title": "NIA arrests Ludhiana court blast conspirator Harpreet Singh from IGI on arrival from Malaysia - theprint.in",
+              "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNVZmbWQtNU5xMUhySHphRWJiYlNVQ2VKTFFtV0hHYTN4T1UtMUNRSjJ0ZjNGcno2T1g2dnotbW04bG42SzdNcGpqRVFOdEdsd3JYMEFEVlBzODByTnFSaTViUXhxeGpGeGRDVzE3VFc4Y1ViWG9yeXdGSU1QM2R0VnpFOFlzZnlFSktpZ1dObXAzenhuWGg2amlkaXRTc2NydkpBdnV6aE5vVHZIU1FQTVB6emVSUzgyam1wWmthc1lmWjlKclJN0gHMAUFVX3lxTFBCbVlQSDMxeDNzLVVuY1d1anI0UHVOeGY5UjNQRGdRdU8zN1FQWmN0eXdCamRxam56MkNheHAxUE1Db0xlUjRnbmNsOUloYlJnSUppemFkc2xEWVNQSW56X2xYbFRKVXh2WWdtWDc1QzJOTFZIdmdsZ0M5ODl2MUZlUlAxRGlSWDhBaDZLR2JhdUpJZTFIYVBKdXhvdlBhVFl5WEdTU05panFUd3ZiaE00aXYtWkx3bnBWUzB0SGREaEV2bm16Z2dkbGNaUw?oc=5",
+              "published_at": "Fri, 02 Dec 2022 08:00:00 GMT",
+              "publisher": "theprint.in"
+            },
+            {
+              "title": "Who was Lakhbir Singh Rode, the Khalistani terrorist who died in Pakistan? - theweek.in",
+              "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMzQweXd2b2JIeTlFbWlUQWpYSFZEVkR0LURlNjBhNlI1WFFXVl9pQjI1ME5ndlBBZGMtMXdndjlqSFJJWnBDa3RDLTd6OEhtdzVXUnNxWHJGWExqSVVFVl9lbVh3QkIwd1ZCT0UxMGpBTGFUc2pZVUQ0cjFNcGprenQ4b2pQS2VKZkZpb0Vmck1zaV9FSXRCWDdXTnlXS1ZVTl9qVTNUUmg2NlRjNTc0UXZIeFZMUmtsME1MbnBab9IBxAFBVV95cUxPS0RHUVFsdEJqa1pTQkFYRnIwYlB3R2xfZEMzSGpOTUFraGNDUlo2MTVLNVRCSWsxRExCQTdYVll3ZzlVbGRrc1JEQjdKdXVaNFhBNjVVbTJZS1d6S01GWGRzOTFIOE5fVjJEU1E5NTNyX2VrSnpDUlcxUklzbXZ1SFpfV18xVkJnckNlX1JWSVIzYlVkX1UzaFBrY3BXb0t2ZG4yalEzY1FHRVdPQmZPMlowVnV5anBGcEJVRjdTLTZmWlJL?oc=5",
+              "published_at": "Tue, 05 Dec 2023 08:00:00 GMT",
+              "publisher": "theweek.in"
+            },
+            {
+              "title": "Pak-based Khalistan Liberation Force chief Lakhbir Singh behind 2021 Ludhiana Court blast: NIA - Firstpost",
+              "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPV1FoUEMwTExHczRpTEp1cVFnUVRPYVQwd1NNVlRqaXRqS255bDkyR0V6eXhLNk9QcDV6S0NhOEszamJSaFExXzJlWnAwNG1wNzdKZ1VXUWp1UDQtbmVHaWVSeDg5X01zWW9HLVJOZDlhOTFwR2xTTnNBc1JGMmp0cDAyRjZFVG5DM1RFbTVHYnhoQmZJcHA1MFBpTElOYUNQcHR5SVc1Um81LXBOdVVsQlF0STVtdUJrUlZYYWl0cE43SEVWcG5aRVI3cHpFY2VPeXcweFhB?oc=5",
+              "published_at": "Tue, 30 May 2023 07:00:00 GMT",
+              "publisher": "Firstpost"
+            },
+            {
+              "title": "NIA Unveils: Khalistan Liberation Force Chief, Lakhbir Singh, Behind 2021 Ludhiana Blast - Khalsa Vox",
+              "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZkthaFRIY0hQak5HZkxvRlIwM000cmxudkJRa3dqS3Ruc1l5OUxQcjdfaTk0NEs4ek16R0dld1dFVFBGREdIZEZBMS1PMGYtcUM3cVBFNlQwQjZwelpvcGdSWkItZVBvS1RRUlU5TlVkTFQ5bTFSS21Ra3FxcGgyNW56eVBfUmhVdWo5aWx2eFphTGtVTERBdGVGd1R3VmZYUFlYYXhkVWxBZHBoOTkxX2xlNA?oc=5",
+              "published_at": "Tue, 30 May 2023 07:00:00 GMT",
+              "publisher": "Khalsa Vox"
+            },
+            {
+              "title": "Khalistani terrorist Lakhbir Singh Rode dies of heart attack in Pakistan - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdFRxWWxyZzB3S1pWVzJkcHRQcmwwNWNRYVdUdXZqbHUyVGtDbVowSTlBVVBqamJaelhFUlczak9qQ1dHWDZPd0tFMjJEVll6TnZ0aHlOU1gzOGdhQVJPb0gxaTRLb0hhdFl5RHZOcEI5MEZObldlc0VqRnFOWmUzWklaOFRQQWYwUFJ1eVNkQU1SbFZEOU45YWtHZC1GQ0I4dWFfMm02b2dDX3prLVl5aGYtZ0x0NjFqbGY5WTRyQ1JjU0Z0cUljVGdGVEhycmY2UVVScjRR0gHbAUFVX3lxTE1LanRlU0Z0Ql9zQl9PUWdXQWRTMmQteUs5OVFwTHk5QTBfX3R2QVJUY1VOUmlwV25SNy1YcmN1blNOUjBoaVpTODc4a3FGdEFZbWJCem5iYzIwTERsWGk1eGJmZ2RsaVA0Y1poaFdkU3hPODMyREdLcnBVUmtiUVRyVW8zODJxRkU4WGNLRVR1Q3lVTXdzdTFLRlY5Y2w3WDg1MVJVVWpwYlRCRS1LQTdocGlGbkRDMkFKVHVpY1NmM0xsM0FrclRpODNISnVhSGV2R2NpVndFVGNRRQ?oc=5",
+              "published_at": "Tue, 05 Dec 2023 08:00:00 GMT",
+              "publisher": "The Economic Times"
+            }
+          ]
+        },
+        "gdelt": {
+          "state": "ok",
+          "checked_at": "2026-10-01T00:58:10.274725+00:00",
+          "items": []
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "cccc10bf181d5ca0288f": {
+      "attempted_at": "2026-10-01T00:58:32.718234+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T00:58:16.537115+00:00",
+          "items": [
+            {
+              "title": "NIA arrests key aide of Khalistani terrorist Lakhbir Singh Sandhu alias Landa in terror network case involving supply of deadly weapons | Akashvani News - newsonair.gov.in",
+              "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNVklVbjRXVjg2WnRZRDQ0N01jeFB5THR3TFc5cVZKYURoRXgxVXdUUmg1VG5NU2M0c25Fa2lCVHNkMUwwcGpvVi1MekYzZ01lQlJYNGYxOW5GRy1RZG8xQ0ZrVlFmcm1NNzNZOE4wbzNrdHNuTWJjS3VXTnY1ZnBVeEJvSEhVaWo5YVJXajdmckw4WUV1Znh4Nm91OUZCbUJsZ1VKazN5LWdHZVFibzJ1ZGUtbTJxZnR2QlI2TlpGY1JnY2phb05ZdHVhZFlRMHc2TE8wdm9MakRNTTlRdXpIU2pySGZJWkQzTm9heTNrdG1haXV5NUNwVGd4NA?oc=5",
+              "published_at": "Tue, 26 May 2026 19:05:01 GMT",
+              "publisher": "newsonair.gov.in"
+            },
+            {
+              "title": "NIA Arrests Key BKI Operative in Multi-State Crackdown - newsonair.gov.in",
+              "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTVBpazFCZ1J4RVh3WktkanVYX29ZMXdwUTdiUzhZTGtzT0hfVHVhRDZUWUhrSGpiSi1rSlRpMDdCX3cxOUV1SzlHeWJuNDFNZENDUzQ4X3Y4dGg5b0pQY013MGJrNDN5T0plMUdJOTJWc2hBLUIxUTBYU1lBTGt4UzdqMjlxaFk?oc=5",
+              "published_at": "Sat, 30 May 2026 10:49:20 GMT",
+              "publisher": "newsonair.gov.in"
+            },
+            {
+              "title": "NIA arrests key aide of Khalistani terrorist Landa in major terror network case - DD News",
+              "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTjItVWNXRG1ENWNoUnB4WXJnWmgtUmVLUjdXMmVOcHZ5MTR5MksySUdjckZjQkZ0SEx4VG9aX0pMWE9OYWFURTkyOUpkUWF5bWtIYjhiZ3dub2VBYUVrWVBzbGc3M2tUdmt0U00wUnFETE83aU1rZnhPTWkzZG5DYWhtNlFwVERud01BdHJWSXBoY1ZWdmd4RUxiYkM1V3ZPVlhla1FWVHk?oc=5",
+              "published_at": "Fri, 19 Jul 2024 10:34:23 GMT",
+              "publisher": "DD News"
+            },
+            {
+              "title": "NIA arrests Baljeet Singh, Canada-based wanted Khalistani terrorist’s key aide - The Hindu",
+              "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQczJSR1BwLWdRX2RhT3FrMG10ZnZhaUpCXzMyQm1NTTJpOGwyT2lXSm9lZV8zdmRIWFZ3cWVjYnVWTjU3VUlzLWVKWlFDNjVvUnhRUk9hSENHeTl4d0RZTVdXWEVvVGZsMWdrTjluOEU4N18xN3pvVEw1cDlRZDQ4aGpCTjkzQmw0bF90WjlPd2haREdxazRHUzliRjUyUzl5TGNGSHp2ZUhrakVveDN2YTRBNmFGbmFJemNVZzNhQi1JQ03SAcoBQVVfeXFMTmcyV1BPZmxsdjdzYjY3Y1F6TmxxYkJ2V2JwR08wbFo3RWdhZ2E0OFFsbU1JbmpFQWMtZVNIWHlfbkl6Z1NZdHdGUWpnWkEtbE1WZkk2VmZCWUltVUo0VHFJdks1THNING1PRnREQ1lJSWJLTUEyNW5DOUtOazlvcmtuSUNsMXNpVDYzUzNKTHlSWDViV2c3LV9IQ2J1a2JwUDlkS0lpZ0xoaDRhYUJsd0R2VUp1R2JaN0xOQmdCbG9kR01KOXNaU1ZzQQ?oc=5",
+              "published_at": "Fri, 19 Jul 2024 07:00:00 GMT",
+              "publisher": "The Hindu"
+            },
+            {
+              "title": "Who is Lakhbir Singh Landa, Khalistani terrorist on NIA radar? | India News - Hindustan Times",
+              "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQ21nVnhhWHp6V3VvLWlEeXdGUFRZNUxlakJTVV9aMTJnT3BoWnJWNWlCdzR6LUJlRGNGbDNjRTJBNlc4bWd4MTd1ak9pX3ZMV0pVRlZ0Y0Q3RGx2M3ZLdURsSDVFSVBxVFhVaDRTWEtuZzNHd0RMUlNkNkNqRUlyQjV1N1NFZkppOS05d1hOazh3cm5PWmpxeHNfeWxnWUVTcGxEaEFvTTN3WHhIV3hVbmUwaFg3ZldLZVZzdzZsVkpFRHR1M001VFBnSlkwVnphc2fSAdcBQVVfeXFMT3hZRkt1QUxqaXZKaG9xc0F5WWJGcWItUnVVN2VGdUhDS1V2dGszNHRVR3JRaU1MVzJKb0dfOTNvX2FDWGtxdTFZQWVaeG1DMm1WN01najlsb0dJQ2tpV3dhV2QybWNsNVVOOFdvZVFmTHJXX2lHbXQ3MkI5R1BYZzFGZGJiYUJ2OHR4N2ViWW01VWd0cElCbmFYSUlLZ0psSWpuUFotYUZhSTdZQXZqS3oxaU1LRU15MndkUjFqTVpXNTg0bTJ0WG5jQm9PTkVRUDJ6NXJJa1E?oc=5",
+              "published_at": "Thu, 21 Sep 2023 07:00:00 GMT",
+              "publisher": "Hindustan Times"
+            },
+            {
+              "title": "Canada-Based Terrorist Lakhbir Landa's Key Aide Arrested - NDTV",
+              "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdXZKU1VIVTRIZlVjZFdPeXFxS3JYbGtLR1JxemxJYjZwa1B5N29ubDZpMlQzSDFzWmIwRHBLeW5MQ2U5ek1CaVpuZ0FDaGNjemdtVXVJTnRKSS1aY0l4bk5yT2hja2c2TWY2MmY1TlZMX1VHaXkzRzZPTGtMOE1XWTljbnF4NXNhX3VYVnhsREctSlJuQm1mNlhBZ9IBowFBVV95cUxOdEZZaHNVdFBTclhpTU52VmpMSUtEV191Sk9Nb2hMRF9kaUNDSE9HNmZkeGdDWGE5eG1wbnhHZlEyR2VoX21jcDhEMlpHWTFGaDJjTElYOUszeDFDcldXekpBVEZzZGFMSUN6b1Z0eUx2S2tFcTlLUlFLVlpIY190SkkzUmZBa1RnVWwxS1hhOG4zUXdGVnJiY1R2WnpVc013cWtR?oc=5",
+              "published_at": "Fri, 19 Jul 2024 07:00:00 GMT",
+              "publisher": "NDTV"
+            },
+            {
+              "title": "Who is Lakhbir Singh 'Landa', for whom NIA has announced Rs 15 lakh cash reward - Deccan Herald",
+              "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbTNnMjB6VU92a2RTWUtKNXBBcWhfVUlTQ1ZmeEJXbEs2UDVuR1o5bmRDM0FEYjlRbEI4UVJ2cVgtYV9rcE1pdXJRMlNaZTctTHNiNUFHdGxjclRGb1RSaEpGcWRoR2hwRDJncmVwYUd4NjVWVlJPY1lsWEg2M3YzbkRGLWZsaWNRdHRPMGswYzYtTHlwbmpkdWVkQ1JJUTZfR0VmVkpaZkNKVzI5TnFUcTZVOVluN3pPbENB?oc=5",
+              "published_at": "Thu, 21 Sep 2023 07:00:00 GMT",
+              "publisher": "Deccan Herald"
+            },
+            {
+              "title": "Rocket launcher attack: NIA declares Rs 15 lakh reward for Canada-based terrorist Lakhbir Singh Sandhu - HinduPost",
+              "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdDRNT1VmSmtfTklMOWZzemZqOTNrQ2xTREJaeTFtTUQ2Y0tMdThFYkt0ankxUzg1dTJlNWRaREJxNlJLNS1vaHF6LUNFMHJJS0d6UEM0VnNseFNvUTFlN2gyOFF1UTNFSGx1d1pIRmF1MVk5N2l0VXg4VUNVZUN0WFJ3U09jT1NRVF9NR1N6S19IY3BQeHhCZE1mdjlIdjhBc0dYblF2WnhUenBBZ3d0cndSV2VaQXRBM1Q5UW04OU51cFNzck1v?oc=5",
+              "published_at": "Thu, 16 Feb 2023 08:00:00 GMT",
+              "publisher": "HinduPost"
+            },
+            {
+              "title": "Canada-based Khalistan terrorist ‘Lakhbir Singh Landa’ on NIA radar. All you need to know about him - Livemint",
+              "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVEtxN19FZnZFOUxOZkVNWEQ1azktU3dRX280c01idE5jdldhdzZsbjlHZS04Yl9EN09Oa19uU3o5RDdhMko2dThOS3ZILWVfRkdrUHB6dENfQzNFVDBVSVQzYi1NVUtGb2o3cHBFMlJqT1F1ajdLamFBbDA0ak93c0ZfX3ZDWjE0SVJDWHBvY0dNckllZEZPalZfNkdBYk9oSTRJdUtkS1VXMTJ0ZXNXWC1kMUh6ME01SWxITWZOZmIzQl9Kb1FfOUR4VUxBRUpONlFQZGUtQ09oZjQxUWZHcGVadldxZ9IB6wFBVV95cUxObWI1U244YzJKUWxrZlhoSjZHQjBzU0tLVndGcEpRaV9mTTVTWUdScUMtbGRYNmlNak5xc29KN3pjUWlzUklFSnRjRmJzWDNWY2pZdG4xb3Vad0liZ1NuT0NtSURFb1JNbTc4VTM2bDFZNG16RFlxc2VYSDVkMG5nY1p4ODEtMnk3ckF1Ni1td3o5UXkwMlpKbVBwc1dtektWZkN0V3VEcnlOcDJZd1B5b2ZlWDI3cVM1WVl0QThHN0p6cjlaclVpc1B1QWdLT21oQlRwc0RGdG1RREVackhoSG51aV9EckF4T3hF?oc=5",
+              "published_at": "Thu, 21 Sep 2023 07:00:00 GMT",
+              "publisher": "Livemint"
+            },
+            {
+              "title": "NIA arrests wanted Khalistani terrorist Tarsem Singh after extradition from Abu Dhabi - The Times of India",
+              "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQkRpQmVOdE5KZ1d2dnZfQ1VPVkdHSDRCOWFXRWxQS3pPV0NZQ0RndmVhZGt2TU5pTTh4cDVjeV9Lb0dXODRpbDRQSWhQdVduM01OU3ZBS0cwWG8tcEt4dVZ6NmVNUzJUcXIzalJxZFBhcGMyUTBNa25lcmFOSi0wNy1LRk5HWkJiV3hCbjZRcGl5bnlqcVY5dEEtWjUyWUxyUVVHbHU0S3dqdEhuWlpVWVdYV0FiX09Uc25XMXZ0OUEzT2lZNUFtYnZSeDBkU2trcS1KV0lKQ3ZMVXFWTkFRSUdyX0lWSDJ00gHuAUFVX3lxTE5zcVI4WldsZV8waVk2aERxbWtFTUdTTjNKUnVLa3NRV3NFTF9hY2ZrYUkyckQwWE13R18tXzNDNEhGcE5uTVI0NDdWNk9FZEJlTnNMY215YWZmTHdYdVZ4UjdTR2hhRkdmZTJjTzFiZ2FaczlQUFFXSHhQM0VFYXZfTS1udTM5elFWeDFwVmNIaGVSRmw0WHN4eHdSazc4TWVBS0xiVXlpMmdfX2FRdEd1RHdiRFFMcDFJVkp4eGtWRTRPbnp4emxoUHNvc20wQzJiTmszRG1Ram96ZWQyLWFjQXlBcDZYZERHUWZoaWc?oc=5",
+              "published_at": "Fri, 09 Aug 2024 07:00:00 GMT",
+              "publisher": "The Times of India"
+            }
+          ]
+        },
+        "gdelt": {
+          "state": "failed",
+          "attempted_at": "2026-10-01T00:58:26.718046+00:00",
+          "error": "HTTPError HTTP 429"
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "5574ded595e3811c37b0": {
+      "attempted_at": "2026-10-01T00:58:48.658617+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T00:58:32.952418+00:00",
+          "items": []
+        },
+        "gdelt": {
+          "state": "failed",
+          "attempted_at": "2026-10-01T00:58:42.658464+00:00",
+          "error": "HTTPError HTTP 429"
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "88568639b9bb9d82b408": {
+      "attempted_at": "2026-10-01T00:59:04.232635+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T00:58:48.903077+00:00",
+          "items": [
+            {
+              "title": "NIA names 13 in charge sheet for BJP functionary's murder in Puducherry - The New Indian Express",
+              "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcW1FUTdNTUkwcTNGaE5ac25wdkJpRDBLNHVycGttcGJCMmZGZTJPRndhYURWRkotd0MyR19Od2IxazR3N0FpOHlTUEhiMVR3OWdHbmlrVTVzMTc3SjhURHZsQWEzenlyemFRTXdLbkZKdWRjaFJvNzlVeWRaOWlCd0dYdFcwbnd2NEszdVVFTmhBWE4ycEhRVW9iVnRKNExVUjVKbGpEUnVMTWdnQTZTTzl0OVBNLTdDeUkwUG1YZm82NGtxZDFqY2ZKV3kxd9IB2wFBVV95cUxNX2VpNlNLclcwOEFWMWoyaHgxLWRUV1F3NktfSm11dENFd0xnMWVVLVdOY3hTZ2tPbDlfWWdFaUJSRzhVak9WT1A0TEV1d2dsMmRrSWZLSmxCOHhyMmFlUmh6Z3hMVGdqRFNETzVWYnI3cWhydFhncFBxMk1zOWNxaHVHTmEwVlZOVTE2MlRBVFVQLVphY3VicmxfMHZYNVdBQXljWFJqdlc2WldNLXQ0THRvclFzU2FsYS11bHdoSGhKVXQ5a2c5b2FpekpmRDBsOXVFNXlJRkNBaGM?oc=5",
+              "published_at": "Sun, 24 Sep 2023 07:00:00 GMT",
+              "publisher": "The New Indian Express"
+            },
+            {
+              "title": "NIA chargesheets 13 for BJP functionary's murder in Pondy - The Times of India",
+              "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRnFLZGg5M21WY1JVckM2OXQta0llOEVqNU1oaEpUXzN5ZjhfSF9HRXNVdnlNVkpEa1lFeUJKUW41QVRGVW1aVnpycEJEYmdLLTBuZy05S2gzbllBQkRueDlSMk01TWpkTWxzUUMzM242WU41RWNjZDhlSG53bnZlVmZHbzlKVlU4Q2lRcmtrbFJQY0dfVlg3TTRYcV9uNGpCeVdIb3ZBclR4UmxxajZZMlI4dVd2cERCcWFNY3NIQjVMVmY3NHFlNWVlY9IB0AFBVV95cUxNRG5wOGppSnRMVGlxd1ZLODF3MEdid1ptQm9CaFpHMW02dFRsME8zeWZGcExubF9FcXhIc1h1N0phNUF1YmlGMnc2aWszUGl0U1R0bVZoME5KdE95NUo0MTBVNllFUnpLdjJuUXMxM2FPaktNVGRfZ3JKNUEyLW85SW9VYzFSTzg1eVlQLWFUVkU1enFfQWJ2QVRCM3R3bk5ja0RaSG1zQWotYTJRMDFSOFk4OXV6NkNVNUQwVmFzdm1NRnRUTFNZMGpRazA3Q1dr?oc=5",
+              "published_at": "Sat, 23 Sep 2023 07:00:00 GMT",
+              "publisher": "The Times of India"
+            },
+            {
+              "title": "NIA chargesheets 13 in Puducherry bomb blast, assassination case - ANI News",
+              "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbGFlRk1qYk5yN3I4VzBVbHpWd0hIeWIxQVpqX0hObERRVzlCajNjS1NxeGZBX05ZUmZHeTVLWDRackJFT2xzSDVHdzA3Q0FTUjdIUjdFeWZnUnlja2N0bjBvZmJpcjcwZVNPZFV6b0xSRzVCZmtxLW5MWWw1TGVrakl1SFBIRnhnQTY2NmQ3ejVYQlBhdWExTC1FM3RnOHZ4VFd3V0VEdEpYVnQ1OGxuSmpCQ29kOEpDa3Iza2s2R0pQa0d3ZXc?oc=5",
+              "published_at": "Fri, 22 Sep 2023 07:00:00 GMT",
+              "publisher": "ANI News"
+            },
+            {
+              "title": "NIA chargesheets 13 in Puducherry bomb blast, murder of BJP worker - India Today",
+              "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVFRqeG54RXVVTzFOdlBDaDVYZ1d4QUhERENNNWFsSV9sWlFTLVZMSkZORVFhVmM2RlB6c011dXcyZFNZR1Z4QUE4b1AtQXVNak9HblpuTlFPMDJlZGE3cFpQOGEtTUJxdTdvN25ScGV0MlBPZ3U1Y3B1ekJCX1Z3UjBwTzFiMzlLQWlTUWZ5OGZLV0h5MUZHdklVTTdBUTJHMkNEZF9sZ08tSnMwYm9ZZjRxaHVaaExRZGtld21rbFFqTElJeTUwWC1aR0wtbU5MYkdXczRjXzV2QmNRN3NSNWNBNNIB6AFBVV95cUxPMWVHNzVpTENtTDA4TWlRZXc4UzdzTXFKTmdOTzJONlBrZXR3RVV1d01mcXM5ZERYYjFfTFBFdmZvcnY1T2hYdEJfMDUtY0UtbG9XbE1fYVV6MF9ycHl2YlA4aV8tNm1leDJac3phRnpidlU2ZHNhdU5hc3FYc0NNVlI2WEkzNEF5QkdDZk5IVERZanJhOGJVd3hNcjFtelp3OHNLTGlMdlZuVVVzQVhNUy0tQVIzUndwYUlILXpsdXB6azdXckhrQ3UxdEdLUFFXX0tHV05VbVg4eDNxNEJqQ25xTnBYSHF0?oc=5",
+              "published_at": "Fri, 22 Sep 2023 07:00:00 GMT",
+              "publisher": "India Today"
+            }
+          ]
+        },
+        "gdelt": {
+          "state": "failed",
+          "attempted_at": "2026-10-01T00:58:58.232457+00:00",
+          "error": "HTTPError HTTP 429"
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "6b740d6ef1afe3c0108e": {
+      "attempted_at": "2026-10-01T00:59:19.753362+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T00:59:04.457880+00:00",
+          "items": []
+        },
+        "gdelt": {
+          "state": "failed",
+          "attempted_at": "2026-10-01T00:59:13.753207+00:00",
+          "error": "HTTPError HTTP 429"
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "8c03de5ec2f838335e8f": {
+      "attempted_at": "2026-10-01T00:59:36.094091+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T00:59:19.993395+00:00",
+          "items": [
+            {
+              "title": "Indian link unearthed in seizure of 300kg cocaine, AK-47s from Sri Lankan boat - The New Indian Express",
+              "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOXzBpOWFTX1JyQzlCRl9XcFVNb3VsbUlSajBLZG9EYlhrLU1jN0tOdmdxX3FuNlVFZVAya09jbUJmcTYySTY3d3lMMTNPUEdwQU8zN2FvdWM3M3V3Ti1yTXFVbUt1RkZaMF90ZmNfcFlJbE5RbXNnNjRORzNRT04xM29nYXAzVUdaQlVUNm4xeDFqVVcwd1lKTDhIMnp4VnlDQlkyRkpyOHF3UXh3R2pfWTZJV240R2dLaFdQVXUtVGZmZUpwNTZmYUlSQ3hwVGt2UHQwcm9INmNybWpLdktQd19n0gHvAUFVX3lxTFBMQXN1eldYYlppYjRVQjRIQjk3cTdSM29faFQwV2Y4REo3TEkycXM5Q1phMV9rSHNwU2c5RkYxTHpZajJxR3RZV2dqczVxNnhKWFV1UVJkMmFyaG5iYVRaTHNhNXllazR2YWZBeG5JcXBWOGFMaHFLRWlFaGdhZ1k2T3gtbGNUNERxNFpIU2ZWenZlUDJXMG9faVkzdy1PWWN5azgycjlUcEkwQU1MSTZDRFRJd3ZXa1UtVjZRV002T1pkSmpNZEZNaWFNYmpxRXRlaFdRaTJBaWtMZE1mdzlsSDZhVDlkZFE4RWptN3ZN?oc=5",
+              "published_at": "Wed, 04 Aug 2021 07:00:00 GMT",
+              "publisher": "The New Indian Express"
+            },
+            {
+              "title": "NIA to approach Interpol for tracing 4 foreigners related to drug bust - The New Indian Express",
+              "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcE9TTHlJem5vbnprQmNPdzM2M3lFdVhrOHlkVGoyQTl3ZGRGbGtEdW5PZTloVExqQmdlWGhlc0J2djZhbmdJSVpLSFIwODZ1ZHVuMjNsemt2RHNQNzZjbmxuQ0RjWTQ1Sk9NUDVaQ0pteFB6QXlNanZuX1JvcklKNnNTSUtkdTJOTFhUeTVaRVJqUm1DYXgwb095VVhkUXVaUFBNZlNzZlVzMGVLbjNQWkJxb3RCWHpBQUFUdNIBygFBVV95cUxNemJFRnYwdjhyTDdDYm5OVXdyNFE4VGI0UlFrdTZkdWw0dFpic1UyYkhpdndPV3MyOXJiTkMxMGRVT0xGWk9YLTFUTnctT05XMlRSRTM1eEpjLVZWOXBLbS1xZjNLYWJCVF9rWHJGbkhoT2JkM3FISjRrVlBibzhEcGM3LUR3RG5RdUpHR3RZOWZFUEowZEJqUDN5Y19BeDZQM1RfSXFQSlo3eFlZcFBBMjBCV1N4Z0tjSWt6bzRtX0ExOXR5bFJ2OTVB?oc=5",
+              "published_at": "Mon, 22 Nov 2021 08:00:00 GMT",
+              "publisher": "The New Indian Express"
+            },
+            {
+              "title": "Drugs, ammo in Sri Lankan boat: LTTE, Pakistan links identified - The New Indian Express",
+              "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUnBSV25CS0NNdGtOMXhUeFFnU0M3dGJzMncyS0g1SHljdE92MkF4QWxuNjJfM3J0anlnUWlJSDg3SklfSUpXbTJLZWJuMEVuVjRpVE9YUmRLbDlmQzJ0VXlRRHk2ZW9ycjE0d0FLSEhqSnF3VkhGS3EzVXFRd2psMGVwd3BLbFRIb0pxMzNqZTlfR1BiMTJQQnZlMjZZVTRfbDhQeUg4NkZmMkw0U3JmVXExYm9hN19qczhTTWtn0gHLAUFVX3lxTE43aW91WDFXelJBaHpfWWhZOWJYY2lMYjlOT3o4Si0zZ0x3ckZjUUpCekg5R3l3UGtnQmp6WVVwQTBGcEZxenFSVWh3YjM2aGFkeGdld3F5YVhpMFNvNXpNb01wTWs1MHoxS0RlZ1dlcmlnaWUwdzFodDhtQmRrM1NUc1hNLUxPTFdtb09FR1pmbXpSQlZvelRJWEJoZ3hyVHN6akNBaThmTHBYNjJ1OGZJVmY5dDNDYWpBUmFNUFVvRnJxU0ZlVm9sZGtn?oc=5",
+              "published_at": "Sat, 14 Aug 2021 07:00:00 GMT",
+              "publisher": "The New Indian Express"
+            }
+          ]
+        },
+        "gdelt": {
+          "state": "failed",
+          "attempted_at": "2026-10-01T00:59:30.093927+00:00",
+          "error": "HTTPError HTTP 429"
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "a2a2988d6e2d5c535af2": {
+      "attempted_at": "2026-10-01T00:59:51.651019+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T00:59:36.342127+00:00",
+          "items": []
+        },
+        "gdelt": {
+          "state": "failed",
+          "attempted_at": "2026-10-01T00:59:45.650849+00:00",
+          "error": "HTTPError HTTP 429"
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "e20c13c443871329c502": {
+      "attempted_at": "2026-10-01T01:00:08.026396+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T00:59:51.922884+00:00",
+          "items": [
+            {
+              "title": "Vijay Deverakonda reacts to wedding rumours with actress Rashmika Madanna - The Times of India",
+              "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVkdIcGJZNlhkeHNaanE5cEcxQ3FfODZmTFpOMmxGWlRWdUJYcVJLdDBKUmdvRU5nN1QwWVlxWERUOGI3d21UeXFwcllSY2stZHNGelJhV0M0UG5BU0hQMHpDbkNkTVNaT2RHbTVmdGtlY0taTkRBbXB6OWppZGRjQTlHYVphLThTY0FRdFF3ckJzemEzTGNDcmdCbFJkUnlDcVBpREVZY0NQWDh3MjV3VjdadHh0OS1RdXJWZHZ1cExxTGtVcllaRXpEc1lzQWhTY2cxRy02aEhfdEJYU1k0Q09nNTdudGMzRnViUEVfWVRXZUdGRWFFN3BvbEV3Z9IBgwJBVV95cUxNbUpwOGM1dk5OWnVzTy00ZFRzZEIyWVpDNk5DeksyMThvck9FWS1Ic0NtQ0NFMGh1ZWlSRDlMUHlFd0dUay1fdVZfOTN0d04xRTBrcllnZlJZRzY0Zi1CNk55cDMzWEFrLUpPTHVpVVlNOUxXLXBjTGV4a0R3eS1SYlRiRGlQamdDbDgzQ2hpRnhwaEdSbUxnT2tSazI1TndWVjZxSmU5WTRQRDZXT3RSbkF4RzVEck5zdVFVUGtQblhaVDY4enNhZm16bVJueVdPdDhmRVRXaTdHZU9fa3NocEpwaUVSMEdBOWdEN2ZYSTZTRmdWWVpFSlVPaGlJNWlTdThF?oc=5",
+              "published_at": "Tue, 22 Feb 2022 08:00:00 GMT",
+              "publisher": "The Times of India"
+            },
+            {
+              "title": "Nia Sharma Escalates Feud With Splitsvilla's Niharika Tiwari In Indirect Dig After '3 Mahine Ka Fame' Spat? - Republic World",
+              "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPMGl1bnlkU2dONFBfT1pVa3FDd21Pd25NaWlGdHJBVmdCeDVTNkVrLVp1cXJ5SmpERGlvdmNZSjlpNDRrZmpJYVE1ajVsYmcwM19HTFJYTU1RaUFQV0Job0FOWWI4Z2JJa0NXcEJQMThaN0NKXy0tVWRrRG05TzIyZzIxcnFtVU5TMXprSzZHeksxTW43aEhndG5feG85bGpTbW5mVjFER3RlSFl1ZU1PUm9ZQ2RkYUdFRE9KMU9nSTNBeUlpNk00dzZkM3dMbWNkZEg3N2RKSUlyR0lQQ2tPVHQ2NmpZOFNMUENqNDRlSGlOeVdlNlB4SUwzZ1ZCR1Exc3hvT1VR0gGLAkFVX3lxTE1PdGRJcE4xZnUzTGpYUHY4MWp5cURhTVBXV1UyUHIwNDNiUDJWVG05MVpoLUZGZXFmTk5UQ044bmI5MHFCa0JWNjB1VWpnWHAxa0FjZk5aN3U2OEtuUzJ2OS1NSGI0bGFLWjI3N21ESmktZGlRa0NnRDJtRENmcGdBLXU4RlM3d0lqUVlLWjlsOXZadHpGWXFjVUhERmlpN1FQN190WllJOFloeUJFOXRSOXJuSUtGUkxNMkhtNThtMUJidm1qa0xsZnc5NTFGSEkyQ19JZGhuX01hVVZiYlBPNnlock1NYi1hVF9sQ3F3Q3ZkNFN6NXZNcUxpRjhJeFFRNTVSdTZWdGczMA?oc=5",
+              "published_at": "Mon, 18 May 2026 07:00:00 GMT",
+              "publisher": "Republic World"
+            }
+          ]
+        },
+        "gdelt": {
+          "state": "failed",
+          "attempted_at": "2026-10-01T01:00:02.026239+00:00",
+          "error": "HTTPError HTTP 429"
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "5377a75ebbf4881278c1": {
+      "attempted_at": "2026-10-01T01:00:37.370780+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T01:00:08.249591+00:00",
+          "items": []
+        },
+        "gdelt": {
+          "state": "failed",
+          "attempted_at": "2026-10-01T01:00:31.370625+00:00",
+          "error": "HTTPError HTTP 429"
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "5f20ad96537b99e4d3e2": {
+      "attempted_at": "2026-10-01T01:01:01.364419+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T01:00:37.606551+00:00",
+          "items": [
+            {
+              "title": "NIA declares ₹7 lakh bounty on Maoist leader Madvi Hidma - The Hindu",
+              "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQXZ6SFMzY0tmVTlsbm0xSmpBYXFGWTZCTFFBQXBuNnRhdmZ2eTloaW9vRUR4Vk9HcF9TaEE3ZDR5TndEcVJ1WXVHMERlMnZFNmdPX08tdU91cS1pcDNmRGVPRTJmTHo4M3M3VzRxWHpQSXEyRzczZHFPVTVTNWdPVW1pQ3FqNzFGYjRsXzViMXlndkdzRWtiZ2Mxb3I1dmhUQWxLWnF0VEZlazZva25LXzZQN3XSAbsBQVVfeXFMTktmYk1PYzN1ZnJqZE5HODNROFA4ZFFHYWNEVVdwSnRXdm1vclM1QU55WGZtYUtOM2xuSTJVUHhvZVpEX1dFUVNiaHFmVXJQRXRCWlYtby0ydm9rdmRMOTJCMVBReEZrX2JTRFRUY1RZNkt5OG9YY2FYVlNTTWJBUjRVWFNCQmZ5bWQtSGxILTVLZ0haWHBtbUg5eDRnaHNqZUI5cEhwaWYyTktHcEZ0M3ROMXB4UFNLeUxNQQ?oc=5",
+              "published_at": "Sat, 17 Apr 2021 07:00:00 GMT",
+              "publisher": "The Hindu"
+            }
+          ]
+        },
+        "gdelt": {
+          "state": "failed",
+          "attempted_at": "2026-10-01T01:00:55.364253+00:00",
+          "error": "HTTPError HTTP 429"
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "5c6112ee694fca945cf0": {
+      "attempted_at": "2026-10-01T01:01:24.596264+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T01:01:01.703596+00:00",
+          "items": [
+            {
+              "title": "Goldy Brar chargesheeted in Karni Sena chief’s murder - The Times of India",
+              "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTXhpdmxRZTlGYUVqNm54WGxkV0stYzJKa2FMOUpKTndxWXlaZ1R5T3ZkaE5Sd2U3Zy1nVHVZRHBSXzZ4UTg4TGpSQVR0eS1zTW9oYmpFRlZXRFd3Q2stWnA0Yzh5X29rVHdyTjNacUJUWjg0c1lKaTBOZUFtVkJuNUVwMVJlRkJ0Uk5ldGlLRHRld3hmNm96NlNxTWxocGFwRXJZQzNKV2JjZktGUWY4VG1UTThHZGhPMjBqUW5uV2VaQWPSAcgBQVVfeXFMT05Ca1JBa3NUZ2pOb0ZaWG03bGczNF9JemViQk56NkdsR2x1M2E1RDdqRUNlcS03U1hJanJHdWlXX2k1TS1ZejZlc0VJY0JOV1NQT1F1TzNhTjlmd013R2xwUVpySTZQcnhqTzgzeUlEZF9fRzlHdGRuTDBzLW1lZ3E1UnJ0cTZENkd3c29jVGlEdlpHczROUlRWdDQ3OWtPd2tFLXRXanRVSWNNN1ptR0FiOWdOSWVFbVpST3lTallyUU5WclZWcmU?oc=5",
+              "published_at": "Thu, 06 Jun 2024 07:00:00 GMT",
+              "publisher": "The Times of India"
+            },
+            {
+              "title": "Karni Sena chief murder case: NIA chargesheets Goldy Brar, 11 others - Business Standard",
+              "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUkQzNkhwczJnRkJuTzhoY1EzQmlINmdBLUpUQndhUmlvQk03cEpXdzBmT0w4N3h4R2lhS3lkdER0dHRERkg4NDM2ajVyZTVpSnRIQm0zQ2w0cmF3WjhPeTFGaThCLXVZS2d3NGlOMEh4d3JSTFlBQUZwYTkwNHBlYUh0N2V2WWVJWThlUUVlU0F3Ry1nWkNBMmdmTElsc21wVGswY19tMlhxdkdEeGdfaEhfd3BqYTk1VFZkSWd1OVZ2UFNIYm1ZZG1oONIB0AFBVV95cUxNTk9kWjdMRnFQWkFzSm9xMndTRlA2NEFKUFdyRjR0YW1kcjBiYnhiUkNVWkVnRDhWTmRabHk4Vk83N0JoQ192SWFTNzNSNDR1YzBfQjVPaWdWR1g5S1RDVnN0cXFoUVNHUVB3R1lsVGdpcmNZbld3d1E1VThxcXpjTmJ2YkxUZzZhdjd3SUZSQUR4TThsdzEyZEJvVXpxZTVrSVdiOVBiTlQ2WHZRTkZybXRWUGl2NHg4SzFUMExpUzY1ckdtNzIyUkJoNnpiSzVU?oc=5",
+              "published_at": "Wed, 05 Jun 2024 07:00:00 GMT",
+              "publisher": "Business Standard"
+            },
+            {
+              "title": "NIA chargesheets designated terrorist Goldy Brar & 11 others in Karni Sena faction chief murder case - theprint.in",
+              "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSlhXVlREWUpGY2tjN3h5TXozMVJDalBvR1dvRXR4aG53cnlqU1VWNjd3cHhDUHFEbVZKTGtiWnhSdGY2R3ZTY3hVR0dyazhQVGZRZHZCWW5pejdmVUhWd0h5XzR3TWo5Y0hiRTY3c280M1dORmJpTXZSNXhyeWFreWJQc2ZLSEhwNHFJUHBHSlRuRm5hYVNCeG9uN2JGa0lGTzZMeTJBVUNPUlh2LTAxX0xBbXRlQnJrYXlHY1BIakNXZzhlNTI1a21fTjlJd9IB0wFBVV95cUxOckZ3NjQ5SlVTLWIwVVBLX2RNb3JUVHFfSHVWSVVhSTBMbmFMR0VuQ1pXeEFYZWYtZm1qX3NDbkpSME96b2lXVHNWdUxvMUtWVld5WU9ZZl95YmphU0h0UWZ5WGh0enR6S1BwV3lvZGMwc0tOXzQzcFhkejNWVjNwNEFEV0h5RHZMSEhLSEp3X1VvenluSUEtaWNoamdkVUl0UnVibU13V012Q0dsaFhpVXJMX3J4Q2h2NE1qb2YwVEF0bmR1ek5od2FweWxIY2RZOGs0?oc=5",
+              "published_at": "Wed, 05 Jun 2024 07:00:00 GMT",
+              "publisher": "theprint.in"
+            },
+            {
+              "title": "NIA court frames charges against 8 in Gogamedi murder - The Times of India",
+              "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOW1odWY4N0dZbmVSVkVwMHktcXRhWk54T2xtZm0yZ0xhcjUzUGhhUFVGMjNkYXlIekV5aEw1a0RiVjhPalVwS0pNRC1wam9VZ3VSdW5mazA2Z0EzRTJTT0FHdDBtNzB1YzVtSk1lSWJvaDZmQkNfc3RHWE03Vlc4Z1BxLUQyX293UDZTb2JXLTVfUk9MZUNGZnFiNXgyejdhR3FveGllSHhFTnp2bldOdEs1NFhNVXR3anh6V2VzR3lORGMyQkHSAcsBQVVfeXFMUGtlUGxvSzQwbkI5X3hRQzJCeHcwcmZQX1l2cS01cDFwU2YxRWQ3VVc5VVZfVlZxS08tbkd0SkVlUkt2Rm9Pa3BGbUwxNFoxTHBwT3AzOXp4TjQtVnFIVzRSZ0ZCVmtRWU1CTmtKUVMyaGlISFVWWmVxdnBpa2N1cVloVTNaQi1wX0lPUU5JYWh3T25zMS1vbzRXNk4zeVpHUlY2NEtoWDd0MzdLbTBRcGt6R2Y5MTl6T3FxNk1qS1FPQWRVMGVIVHNOclU?oc=5",
+              "published_at": "Fri, 19 Dec 2025 08:00:00 GMT",
+              "publisher": "The Times of India"
+            },
+            {
+              "title": "Kumar Ravikant Singh removed as PS to Sadhvi Niranjan Jyoti, Ashima Jain is new PS - Legend Officers",
+              "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOUJOdDNRWGN1cGNjMXUzdVBHcnJieUoyV3JaVHVkeDR6QS1OQWRCam1GRzVHblVmWnZqWlV5b252alBJTWxmbExGVEFnakl6TXN3LXZlMUZXUGljUV9LelNpMkVGV1ljMWpoSFgyV2s5eF9KSzY2SnQ3V1JtNHdEU0R1ajFPZS1zc1JfajFyRDc0cnp6c2pvaDV4eEpla0FYb2kwazZHZTVxV0lLX0E?oc=5",
+              "published_at": "Fri, 25 Jun 2021 07:00:00 GMT",
+              "publisher": "Legend Officers"
+            },
+            {
+              "title": "Republic Day 2026: 982 personnel to be honoured with gallantry, service medals | See full list | India News - Hindustan Times",
+              "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWXE4d1EtUzMxU1B6enJ6RjgzdTRTbUY0eHVIcmpVZUQwYy1jOEs0MTdPTVlxVTJlUE5QR0RLdDRJamJjaDhKNnM0NEN3YkxsbFRac1N6N0I1OVEyV0Y3cUliaFd6TmFxSlFUYjlXa1VFd0xoMUZUMlZGTF9YcXhTeVpJMzU4RTNsZnk5eEtZS2R6WkRkUG1oOFUzRDNuSkVOTW1vT09HcGpyMTZzNEMyWHExVHRRV3AwdzhiTC1nZ2NKMTluR3p0NUdhOW9yR0Y4YjFYc3FPN29SWlRIWVlZUmMwc2NJT2810gHuAUFVX3lxTE9qTlJxV2E3WkpmTmZaMXB5OWgxUWtnZGk1ajdIcmdscnBhdnhMMnFRU2s3c2oxaUcxLVNIZ09sMHdiZHl6cllVOEF4WkRnVWt6ZGFxUmFDRjk5MUYya05vOWV1RWVWZVJQTjRuQzBmTjdNZ2VEeFcyZ0JIMjFWVUlfaDl5NVZCb3ItdEJ3dFVjYVpEVWR2R193S1lVM0pVR2VMVXRMeHR0czB1bnR1bGh5YzU2T1JueUMzdzlGWlhIRmk0VXlqMC1uRzVDamhJZ1JuZF84eWhjdk1VcmVPRVZsNTZ5T3Juc1JwWUhGLXc?oc=5",
+              "published_at": "Sun, 25 Jan 2026 08:00:00 GMT",
+              "publisher": "Hindustan Times"
+            },
+            {
+              "title": "Activist Mahendra Kumar dies of heart attack - The Times of India",
+              "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWUY3dTBUQkl3Mi1KRENEeElmZzQxeGZaTURHcXpyR0VqSzBNeFExSDQwb3BfR3R0Z1FwYWpMdXVENjV1YTRROG1ZZnFEbWwzODZxUDRaaGdmc1paQS0zbWF5UUtkMDZXbTc3VFN5NDRlUVdPTDl3MWNzM1BPRmdrVFlyR0prOGNVdG1JcFpzMnItQ0lJREE5a3gzNG9RWTVzWUs2NmVOSkpUaTNwdEdnSDBpRHpNd3dS0gG-AUFVX3lxTFBqMWVXckFUZjRuc3NwZWVKU2pINktnYlE3SUtFWE56RndWc2gzdU9JcVFFM3h4N3ItY2FVSTd4aExkcUxvVUFrZkxhQzlIa01COGRIcGpXQ2xpR20yWkZ2OXBrbF9UZmotMzRJNlV1bHFkSXIyUDEwdGtQakFPUF9fbUtrR09ZOTFzU21ZdlY4anJDV183MnNoRlVVd3FNekhnRGJMTVFqQ19FT2p6dUlHVEJHNTBWeUhnNS12YXc?oc=5",
+              "published_at": "Sun, 26 Apr 2020 07:00:00 GMT",
+              "publisher": "The Times of India"
+            },
+            {
+              "title": "Joint Secretary Hukum Singh Meena gets three months extension - Legend Officers",
+              "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQb0Jqb05iTE5HaXpZRTlzdzRITERfTkJKUElVZEFyMk9CckdENVYxZmlNMnl3MC00aGxIYTBSbWpVX1VQTEtPeV9GZTJ5Vl9JcVNyeGdpM1ZqZFVocHA1ZGdkVk1pYlFYM2RnWkJ5Tnk1dExkSUJuVWR1dUdPX0hMSUlPX3JoQUlvWmpObHJEQnBqb2tCMXE0?oc=5",
+              "published_at": "Tue, 05 May 2020 07:00:00 GMT",
+              "publisher": "Legend Officers"
+            },
+            {
+              "title": "Teaser of Srijit Mukherji’s Ek Je Chhilo Raja is out - The Times of India",
+              "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZkhhUWZKWnRGazVaMzVnUlBzdHhPRGJwVlc2NG5STTVCRW9RdFlkMVN0SmpQVkNqb3FDYkp3WE5CZHZBa2NGUjcweUV2RjRFTUphbU1USlpfeGlUdUpGeXNmMFRqY0NHTGI4Ym4tQy1VYlphRGJGWGZMUXlua1hmMTZ1OXdrNERZRnBSeVV5SzBjZTdBS19QRnp2anZYd1RndDAzcC1YWUwyYnNKWjhzYldGNW1ocFFyZThhdWEtTkFDRzNfRkJLUXl0eUd0TjRTMXk0VVZWMHgtbDAzRXNB0gHkAUFVX3lxTFA0dXFmS1Q4NUpSYXlvNHJBNFdsbmdVOFluSmRFcFVybE5uM1dFU2NTY1BicEVuWjI5RnBPNWNzXzQzZXNOWnRBR0lkWEVyOUtFajhTd1VNZkpiYk8zdmpzb2FUWlhSeDhZTlk5UEU5bUdacmZBWnNZMzZ3V0UtWFpJZmRRNjZtR0k1clhvSGNBMGFzWFkyS1l3VGU5RjAwTmpQR0xUSGNsYzhwUTJnalZZS2pSSjZRR2JIbXZsa3JwZnN1M3VmU05QYTRXSkl1eVlCclVHQ0FCdHoxNG05anp6YldGbQ?oc=5",
+              "published_at": "Mon, 13 Aug 2018 07:00:00 GMT",
+              "publisher": "The Times of India"
+            },
+            {
+              "title": "IRS officer set up firm with intent to cheat: Police - The Times of India",
+              "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYklpT3c2Q1hOaWJvSkhKSEFVUHVLRjFsZjMxS19NdktPcUNUN3Z0MEt3YXZITmQwdUtRaFJqRDY1eW9hNEpIdUhUcmJEUzlHakplNE1lRldRZVkwYzdJVlhaaXZnWUdOMkJQdUQ2aHdjd2txWEtvWWd4bXRxelZ2bmpCUlY5QS0xdG5lUHpqampxS3dES2Z2Z0VTdVlwcVQzN1VzVHE0czRxYWR4Rko4V3E5SDI4bDZObEhHRlk2dG5nVjTSAcgBQVVfeXFMT1BuWDl4aEhfamxFanAxVmNKUXl0V3pZRWpGUHI2TWFhU2hCYUVIZTEyb3hqdzVMT2hmSTRsangyVk14RTVMMi1weDF2RmZKZWtxLV9kbzU0VVBWVm5kSFhqeGZRcnVkMFhad1JlZnRTYVpoM1drTUtFdTduRU5rSUpQY3o2bkxGNE9ROHJzOU9obVBzR1hTcE5Cc0NrWmJsYjVvV0ItYjd0NGlDYWtnVU5Mb25DNlhJSDQ5cDJXYzlic3c2eXZOTEE?oc=5",
+              "published_at": "Sun, 09 Jun 2024 07:00:00 GMT",
+              "publisher": "The Times of India"
+            }
+          ]
+        },
+        "gdelt": {
+          "state": "failed",
+          "attempted_at": "2026-10-01T01:01:18.596108+00:00",
+          "error": "HTTPError HTTP 429"
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "d8bb00c73604282f6baa": {
+      "attempted_at": "2026-10-01T01:01:49.276000+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T01:01:24.891503+00:00",
+          "items": [
+            {
+              "title": "More questions in Headley report - orfonline.org",
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NQmI2amE1MTh5QkFhSlR0RzFBSG1lVFRjSF90X21ueTdTM3RjeXYxNjA0QmxRNC1iREdqZ0tkM01aLTJ5WTBjVXR2MTNPTktEc2JzbHNwVzV5MDBpdkdrZ1lNcE5Ib3hsODkza0haWnRwR1VWbUE?oc=5",
+              "published_at": "Tue, 24 Aug 2010 07:00:00 GMT",
+              "publisher": "orfonline.org"
+            },
+            {
+              "title": "‘Without ISI, The Mumbai Attack Would Not Have Been Possible’ - Outlook India",
+              "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNkZ4aW4yUldYdGt2UDdpcm5NWFNyOUp6NjIxa2d3LXdPUWFKSXA2UW1MNzd5a3RDY2pHUE5QR2tJUm1jRDlIcjdVckdMZnF6VjNOV093bWJHWU9mVjJTZll3Szk0Z3JVQlpvWGFHOEJ1dmNuSllwQ2dNRDc3SUZjNFlzWGRac2g4VGFqaTdEQ0lmWTJlSXBFbUpnZ0E4UHdXbWJDdWRhdVM3aW9M0gG6AUFVX3lxTE5tMmNTZFYteW5SN0RQalZPeHFMN1pSUVBHajA3R0hzRXlkVm5tTDdsWTJGcmRYMFVjLWJFTzJOZWExLW1WbEt6N3pBb2Y2OXdjekRvaXd3V1pBYUFhTVNmMTRJRkJOSG5Ub0hmWUF1bjU4a1NuTnhuUElnSEZReUZtSEtmZ3lJbld6ZjZTR2tzcU10RDNmVW5Qa2NqYWptQkVBQWQ5aDdrLXhnOHVtNVYzUlBQNGNVV0N6dw?oc=5",
+              "published_at": "Wed, 07 Feb 2024 08:00:00 GMT",
+              "publisher": "Outlook India"
+            },
+            {
+              "title": "U.S. shares Headley’s phone details with NIA - The Hindu",
+              "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOT3hmVGgyRXItRUVRM3B0ajhkaVZKNUl0N1Q5Z3B6Y1NOVkVJaUtCRWF1MEtxcnV0dEp3S2p4YVdlLTJuLUs2bWVxMEF6a1BKRXZzaDk2eUdhV3lEZHRUSTVvVUp1WHg0NVpJdVZxLWxab0xYaF84WUxjMlBublV3SXVCdFlYcm5WaUdGMDBoSG9WY1ZJRm9LV0N1Y0Y2eHZ1bFRCVWs4UXBGbmM5enfSAbQBQVVfeXFMTnhkbFA2b3lfYjlRZDR3RTk2aUpiSVIxa2MyMDdQWWdkUm1GRjJXZjQ1ZUNId09qU3N5VTZBT0RVSVNPOEhlWnNUVXFCWWdnaDJKd2VSNnBMQldMQkFuUHdKNExuNFN2WldrdkpQYVJqNWFPRTdkVWxxWHZvVXNTVGNFaXgxLS1Vb1VjQnhHU05XQ0Yyb3U1ai0yR3hPVnN0cmFVMUw4MmpQUk1FVVBKbzVYVWc3?oc=5",
+              "published_at": "Wed, 10 Feb 2016 08:00:00 GMT",
+              "publisher": "The Hindu"
+            },
+            {
+              "title": "How NIA plans to solve the Major Iqbal mystery - Rediff",
+              "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY2Y4SW9kbnhpUzF5Z2dIVUxNQnhLZ3dhX1pUeG5xOXZsUWpFOXEwYzVVOVkxb1hocU9wOGJyc0RiVFdJWHJLUTljQVp3RG0wXzRJMUdUdGl4X19GOXladERCdTRiYnlaTDNoNlpfZkRzY3pHRUQ1ajdDbXNna3hlamY5MVl4eTRhUTNZNTFrQTdqWDZIWjF3SDVTcFZrSVU2WndKNNIBpwFBVV95cUxPX1lEYkM1RVpGVmlmU1htOVlGSTdGbENUSHRWel81QXo2Wk5Hc0poZFdxM05RbjBTZTdMc0tael9ERHRWRXlmdFhpdm5aNTFHZXZmTVM1NDBrVlp6dW9senJGdEVXWGxDbVcwQ3A1R2tSRVlVQXBWZ25Xc3FWYjZ2cm82VHZ1eHVXSm03amtzVzZOYzE3anVjangzNFFOYTJFb2VzaEkzcw?oc=5",
+              "published_at": "Fri, 17 Jun 2011 07:00:00 GMT",
+              "publisher": "Rediff"
+            },
+            {
+              "title": "In Tahawwur Rana Probe, An ISI Link, And Two Names: Major Iqbal, Sameer Ali - NDTV",
+              "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWWlENEZRRnBMVDlkUEZ4cHlBMThoVkFwRExITWRMNUE1X09qSW9IcjlYT05GcG9UbFpBdjRtX2NoZGJaWUVNbFdvRDRuMjU5NzdmU3Vlc20yTVJ6cWNuNU1Yd0NBSUY2NXZUaWlHTnFXalJaTFhfUFhNX0kzR2JhMDhvUDl1UEJXMHVHSGt2QlU5dm5aNDJVQ3JRTjBzR2pNaGdGSndXaWlJSHpUemFyUnhRRWZGX243eHVIUG80RFhPN1YyTlhIX3ZnRTRmb3FyeXR2eEZWY9IB3wFBVV95cUxOMWQtR19YZU9pQXliVDB6WjBidXNPcGl6OW5nYU5NWHM5RUxfS1BVTDhRODI0SDkwbjExMU1VWW8zMjM1d3M5OUVldDRMM0NQcm5MRWVIVWNOWGR0aWcteUxiX3hWYVlJSUdiaTVkWjhnRHpvSDQ5RzdjNDdtV084TmZHUVNUSFZSbGxxb2RSaFJhNW9TdGozbVYzSTJKc0ExbHg0UWZmWnFUWE9LeXNmU1VYOGNGOGcxM1FFcER1RllmVEx3T3pIdDFqc0RLbVRTS0h4VUNVZjNTMTltUFlB?oc=5",
+              "published_at": "Fri, 11 Apr 2025 07:00:00 GMT",
+              "publisher": "NDTV"
+            },
+            {
+              "title": "Indians ‘deserved it’: Tahawwur Rana told David Headley after 26/11 Mumbai terror attacks; focus shifts to ISI role - Livemint",
+              "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQOXd1eWVaeHdqZ2w3TFNWTXJndGdKWHQzS1V2bVNCZnFzdHNPbkNXUlRGTi16MnNPNHNPTElhWGhpaHFPV2FOUmhrQ2FJbnByYXZnR3Q1cURNTUloQWlPZGp0ZjhSYm80emQ5MmZQelNSdUgyRlVPNDVRYWVWTVl2dWdtVEZPRzBWS29kVmloYVVKa2NPMV85bmpvbUtZUnNiYXRRSlR0dkdmdElhbzVLZ1F6STc3bldCYTIxUUhGU1VJeG92RllTdkpPT3VwallndFp5RGRrQU5ZOVlqTUlHVEpJU0lyUG1oUDVvbzlrdzlxaWJxcWl3N2ZKMmtQWWc00gGGAkFVX3lxTE82ajJpRlFCRTdRbTBRbVFxVGFKX0xaZ3NuQXBYMUlfMkg4ZkluUjRuQTdiN0N1aDVzajZFVmxBR3NaT2o2dC1zaDdHWFFncG4wR2ZNODNlTlNCeTMybDV1SW5VTS1yQkk1ZFdsLWtWbVc4ZFJGQUhKbnFYa0FmaThRcF8zbjE3dXV3WHVtWVRqWHZYclVrQ2ZWcUxCLThPMF8yVEhNdkFVYWZnTXZ3ZEVuVUY3NFoyUjRLTUNTZWh1SnhoeFpyRnRsRUd2eWhPeDBBX1N3NkNNc3lwbk5IcTA1N01JSGs0RHVLcDE0aVdrZnpvWDNKQ3VHSHBWci1MZGxsY1ZsR1E?oc=5",
+              "published_at": "Fri, 11 Apr 2025 07:00:00 GMT",
+              "publisher": "Livemint"
+            },
+            {
+              "title": "Mumbai Terror Attacks: NIA finds ISI's crucial role in LeT's 26/11 operation - CNBC TV18",
+              "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONUVjWmY4NXEtY0NfMnVTcTVMbGxWZFoyWmYxYURIamdvS2FfbFE4VVo5WXB2Qk5QaFNTa0k2TEV3OUhnSVFiTTQ5WjUwS3JnbFVISTVOcDZoNHpCSFhqQXJWTldsVmhBUDY3UEJZUGQzX1Zlak92TTh5YndmdnJwQ3l1OS1UZDg1aFJVTFBRV2FfNHlLQmxHZTZrV05JNTVfMHlOTVJBRGZKS2toYlhsRkkxakFzaHJ4eVHSAb8BQVVfeXFMTWc4NkR4Q3dEa21halA3akMxOUx4a0pGaVc5S25YVWpUT3NLMHdnUVZxOHhnTWNKQUdsUVpXM1VMNU1fbHNZNjQtUHozNnh1RlpSNng1Q2hUUnZsZFdoUGU1X3NQazVXYzF4ZUppOVBJTGtBelJqeFcxc01SNGZMcnJhYnE5bFNkTEpFdXVNSUM2LTZydkFhYjN4UTlBUEdGblZ4UnF1eWp2YVZadnh5U3pFLU5SNnBOb29nZEZRSmM?oc=5",
+              "published_at": "Tue, 26 Nov 2019 08:00:00 GMT",
+              "publisher": "CNBC TV18"
+            },
+            {
+              "title": "10 things David Headley told NIA about 26/11 Mumbai terror attacks | India News - Hindustan Times",
+              "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNXVNa1JZdzIwZ3dWbWp6R1NoWHRTdkRNSncwN3JLam1zdlA5Mmd2SnJWZEltVkNIcmVGRjAzSjFlcUFURndQcjE1T29MY1NtSHJ2dnozN3hjdjVNa1V3dWx5ZC14d3JlcUxucmk2eU5XMnd0bG5BNS02MWM3OXJoRmVNYU40dzMwSGdseDdEajJkTlFsaVBlc3ctNW9OMzBTSzFlam5HR3VSQUU3N0JVMjVQay1mOHlBMzJacmNqVHdLN0HSAcgBQVVfeXFMTW9FWDlqY1p1VWQxdERLMUxhYXVjR0xuTGxBVkk5TEttSktBaVdLXzc2ejEzZXh5eS1ieFFXbE5hZ240Njg2NU04dkhSN19WT2RGN1I4a2NZVzBRVWkzUmxaUGtIM2NJQUdQQl9FbWctVjBVbGZOUTJlOEVYSUZOVVVmcVpNWmRtWk5pdkxPQXdjRG5mNktaTWR2Z0ZEZ1hWbGFta2xjMFZndUdicU81OS1BRTBFTkZlM1RXMTllWjZwLTFlb1h4SkE?oc=5",
+              "published_at": "Mon, 08 Feb 2016 08:00:00 GMT",
+              "publisher": "Hindustan Times"
+            },
+            {
+              "title": "26/11 mastermind Tahawwur Rana contacted David Coleman Headley 231 times in India, says dossier - The Times of India",
+              "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOMGFtMVBsWUZyeklUWWg2eWFFZ1F1ZE15b2VqX25hYm1pcHA1OFE4TDdEbFVpMXljWG5vWlBJR0FpQlVfcFVhVmFYeU9DVGlkQVFmQ2t4eHRwWnRKY2RrTnVpZzFneFVnOWQtZXQtOFBOMlBJc3ExU1EyTk82UVFHY1poT1c1VTgzVnU2SW9vQ254RTBVX3hHa05yODRNT00zT3ZXQUdjVTYzZmFkSHN2bDBCZFM4NHo4VU1GZmZCRHM5V21vNnRyZzhITTVvc1BmVk9rdzhRQVhLRG91MkR3Q3BlaTJUeW4zM2YyN3RobGJkYnVW0gH6AUFVX3lxTE9pazdSZnpJQVZlcWdhcHpXMFpQeVI5YlhsWkFhMmhjV0ZnQ0J2Y0p5WE5qemcyWmpGUWRjY3FBcnhVYmxTNExQYnVIY3NRS05xa1BjR012cjl6YWxtMHRqaFBzaFByT0FwUFRkOUFJUGtudW92b1MxSnNnOHYxLUNwdkdmSGpjS25PLWpfdUMzWkZ5VXpTNmFyTnhQQ1pvN1d4YllZRVJfQ2NnRVluZmpFdHF0NHhyTm5CSzJHLXNxSVBPQ1hJcGRDU2hjTm9qYm1XX1lkOXFwb0g5TzdaS19XVkJ1d01kSVpmekkwaWpJcjA2MHNGVDR4U3c?oc=5",
+              "published_at": "Thu, 10 Apr 2025 07:00:00 GMT",
+              "publisher": "The Times of India"
+            },
+            {
+              "title": "Tahawwur Rana became part of 26/11 terror attack conspiracy in 2005, say officials - The New Indian Express",
+              "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMXEtdk9reVN5QUJ1SVgzdVdJRXJFTU5raUZnVGtBcmU3QU1wZTlMSnVKWmkxM1RWalYyNkFQTFZLd2J2b3FmOWdkc05jN1hPVmdmd1FCTzNTdWlWeXlYMjFDeFI3VENjTDdXcUFnVzhmcUhRZllVOUdoSUI0dkdBMW45VDVBTnpneTI1Qm1hWEExZUI5ZEJMYmRWVloxVDF6c3AzQ0Y4cTVDdnlqNjVrb3NzeVFCNU9SWlc1V0FfRERIM3N0dEdKV2dvQdIB2AFBVV95cUxQYzcxWTdsN01ZNUtUd1R5eGlHZS15Nk9XV2FmM016WEZpRmhybUVzcHNOa3BsX2Y2ZUhTa1Y2ZU5iYVFfZW1XTVF1U1JhdzVNTGx2SkJENEVqQU5vMndWTVBMc0hiOFpRcmhXcHdoX3JJVVRDSzRSTnFIeUFYNE1DMTNKQTFzQ2tZT25faEtIU3p5ZnVlMVJWVWdaOENwMG9kb05CaG9WajJGN05nd2hCNERDRmdxUlNGdHdNRXMtZjJNa2RvTE8wa2tCaHJuZzVpVTBwUmNVQ3U?oc=5",
+              "published_at": "Mon, 17 Feb 2025 08:00:00 GMT",
+              "publisher": "The New Indian Express"
+            }
+          ]
+        },
+        "gdelt": {
+          "state": "failed",
+          "attempted_at": "2026-10-01T01:01:43.275846+00:00",
+          "error": "HTTPError HTTP 429"
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "825e2435cf5d5f571fdf": {
+      "attempted_at": "2026-10-01T01:02:11.697230+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T01:01:49.552753+00:00",
+          "items": [
+            {
+              "title": "Tahawwur Rana asked for pen, paper, Quran; NIA questioning him for eight to ten hours daily - The Hindu",
+              "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONHFiUlpHRktad1RiM1JRN0dHRUJTdEx5YUFlb0R1TnBUMENwSk5LcmJucGxKQXdYOGQycUxsSnBESjl6bi1pZUZwMm1LbzVsUlpIWlBmNlk1WGNjNEpiN3BvZC1GZVFWWXlseWNQLTkzWlhBamxlekJZa3JGMG9nT0RqU3dpM2JLVWNSUEhzT3VIQnRlcmIydnQ4VlRTQ3BHaGhOYndkNndJSjlWeERBWUJEQ0xqWFppYU9HcXROamFKM1BpTUxTMWhJMFJlekxXVm9hRUJuTzJidlNCWlV0edIB5wFBVV95cUxNaUhaRUxxa0ptSlRRNHZzNnlLLVBENHRSLVFyeUpMV1ZwUm5ZeHd5NWp1UHdPRU50OVZaQm5mMEs0Z1dNUThVVlhIQmRlSk5XYWJKSWxhQ2cwbmUtbU5nbTVidlBoOHY2ZnIxVWpyX2dEX0VlYzRodEZ2dE81UXdITlpDcW01cjFtQXNNdW5DUmJZS2Y3djdQYy00RGczUnNIVEtGV090SUpBVFoyMTNyOUU2MFFUNzk1UmQzMmF3MVRtMjZEUFNlT2VkbmtoSXNZRE84UkV5TE1RaDZ2anhwWHFqeDZCaU0?oc=5",
+              "published_at": "Mon, 14 Apr 2025 07:00:00 GMT",
+              "publisher": "The Hindu"
+            },
+            {
+              "title": "In Tahawwur Rana Probe, An ISI Link, And Two Names: Major Iqbal, Sameer Ali - NDTV",
+              "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWWlENEZRRnBMVDlkUEZ4cHlBMThoVkFwRExITWRMNUE1X09qSW9IcjlYT05GcG9UbFpBdjRtX2NoZGJaWUVNbFdvRDRuMjU5NzdmU3Vlc20yTVJ6cWNuNU1Yd0NBSUY2NXZUaWlHTnFXalJaTFhfUFhNX0kzR2JhMDhvUDl1UEJXMHVHSGt2QlU5dm5aNDJVQ3JRTjBzR2pNaGdGSndXaWlJSHpUemFyUnhRRWZGX243eHVIUG80RFhPN1YyTlhIX3ZnRTRmb3FyeXR2eEZWY9IB3wFBVV95cUxOMWQtR19YZU9pQXliVDB6WjBidXNPcGl6OW5nYU5NWHM5RUxfS1BVTDhRODI0SDkwbjExMU1VWW8zMjM1d3M5OUVldDRMM0NQcm5MRWVIVWNOWGR0aWcteUxiX3hWYVlJSUdiaTVkWjhnRHpvSDQ5RzdjNDdtV084TmZHUVNUSFZSbGxxb2RSaFJhNW9TdGozbVYzSTJKc0ExbHg0UWZmWnFUWE9LeXNmU1VYOGNGOGcxM1FFcER1RllmVEx3T3pIdDFqc0RLbVRTS0h4VUNVZjNTMTltUFlB?oc=5",
+              "published_at": "Fri, 11 Apr 2025 07:00:00 GMT",
+              "publisher": "NDTV"
+            },
+            {
+              "title": "Indians ‘deserved it’: Tahawwur Rana told David Headley after 26/11 Mumbai terror attacks; focus shifts to ISI role - Livemint",
+              "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQOXd1eWVaeHdqZ2w3TFNWTXJndGdKWHQzS1V2bVNCZnFzdHNPbkNXUlRGTi16MnNPNHNPTElhWGhpaHFPV2FOUmhrQ2FJbnByYXZnR3Q1cURNTUloQWlPZGp0ZjhSYm80emQ5MmZQelNSdUgyRlVPNDVRYWVWTVl2dWdtVEZPRzBWS29kVmloYVVKa2NPMV85bmpvbUtZUnNiYXRRSlR0dkdmdElhbzVLZ1F6STc3bldCYTIxUUhGU1VJeG92RllTdkpPT3VwallndFp5RGRrQU5ZOVlqTUlHVEpJU0lyUG1oUDVvbzlrdzlxaWJxcWl3N2ZKMmtQWWc00gGGAkFVX3lxTE82ajJpRlFCRTdRbTBRbVFxVGFKX0xaZ3NuQXBYMUlfMkg4ZkluUjRuQTdiN0N1aDVzajZFVmxBR3NaT2o2dC1zaDdHWFFncG4wR2ZNODNlTlNCeTMybDV1SW5VTS1yQkk1ZFdsLWtWbVc4ZFJGQUhKbnFYa0FmaThRcF8zbjE3dXV3WHVtWVRqWHZYclVrQ2ZWcUxCLThPMF8yVEhNdkFVYWZnTXZ3ZEVuVUY3NFoyUjRLTUNTZWh1SnhoeFpyRnRsRUd2eWhPeDBBX1N3NkNNc3lwbk5IcTA1N01JSGs0RHVLcDE0aVdrZnpvWDNKQ3VHSHBWci1MZGxsY1ZsR1E?oc=5",
+              "published_at": "Fri, 11 Apr 2025 07:00:00 GMT",
+              "publisher": "Livemint"
+            },
+            {
+              "title": "Tahawwur Rana Might Be Planning Of Conducting Similar Attacks In Other Parts Of India: NIA - ETV Bharat",
+              "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTXh4QVg5TThnTVBOX2syQ2NYWXV1VnU3aWJpTHdNMkluVXV0R2V3ZUFFU0c1czd3cWVhMEdQQjd2aDV3a1d6bVBlUGtIQlhidk5zRlBSUTB6NUp1WU1WT0pIZEVNUzFrWFQ3XzNUb3BMcHFDTi00OEVxZVM5bFBrNXo0MU5ET2ZvUU5xSnFqNEJ4U0c4R3hsWEJXeURHQ3FKOGFuRGVud2MtWXJrYldqMVpSRFp6Z3h6TFljQXoxbnZJZGEwOU13enktSnVBR3BYdmlTcGx1b1XSAd4BQVVfeXFMTW84Z1ROQ0JROHppY2EtR3pGN3FqaS01bzVSWjRiZ19wQW9zaEhZc2QwRW1pV05rZ05iRTZSYk9WOEFJdkRubnFBRlZXT2hGaWZkOVBrV3NJc1BhR2p4eVQzaXNDeTlVcDNEZHhpSmNQOF95QnV2N0prMUM3NmtZdnNaYmRNMWZ2RFpSSVZUWjMtMXRLNU9MM2dMU0hoSHNUUzdtakd2cTQ5aGhyWEktcDYwRElYWk1qejl2TFRqdTVFaEZuLUlWYmJVNlloWkRFb1VVNFZiZC1lbkV2Rnhn?oc=5",
+              "published_at": "Fri, 11 Apr 2025 07:00:00 GMT",
+              "publisher": "ETV Bharat"
+            },
+            {
+              "title": "Mumbai Terror Attacks: NIA finds ISI's crucial role in LeT's 26/11 operation - CNBC TV18",
+              "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONUVjWmY4NXEtY0NfMnVTcTVMbGxWZFoyWmYxYURIamdvS2FfbFE4VVo5WXB2Qk5QaFNTa0k2TEV3OUhnSVFiTTQ5WjUwS3JnbFVISTVOcDZoNHpCSFhqQXJWTldsVmhBUDY3UEJZUGQzX1Zlak92TTh5YndmdnJwQ3l1OS1UZDg1aFJVTFBRV2FfNHlLQmxHZTZrV05JNTVfMHlOTVJBRGZKS2toYlhsRkkxakFzaHJ4eVHSAb8BQVVfeXFMTWc4NkR4Q3dEa21halA3akMxOUx4a0pGaVc5S25YVWpUT3NLMHdnUVZxOHhnTWNKQUdsUVpXM1VMNU1fbHNZNjQtUHozNnh1RlpSNng1Q2hUUnZsZFdoUGU1X3NQazVXYzF4ZUppOVBJTGtBelJqeFcxc01SNGZMcnJhYnE5bFNkTEpFdXVNSUM2LTZydkFhYjN4UTlBUEdGblZ4UnF1eWp2YVZadnh5U3pFLU5SNnBOb29nZEZRSmM?oc=5",
+              "published_at": "Tue, 26 Nov 2019 08:00:00 GMT",
+              "publisher": "CNBC TV18"
+            },
+            {
+              "title": "Rana did recce of places other than Mumbai - Deccan Chronicle",
+              "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU3VUWGh1bllzT0VyVTdpSU9KUFR3cnpLWi10SVh0NFJqR1h2eHdMZWE2eW1scW1FNmVyR2ZESjVDVjUwWEhncE53QXM2N21rcmxQV0VLZDJVTUR3Q0psUGV5M0paTWFVMnctYi1zdGZjdlpVcHdHQmNtNXRzVlBoX1lrQWdRYVpySlNwbDRabmVGTVnSAZgBQVVfeXFMTm9DWXZ3MTNUc0x6RWFjbVZxQm95bXlKUlVuMWRiOTdVbzVJeE5EckE2dzk5SzFua1lCczJoVjlMZEV0cHlOY3VVTGZ4d2VWelZOSFY0S0hKb1VrdTVvaFZwbzl3aHVpdmZ1SzF6Tm5FbkZvQWVVNjFydWdYYlA1S3cwa2FfemMyTV9pYVktdnBzd202YUVkNm8?oc=5",
+              "published_at": "Fri, 11 Apr 2025 07:00:00 GMT",
+              "publisher": "Deccan Chronicle"
+            },
+            {
+              "title": "He helped plot the 26/11 attacks. Now, justice closes in—Why Tahawwur Rana is a really big catch - The New Indian Express",
+              "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQLUM3SzJsNXFISks2TGRCVVR4LUpMN0FqUjVlV2hNOUNaZ2FCN1UwaXFsZ0NIbmZ1dEhOUVNGRkItMV9QMm15cXFwVHVsWlNVbGVlNFBZcFFSNzRlRGoxdFZnRUgxcms4bjVUUjNuNUQ2ZTlSMDd4OE82czNtY0tFUVFYeS1JWjRjeXRGZ0ZDdEtUbXcwUzVJcXRXSWJRbk8xZlUteVM2NFJvb3hTbmgxS1hSWmE4SUo1aWM5VmgxdXJfSG5aejJOLU03SlI4alEzLVRidk80VFFqTGliYUJwU1Jn0gHvAUFVX3lxTE90US1IN2RGR3NlWU5mczdzbjZqaW8weEIyaVhUdWU1VXBpVmRzNmhHcGtKSS12MDhIQldIYjAxUVRwc0N2TDVyZTBpV2pUOXYwcDZDVTN5a2tVV2ozT1ZwS1FpbzR1SGwxRnFJMUdNeUgwbldKZEhpYjBudnBfZlhMNXBXaWdHN0QzUHNwWG1BNG8yZkxmOUtmQ1FBRnRlUkt4LXhWQ0Vqdld2SFFvTFBWR0hveDdjTi1aWDZCN1djVDlBYkNpLWluRmozV19lV2NwMEk0aC1mMUIybkFISVc2aElGVDN1V0RzV3VrNnh3?oc=5",
+              "published_at": "Sun, 13 Apr 2025 07:00:00 GMT",
+              "publisher": "The New Indian Express"
+            },
+            {
+              "title": "NIA seeks warrants against Headley, Rana, Saeed - Rediff",
+              "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTVNMN0kyQ1FUMkJYNzJkMWloMTYtcm5wQV9GMy1FeHZNb1F4NkNsbjVGc0JkUDk0dVM2ZGtYQnA2aFJabUpndkFBQm5kVGtHcGJvVmI4X3dUQzU3aG05ZjlJdWxiek1tb2E2aGJnaEpjcm5FVGpTb3RXNVpRdmliY3pkeXFZY3p6QlVCY2R6NVV0SHRyOHF0StIBmwFBVV95cUxQVmVhaGtYSGJEQzN5N1p3M0JiaWFBX2JmVUpGUFFZVlNOQ3gxMVV4RE9pckhncjBDMGU2b296QWNFRTRIZXV4Mk9wMElmNjdSMjdRNFcwSVdyRmswMW90WWNKQzFYVUNRNUNZM0tBaHJtNXRlTjhxbEUxZ2RtTmNNTzlnaXRDbFRlQzVJQ2I5RDQ4a1B6d1lrQ183dw?oc=5",
+              "published_at": "Fri, 09 Jul 2010 07:00:00 GMT",
+              "publisher": "Rediff"
+            },
+            {
+              "title": "Gang of seven Pakistan armymen behind 26/11: Headley - India Today",
+              "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOVRaY0xjdHdsbGo2b0wtU1g4RmlrRERjaUJMWC16V2J0QmY5QV9rREpsNzZJSUNUWU53OTlGeVdJUDQ0TGtJVVllbU1LbVJ0TjhhNG9YcnhfSnNGVHJSNG5kbFRRcU9MUElQRUFoT0ZDUGt5Z3J0X0tLUG9kRWZyNU10OUVweXJ1ZXVoNmppdS0yU1VRdHpvSktiREFlQUVOc0tBbVdmMnpjQy1rbFBqRGtB?oc=5",
+              "published_at": "Thu, 21 Oct 2010 07:00:00 GMT",
+              "publisher": "India Today"
+            },
+            {
+              "title": "Interpol warrant issued against five Pakistanis - The New Indian Express",
+              "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZUhGSXRJTkU0SmxGazFVMVF2Qjk2MWVFNGprYi01QUNoOHNoWDRJM3BfMkwyR2VCRTc1c0Y4SXJQem1CRkxjeWx1TGxlc2psUHRZUzFWaEkzQUgwM3VNVkhaOGVPQjN4TWp2aEF1LVh2OXN2cDJPd2ZCTHQ4T0pFUUZSaDdBV0w5ZHpQSjBZQ1NvYTZOUjhvMC1yOGR4Mm1JcU5CclZTUGl0Nk16bWhv0gG8AUFVX3lxTE1IR2FzaFhfMS1fLUtCQU15TWkyUEl5OWFqSmRKWlVPMjVGY2I2OEpXV2luQ0Q5UmZmYkY0S3hndmVhdERfanBuZXFXNm00aVhYc3duMUdNbE4tYURyU1Z4TVRyRmRSY3NlS3FwVS0zX3M4RWltUUJmWjF2OVZSenBxTmtsdzg5TG5LWGhraU53ZGpiajI1Y1Q1SENxU3JBc2I0cmttN004OFNqRWE2OTZtaHMzM2pNeExHT08t?oc=5",
+              "published_at": "Wed, 16 May 2012 07:00:00 GMT",
+              "publisher": "The New Indian Express"
+            }
+          ]
+        },
+        "gdelt": {
+          "state": "failed",
+          "attempted_at": "2026-10-01T01:02:05.697051+00:00",
+          "error": "HTTPError HTTP 429"
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "21c2caa0790e52f707bd": {
+      "attempted_at": "2026-10-01T01:02:34.919014+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T01:02:11.911506+00:00",
+          "items": [
+            {
+              "title": "Bollaram arms theft: Police get custody of former Army Havildar Mallesh to probe motive, weapon trail - NewsMeter",
+              "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTVBSVThnQVhZcHFLN2Y1TktRSUxqLW1UbE1lVW9rWXZTVi1uZXN6eDVXQ185amhuVTZPclJWY1RkLXV0SmZrb2dVcVV4Mm9TemhRZGR2U2pCVDJOZWFHUloyLWZKZW9mdDQ0QjZ6SEVqTXBvLTVKZkpDM2N1MGxta2JHbzQxb3FlRTB6T2tZMHJ2M0E0N3dIRnNpbXY1bTBJNDVGT2pEOEZlZFkwTWUwMzByZk5qQ05GeUpidE8wdVJuaS1EN1g2MWVBcnRQSV9PVzhHQ0F3?oc=5",
+              "published_at": "Sun, 13 Sep 2026 11:11:10 GMT",
+              "publisher": "NewsMeter"
+            },
+            {
+              "title": "NIA chargesheets four more for funding Maoist activities in Chhattisgarh - The New Indian Express",
+              "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWnZsV2tJQ3pwZHJZcHZMX2pfSlFRbU50TjZuclh2OTFUcHkycC12aFRDQnFxYTE5MzVUUWQzOG84Mk92bzRIRzNyVktKSnp1MGtoTEVxRnZYVXJRNmNhM0tDYWl4bThiVmFVOHhobE4zODZBS010d1NaVmg1VFp4RWRFeDRXS2pXeF9DNEItQUhkMHp2NE45QU94QlFCM0h4TkFYWC1SWEw5U1lUbVdzTmN3cF9LOEtzb2dSQkdmUEfSAc4BQVVfeXFMTy1EV1BJc3dBNVBQZGIyc0VXdmxRamZfRkpSc0sxeWtXOGQtbUtTc3F3clRhRTlkZ3FCUk9ibmJNaTU3dE5rZ0hYWDFZVE1KUTRwX091WWV2RHZRcXdFRnQ2eGtfVFVtUzcxeDZVVW8ydlIzY2gwMTk4NUlDWElLZjNkZktWS29BNlIxeFdxS3htWjlPRGU1dHNycmRfdjBpOVZWZkR3NHc3NkFMNUZ3M2lZSnZtMkxtZ2xjV3JyMm1MM0FZMjJJWkZzUUpER0E?oc=5",
+              "published_at": "Wed, 01 Oct 2025 07:00:00 GMT",
+              "publisher": "The New Indian Express"
+            },
+            {
+              "title": "NIA files chargesheet against 5 accused for aiding CPI (Maoist) in Chhattisgarh - ANI News",
+              "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRWhFOVZ5QnVtRThscUpJWG4teEsyd1ZYZ3lnM3dZVWtHbFRkR08ySDVEazYza2YtNUNUYkZXWHhRNTNmTHFTYU1JR3FLbzZITlV0MzJGWkVLYlg0dDhlZm1Fb1lhZlh6dHFQcFZLUHV3anozOU9zbzhhV1IwdmxiRUFqVzdDam1iVno2akl5d0hHRHpVaGFwZE9PU2Y2QkNGUUl3YkR5aVYzSlkzY2VfUnVYYVo0NmYzMFM0ZjB1M0NVVlZCc01UX1RhOUtjVGd1SkZOMkU4aUc?oc=5",
+              "published_at": "Fri, 09 Aug 2024 07:00:00 GMT",
+              "publisher": "ANI News"
+            },
+            {
+              "title": "NIA files charge sheet against 6 more CPI (Maoist) cadres in 2021 Chhattisgarh attack case - The News Minute",
+              "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWlJDQ1BaQWliWWQ1bERwcmkyOHNmZ2kyb2xZUUEyMmdMTXlNNl9ZYmNobG9wcl93NkhWdmxNUE1vZlptT3dBNXlQSnNIemJqUzJhSEI1ZTU4TjFBRjgyaTBSbXgwS04xbnA4ZTdvNGZwVDNuVUliTHlhNU9vamVGQmp4MmFtWk9mc3hYX3pXMHVQX1dnYWloblVheEV1anI4QkkwalJ3NG9fb3YxMWxiaGZ4VnlEX2ZaSUZKYTVhNFjSAc4BQVVfeXFMT2xDRDNic0ItT1VnZ0lfbDI5MnJxc2M0Nml4d3k2Y3JuX3pEOEowUC04Y1pmWWw3R1o1WjVIcE4yR29Ud1JFV3pWeTRGaVN5NDUxTEE5aXFPdEplbVBESS1HWF9HVHJPOVl5bEtDWjRfdjFaQTVjX01CV2pvVU1MREZSWk9vVjJ5bHlXMTItcjZjMU9lLWV3OFAwLUFDbVZkMTlta1NZTlFaVTEyaGh2eUpiNGhkV05BSGU5OFQ0dURBaUhFXzF1TUZMM2FnaHc?oc=5",
+              "published_at": "Wed, 22 Nov 2023 08:00:00 GMT",
+              "publisher": "The News Minute"
+            },
+            {
+              "title": "NIA charge sheets 5 men for providing logistics, support to CPI (Maoist) in Chhattisgarh - theprint.in",
+              "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU2R2MkJ3dEQ5Q1lHbF85NWQzNlRnenhORk02LXE0bHRnaG8ycmpmcWE0UzlrYll6Q1h0cURCRzJTazRIV1pqZW9YdG1rTUtiNExFY2xNQlYxeVNZVEZ3OXUwRk1Ob1N5ajdCWDhLRGFvUmhxUXd1eUJWRm00MmcyNkxtQ0tXTGRIT25TUUYxTGpsRmE3MkhIbXh6SWRlVGdMUVl3YjBOTlNyaGZTS18xaHV4ZlFhRUIwdFBBTtIBwgFBVV95cUxORWZvWXpjdUx1ZXhCSXNnckFkck96SzZLdG9hTG45Q0pSZ3BMWjNBU2RDVGc3WnlHcnJiNThTQ05yRmdiQlZSRFFWN0JoeGVaYjV6RzNpRXhIWXdIeUFpMFdJVllaTmtNclQ2YzFsS000ejN4T1FGNlpFUlZNVjJ2Z2VjREZhNUg1LVF1aDg5V19RdlUwTkQ3d3lPTUI1S09YLXctZUNuM2owOHhHb28xdnVXZVRURC1QQ1FGR1pEa0lTQQ?oc=5",
+              "published_at": "Fri, 09 Aug 2024 07:00:00 GMT",
+              "publisher": "theprint.in"
+            },
+            {
+              "title": "Police to grill ex-soldier in Secunderabad armoury heist case - thehawk.in",
+              "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS3A3Nm1NOTNoVU5tWG1YbHdZLUtONkQyMGVpMXJVNEs1UzRMbzFBWDZLZVlQemU2aTNoSHVfTjBGTlBoSlFEWEo2dng4TjZFOVRlSlplZ1JZVk94bjF6aG1tTlpQeFV0dUtPbkZHb1pTU0VDckxhcFlUbzlDWE9UV1JYOE1DLWxNa2JtdHdaVkxsQ29WX1RxLVNDWQ?oc=5",
+              "published_at": "Sun, 13 Sep 2026 09:42:32 GMT",
+              "publisher": "thehawk.in"
+            },
+            {
+              "title": "Secunderabad army arms theft: Ex-soldier to face seven-day police custody - Zee News",
+              "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTjlJdmZVQ1M3anZzTWQydm5WLTJFZHdnNHBKWmRNWGxMQlNlakZlX1pUNEpoTjREWHJxd2dwVlFGbVl6WkdOMEIyRjZOVHA0UFp6cUc2dnlZemRhd1NlaF9qYm5lV0hXUmVxdk5aazRsWkxZbnlFYnMwQWc5WHA0VTRBeVl2SVlDNmx0bTU0ZDVLNFlvUERrekNwdEdVajlRRXoyYmtZSlR1ZWw2cDBpSTZFSEZOSlVC0gG-AUFVX3lxTE9Jc1J3M1RDMWt5SUdrQ210V1Q3Y3VSQWNhLVpCVE9OLVlLZm83dERDREg5NWNscW1xT284Q21UTHRkUTdnY1JWT2pfeVZmeDc1XzFsdHpmY2xxSVJucGNnSE9JZVpWTUV5QldSdHpJc1J4MkE1aG5IX1RZOW5CSWNzbW84VE51OHp2Mk1LSDM1NE01amNxSDhXc2EwVU5zX3hKeTk5YXJnWXlPODhnSWVKT1ZsNDZOYUwyZ0thcnc?oc=5",
+              "published_at": "Sun, 13 Sep 2026 07:00:00 GMT",
+              "publisher": "Zee News"
+            }
+          ]
+        },
+        "gdelt": {
+          "state": "failed",
+          "attempted_at": "2026-10-01T01:02:28.918824+00:00",
+          "error": "HTTPError HTTP 429"
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "4ef312bd0e49a6f1f1de": {
+      "attempted_at": "2026-10-01T01:02:53.550389+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T01:02:35.264374+00:00",
+          "items": [
+            {
+              "title": "NIA searches 15 locations in Punjab, Haryana in Babbar Khalsa-linked grenade attack case - The Hindu",
+              "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdU1UbWstTy1xYmVTLWJRZFd2TF84d1BsVXZIRFZoakRNYnJfdzV6VF8weVpEWWJ3MDBmNF9CUjA2bkU1WUNwVnJPdDZGckpvVGJ2b25OdVBKU0ZyQ3E2N2U0MlV2YVVqcTBIVWo4aFhuMEZWMVVGa3V2WHlxVExhdHZaNVBkb1NoR0VSNlRwdGMtMExlclM5VmNYMTIzTkhWM1d4MDhEeFRUUHhhQ2dCVWtlSDJEX2NHaGZLclh3Vkd5SFBhNExxMG1faGdwaXE5eDFxeDdFdUFfLVZwSXJv0gHmAUFVX3lxTFBUUEFWRUhXcUFlSXFvZ0kzcTRKWnI3b3J0ZUhFd3p0THI2NmEyYm54blZjRDE5eklqRWdEanRsT05qNkF6ekgyX0JvZHFTejFBaHhGZVhpNmlPczMybExBYWs2ZVgyMnZBWi0xMTJmT0drb19HdnBqSEVSTURSTDRGSjNxdGc3cWNLVWthLTlNdUtJeVJtMG5hN1RTUTh5VUNhLUhHX3FRSEdPZ3VzZUdQa0w3ODROWU5JSWRKUnZVUS01UkdwaGNlZkh0aWVYNEJvOHV0SF9rcjdQOW1WNVNsckZDWjBn?oc=5",
+              "published_at": "Thu, 12 Jun 2025 07:00:00 GMT",
+              "publisher": "The Hindu"
+            },
+            {
+              "title": "NIA files chargesheet against accused in Amritsar grenade attack case - theprint.in",
+              "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZjNoOExXZmxoM285aFlDOFRCNUVZMUk2VlA2Nkw2MGJydVdLQmdHbWNpM2dkR0pkOXJOQWNNZm44TW9YY2trNlFiNHpLOVlheVRzVVN3eTVKQzhMcG5uTHBHSlk5WTFmMzJEZ095czJVd3JFbFVsQ09lSjRIMTJ2dHlaYVh3WDN4WEYzZ181WVhaM3htM2pHSm1XOUF3LUpyVUFEeGpIQdIBrAFBVV95cUxPN1JEVWp3VlhNWEg3WG5qWFV2MVdYR1pWbGg5N2IxYVVPWnZPb1pyaDh1TGdLQ3BEYkhiMllXVjM4VlpEU3lEVU9vLTgwcDZCakRIb0tHWGlVM29TdjNKVGtRY2thRl83OF9zemJCRGhCbUxaNWZVdXBmM3lNaVNodVowN2s2dlBzWnQ3NndUZmI5LWpNMWZ2Zm5zN04yT0JGYzZsOV9sZlpISXFx?oc=5",
+              "published_at": "Fri, 15 Aug 2025 07:00:00 GMT",
+              "publisher": "theprint.in"
+            },
+            {
+              "title": "NIA raids 15 sites in Punjab, Haryana in probe linked to BKI grenade attack on Amritsar Police Post - newsonair.gov.in",
+              "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVVBoWWVzQkRCV0FPaVBhTjZJbGhFaERXQkcxRktHUERUTTMzcXNEWkFYNi1KNmxrUUkyOENOMDhQRVNFOFJjVEo3RzdxUDhhXzNjU05MZDl2UGJiTlFUWFlNVUViZTgyYWNia0pZR1I2T1FyT1V1aU1CV0l4V0JNZFR0ZVo5aHRxVTY4b3cwcW5MYmJ6OGZmZE9TZ3NxeTFQUHh1UjRPRGx3QlhJZmR2c0ZPZlpTdnU4NkN6MTExSnhkQQ?oc=5",
+              "published_at": "Fri, 13 Jun 2025 07:00:00 GMT",
+              "publisher": "newsonair.gov.in"
+            },
+            {
+              "title": "NIA searches 15 Babbar Khalsa International linked places in Punjab, Haryana - ANI News",
+              "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSGhRWE1oS3FGMVU3UFllMXpOakg3S1JXVlMtSTlNcW56V0RXMHFXWTlCWlg3MkMxbkc4aEpHY1FTbE1TcVpDM1lCMjZhX1NNUU1rb1laQWRGRzA1NzdjWGNhQWVlTVljMVltS0dRbnlHZ1VWZERCR0hrTFFaX2hFZzdYRTdKcVY5czVWRXlQQUdiZm9oa2paRWltMkU5YXlTMm9Ycnh3VGw2Nm5fbTVYN29oYmJfTzg2QUltZDBOZjZBN2lYc3dUc05ublU5enNIZEc5enFn?oc=5",
+              "published_at": "Thu, 12 Jun 2025 07:00:00 GMT",
+              "publisher": "ANI News"
+            },
+            {
+              "title": "Gangster-terror nexus case: NIA chargesheets two more Khalistan Tiger Force operatives - The New Indian Express",
+              "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWW5QNmUycFpTX3g1cTFncGh1ZzhqTF9IWlg2LVdDX2poUGlmakU1Sy1SaFdJS0l4cFgwbzhZZThqRkQxY0I1VEFxclRSS3NJRGIwWGpJTU5MRmJYODY4QnVxYndHUkZLeUtzdkgzZDhBSEV4OThYSXRQc1lRWkVwSXVMaEFpZS1DbXB1eUZnYTN5ekxjT1NVSE9vbHJVZkJ1MzUwaE5hWEZHakNZS0l5UVNOVTVvWUlFRkV4eVVVT2pQTHRzcGFReGR2bVZkSC1jWHfSAd8BQVVfeXFMT1ZIck1tMFZfNXFueWRIQXZBRkRLSVJnYXRMZlI3Q3RjZGIweGotdlY0Yjd4aVFxeUFaQnBQdGxjZHdHSmRfVE8taFJiUkl6RUtmNll6XzdfTW5aMU84RWZHLU1MRFpyNDdTS3RYQWJFNjhwNkpWM2tnNUhBRC1pMU1nLXlpSi1TTGRPSDc4eDdqaTEtdEs0VWVRTmNzUXlXRmVCVWQ1NmNWdDA1ZXdERUtqVGVIZjN3RU1wblk2bnlVLTduTzhEUE1vRDQwTTJfYldqRTVIZUxfbEprSzFFWQ?oc=5",
+              "published_at": "Thu, 01 Feb 2024 08:00:00 GMT",
+              "publisher": "The New Indian Express"
+            },
+            {
+              "title": "NIA charges two alleged aides of Canada-based ‘terrorist’ Arsh Dalla - The Hindu",
+              "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONlBVVjdRWUVBdG5hSFpJdWhpdkZya2t2ZUctT2FQTms0QUZsMmZrXzY2YlY1c0x1eXZMOWt5d25tX1FTM19PaEVuZDNrSkJjNkVjQUtaV01qWjJlYW1XNGxxZFFPa1VkWFJTMlBZOFp0b01fOFp5dGhneThIVWpMV3c0LUtsa1ZvaGdxM0doNFJQZng0c2N6bTJGdEV5Mkl4MTRLWmpmLUt5MXlNdzd5Zm5nRUdWUV8ycDRBRGZNUzR2MFhhVU05TnhB0gHQAUFVX3lxTE9YZ0hsQWNxbGR5bXM5Q3JPeG9Qc2FLdmR3anhlcld1eHpHR0JWTE5FSkwtN2ZwTFctRkpEY2l6eHNTRWp6S01LTWhEZV9TUnVGb2IxV3kxXzBjaHVQS1FUQU42cmFialp3Z3FTbmFEMGRidDdoRW9UOTFod2drSFlLUHk1ak9TVFNORnQxUEJCZ1F4SzZTOEVpRy1WV0twemQtUlpRV3A0a09IdHh1MWxTUnhPTlJyV0gyZHFEY1RZMlRVM2w2VzhJcnpFY3hCTHo?oc=5",
+              "published_at": "Fri, 02 Feb 2024 08:00:00 GMT",
+              "publisher": "The Hindu"
+            },
+            {
+              "title": "Interpol issues blue notice in Khalistan-linked probe | India News - Hindustan Times",
+              "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNTXNtVGJONTVJQ3JaT2VWb2gxWmZQdXdmb281WXlVVElqSEZMMzFabDdOVzEwN3FsQWJqQi1mQ2lFYzM0UVo5WU1SOTMyWmEwUWQ3RGtqMEp5VklldVg0ZUR1d1Q4ZUJUZC1DU3liX2NScm53LU9pSWxMWWFFd2JEOGZPVjh1RUUwRW0tenBNSjZ5MUxCSVJRc2pMN3dqbGZZTExRMG4ybEtJOXZQYTlkcjBFQlZMMEIzU3Q3eTAwOXVjc2JNYThrbGtVOUxwRXRHQnNKaG9LMGRDaFpQM2RhNVBlV2Jtdld1SlNmUWs4UFRzQVRJS29HTmROUXJIcU5TLTVkRHlvTkxNYjhvNXQwRNIBlgJBVV95cUxQXy1LWE9JWHVGSWE3N3hKd1VJSDBuVzdfTGRTbnVtU2I1V3RzdUdpYTh1Wmg5ajRma1VxVDVSeFNNdmQwdlRLNks4WU4tTngxQUt0LWt2ZlF0TTVKeDFqanlqS0o0a2pSYkZ3enZ1SVhmU1pvekUtVjZUMEJMM01ZbmpFdjU3QWZWOHdLUXc0aXVseUtsRmlyMVFYUEU5LUFydkdJMFJkWU1VUUxOVGZPSHE3bU91dFZZR09XN1JaR18zeUpESS1OZ0lfOVM1aEtjN1ZiUDl5VXBBV1R0RnZlaXZUUjBWbU1uNGlKTENTR0F4TGFVZkpuTm9pa0tvaHNZenlsYjBjMlRoLVdYdE5vWVN2czlFZw?oc=5",
+              "published_at": "Thu, 11 May 2023 07:00:00 GMT",
+              "publisher": "Hindustan Times"
+            },
+            {
+              "title": "Maoist recruitment case: NIA searches 9 locations across 4 states - Newslaundry",
+              "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdThKeUpYZEc2ZXdWdWRKYUZHeUYyREhQX245bjVkUGNNbVJ1ZlktSkxPVWtqWHpBVkEtWTVHZTZ4Qzl6eWZ5RjN2YWdOaHA1eDRvamV2dU4wTk43VXFMZUxQYWR6YmUyVlZTTHBlaVM0dXVZMnJ6RUN1VmZ2amlkNGp6MndDM0RIZkVkOWpEQjFxV1V3SGp1QjFjZ2VHeGt1cnNLSWt30gG7AUFVX3lxTE5hZXgwQWRjYzdEcTNSS1hINGR3S3BHQ3A3UHpzN1FQSktGa3JZeDc4UkxXTE82azhZbnNrZGFET1pkTUllU1JRZnJnVG55ZDlqbzgxdmZGSXhIdnhsMmQ0SmthTmtfVmNZbERMd2JqNDdjcDc4QkFSTnBqdGItMjd2OTdSSGhTZGZNVzRaOXFqODdCWHRrU3UybGVQMTJpNG8wb2MtQTBwd2p6UFYzTXZmTGtLVURfaW5UT2M?oc=5",
+              "published_at": "Fri, 30 Aug 2024 07:00:00 GMT",
+              "publisher": "Newslaundry"
+            },
+            {
+              "title": "NIA issues LOC against three Khalistani sympathisers and gangsters - ETV Bharat",
+              "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQX3NXZWVqMU9ybkk4aVFkS2l0MFl4QzZMWTZwOEhZTjRDWTBmZS1FemdhMWl6RjIza25ETUF3dVN4V1hCQXpqbXFCb2pJNmhRVTV1VDI2bVM3T0RfUDhMMU13ZTZxM1dXLXljZ1NJVjV3SU1UMGx1YU82eUpUZmpyOC1SSVlsWElBRzh6T1ZHTVgyS3FtVW55S1M1ZHUzSHZiT1NDOWN2c1g2MTB1ckhndVpDNWxoOU80TEV5ZGQ4N1NUNTN4a0IxX1h1bE9fRE3SAdQBQVVfeXFMT2dTSThrWHlGRWhlcDQxOXFiSktrWm9qaHgwX1NfV25lQXRJUnl3SHZYV3U4MVVGdkxSYmttVFQzNzYtdXB6WERsNXNkdFJmRVYzMExHb09UR3Z5ZDNjODNuZXRHdVMtdTVHcUFNWGFfcjR1V3FxSzkwbUlWT2VFNC1WS3BFVnQxem1JLUIwQTVaZEE4YkRGSXpsandwNUhVNThUUklqWUhkUWN1RXkxVUU0QzlNTG10YS1TM1V1ckRWTWF6Qjh0MXhKOFNJdzhsUFJuVnU?oc=5",
+              "published_at": "Sat, 20 May 2023 07:00:00 GMT",
+              "publisher": "ETV Bharat"
+            },
+            {
+              "title": "Two aides of Canada-based terrorist Arsh Dala arrested - The Tribune",
+              "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdjRLUDZRRkRaSDdkUkl4VlV4NktleTExU2VCVnRDYldrVjV1cThGRV9Lak1WYmtWVVNDaXhvTVV2OWRwTnlodzdxeFlIOW5EZlktNkg1dHlwSXJQWWtsMjRUM3ZVTGN5cWNFVGxKeG45UE5PaHAxMjY0ZFljS01NajgwNm9ORHJOZmRidEFENkxjUDVFMFE1bldldXJqRFdKVWs1NTV30gGqAUFVX3lxTE92WEx2Unp5MVZUX2FUcVZaU18tVDZhRG0xX3RBaUNpSnBQcm5VTDNzR0JtbWFRc1Q3WW1Iel80bUVGejdVTVVnMUR2ZmZScnJ2NTUwb3pKT1FXRmpLRXhMY0tKSFpZMUFzekJpUnd2SEkwbDN6VmQ3enNBbkRiZzhaUE9sSndvbXBtYzZXN3p5MFM4RjMtbWpmTkwyVzdjc21OZnpXUUdGWVFn?oc=5",
+              "published_at": "Sat, 12 Aug 2023 07:00:00 GMT",
+              "publisher": "The Tribune"
+            }
+          ]
+        },
+        "gdelt": {
+          "state": "failed",
+          "attempted_at": "2026-10-01T01:02:47.550200+00:00",
+          "error": "HTTPError HTTP 429"
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "ee2f0ff507aa7464b951": {
+      "attempted_at": "2026-10-01T01:03:11.994383+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T01:02:53.794820+00:00",
+          "items": [
+            {
+              "title": "Birsa Munda's descendant Mangal Munda passes away after road accident injuries in Ranchi - ANI News",
+              "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQjI1Z3RIcWxXVEFuU0VCc2VCMGJfbS00bjBPc2NDYW9vZU11RXVCZ1ROVWJEeTVLenNTYklhUm1EVjByQjJYYVlfYmVDMkZlVWMtbjBTOURhVE9RNS1kazdQRGJfdmZ3VWhRRHhKTnFyMmRXSDNxenhlaDZlWWJwUHBEaGdmOFJudE9pM0E3VF9uRWZDRGMwd0NVQ0ZmYjhIWFNEZVZYbXNDaTAyNmV3XzNZSHluUldqdTl6R0FINXhCdk5OYXZ6RGNJMV91UmVVWTBuWFlsempQd1ljX01BZE5ReWU2Zw?oc=5",
+              "published_at": "Fri, 29 Nov 2024 08:00:00 GMT",
+              "publisher": "ANI News"
+            }
+          ]
+        },
+        "gdelt": {
+          "state": "failed",
+          "attempted_at": "2026-10-01T01:03:05.994237+00:00",
+          "error": "HTTPError HTTP 429"
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "4a094ee142dd1a238ad6": {
+      "attempted_at": "2026-10-01T01:03:30.725224+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T01:03:12.305876+00:00",
+          "items": []
+        },
+        "gdelt": {
+          "state": "failed",
+          "attempted_at": "2026-10-01T01:03:24.725036+00:00",
+          "error": "HTTPError HTTP 429"
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "c611da4148ee49b91a6a": {
+      "attempted_at": "2026-10-01T01:03:48.417299+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T01:03:31.126475+00:00",
+          "items": [
+            {
+              "title": "NIA chargesheets five, including four absconders, for supplying explosives to CPI (Maoist) in Chhattisgarh - The New Indian Express",
+              "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcGZDTEx1VWxGa25STGVaWEhkYTZqXzJ4S01pQlRIajcyWXE5N0lYemJObUhUYzZ1OGQ2YThGeEhUR1JTOUZkLTBQUWcwMXJWWGRla2hOdE5GOXVoeGJmZ25tc29mVVhJSmtuU29SLTc4eXZranhKUEF3M1lGZ0JNbGVHQzRGVHE3WmdyOGNpdjQ4bGd2N09EeUNEWE9UQ1d5aGFBeFRjZ1laYmFDRkVSRkxHZmtGUnZIZHBJNFFreDBxWVU4MEducFNSQklDeVZGeE5TOFRFaExrcG5QUjFlc2hsR0plOXVU0gH2AUFVX3lxTFAzZEdxX1ZXUndIcDgxa1d1SHItV0xJMDREaFZnRDVXYlBGN0dEQWlldEc0VGlySUZnajN4NEhBRXFqODk0cU4zV0tSUzNBSXZrdVRNSDFvT3k4NTByOVQ5aTJ6RU12aDhDSUswVlBlZWFhdmxXZHhObWdNWmlQS09YdktZN214QjJaY2FNWnR4MDhUaXpMbUlUWkNaN0pYMk5Va2xuaFRRa1lTOGxOU0lnSzlTQ2xPQ2phQThaYk45dGxEWGtlUnUtNHJlOTcwaWR6ci1FRU94NFJJeEI5d0JtMWxIWnBHMV9haGh3bi1pYWxieFE0dw?oc=5",
+              "published_at": "Tue, 30 Dec 2025 08:00:00 GMT",
+              "publisher": "The New Indian Express"
+            },
+            {
+              "title": "NIA and Its Role in Bridging Research to Business: A Key Mechanism to Elevate Thai Innovation in the GII - The Manila Times",
+              "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPaFJSSE5IX191NlU3dVFDVjNFTGhqWHBtRTkxeFRzYnc5cFI5ZGxRV0NpY0pySEt3Q3BkeXFoeFlZVlZwZXhjZ2VMY3ZqWkVNcHRncTV6UDZVU2ZtN2psMXVQQkJ2QmJEclQ2UVFiTlJBaDFJbm8tRUdFWUNEbEtmYlZkRDNNWTExMGJHdUZTb2dUWEktbW9Ha3Z0TUlmVWEyeWt3el9XR2UyUXRMZ0Vaa1hoMXgtSnB6RFhEa19sbXlWajBRcGNlWHhEQVRuV1RWYzZQN1BEZUZjOFRTaEN3eVpnQmdodzk3b01uaFR5ajExazA2emVaVDJ3alBmYW1JWW5PSWNCUFluYkc2aks1ci1vTjBIQdIBmwJBVV95cUxNS3lWeHhhZ0Nfd29JaXJUNXhOMVV0a0Z0NkRTTW0zWnFzenFHWW81d2pBS09aOXNLMHJDcjdXaGRqbEtDcms0NERNR0pwTTV3d2NlaVdqVFp5Y195OUliNzVVR3NTTDZaeGxzSVROUFBSd2RSRzd1MWpHX2xmbkVGUTZnRE1aYlpwM2R4UUhvMll5ckpkYXNaenNONVM2VnVNSFhYNHA2ZXIwYjYxSXpDTTk2clZmV2lUR3FJdVoxTWtfVXJhbDNIWHEtbGl1Nm91UFBQSDd5WE13eHg0MTVhMDQwZlpobmpOdkhoS2c2ZUQxNTJIYXJJN3lRdmcyV0JjaWU3ZU12S0F5cThaZUo1amFEMjYzM3N2dEcw?oc=5",
+              "published_at": "Thu, 10 Sep 2026 07:00:00 GMT",
+              "publisher": "The Manila Times"
+            },
+            {
+              "title": "QC to set up police post on NIA Road - mb.com.ph",
+              "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54LXlJa0hLcWJid3BaQnpHdXd4LVQ0Rzk3ZS1uV3J2TVZaM1ZucVpqWVRrVWVxemxfSmQ1SXZHdHJRRmdiQmVSbTZHSVl5OGJuck1LaW1pSFVTV2VxUVZmVWNVdF9OVzR2MGlKNDF1WkhmcEE?oc=5",
+              "published_at": "Tue, 01 Sep 2026 07:00:00 GMT",
+              "publisher": "mb.com.ph"
+            },
+            {
+              "title": "NIA urges Upper Chico River farmers to delay rice planting - Manila Standard",
+              "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORWdMT3hnQU82emdlVzdncHhtem9ra1JCcXM5azdIVnF1SmctMXpXc0taUVBYUDNmSjgwSV9KLXJ5Q25FQzBEV29CUmo3UE81SXA3dHpUdGluSjhEbEprXzNHMHZ3Y2RxZ1o2WWFGWlBLVjRQbzZsLUY0dEw3MzBuVmlnUnRJNGFoeGJzTWlzVlFObzVYdzRxbVFBdGpTd0Q5LU1OaGhtY1A?oc=5",
+              "published_at": "Thu, 23 Jul 2026 07:00:00 GMT",
+              "publisher": "Manila Standard"
+            },
+            {
+              "title": "FIRE HITS RESIDENTIAL AREA ALONG NIA ROAD A residential area along NIA Road in Barangay Pinyahan, Quezon City, was gutted by fire on Friday night, March 6. The fire reached Task Force Bravo, destroying the homes of and displacing 3,500 families, - facebook.com",
+              "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVG5yRE5nUDVqU1loRG5WNzZaUEkxci1CZjN5bmd6dGxwcEFuWGNoUHJoWUZkN3otajBaU0NidjAzck50Nm5zTjBaSUFrbjFhZXU5TUtDYUtnV21CRER3b1FENXgzclBISUI1RDF2Q3FHQnplUlpGXzhZc3ZQWERqWnluOGpVZWw3bkFoT0hwN2U0Zl9wb1NsbnQ0OHlndU8tWDFhWDhCbHJjb3pTZzlmVW5WWGdrb2V1aGJWYW93WHlwaFRRMWswNmZxQUVpQ3RSaEI2YjhnNHh5UTA?oc=5",
+              "published_at": "Fri, 06 Mar 2026 08:00:00 GMT",
+              "publisher": "facebook.com"
+            },
+            {
+              "title": "Major dams have been replenished — NIA - The Manila Times",
+              "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTDZrSkMxT25pc0toS1h6dUdwUmNFZkM4WElTWXhnRTlWLWJxNlJSRkhGYjgyNk1OLWhLd2FsUmdHMEswLUxxdS0zc1QwVEpoUnVQQ3lWdnBwM0VkMGZpZ1R1ek1IbUlsamU0NlItLWY1cGVqQ1lmekZ0bkd5Vk5wNm5FZ3ZBajd2OGlQbWJrNmM1dW5OTU9qaXFMZUZhUdIBowFBVV95cUxQSUxvQlhUY2NwUzktRF9icWtwYkd6VkVjZk1hLWRuSWVUT3lPVWFwMUtFVVJURndpZnFYT3FsUzd6clRKdDJWUFBDM29YTFhyR3lkN3VRblVvYmdQbDZtZHlnaV84LUZ1U2RUUGpjNm55ZmRiMEhacWFVd0VLdU9od0Fpank5bnMxSnpCV1F3YVhIaUxhc0VFOXFkWlM3NExINy1B?oc=5",
+              "published_at": "Wed, 19 Aug 2026 07:00:00 GMT",
+              "publisher": "The Manila Times"
+            },
+            {
+              "title": "NIA urged to build long-term water retention projects to boost irrigation, fix flooding - mb.com.ph",
+              "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYkNzQkYxd2pLcU1tOGZJRkRCVDFoMHFzUDlOZnZYdjByTzRZZDV1RlV5ZTJyd2xBTmlMREFacGo0TjFxMTRXNDltYmQ1eDF0R3BmM2lhbUtsSnFKZmhKNThqcmpqdFJkS2pYTTdFcVBKS2R4bFhTbzNEcnNBeHlYOTgySVhmamp5Y1YzOFJCZ19vWU1iR3gyb1BCLWpYLXowdHp1RmpJVnNxcUY1TEczVmRSSG5PZw?oc=5",
+              "published_at": "Fri, 18 Sep 2026 07:00:00 GMT",
+              "publisher": "mb.com.ph"
+            },
+            {
+              "title": "NIA strengthens transparency through citizen feedback mechanisms - Manila Standard",
+              "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOUhaMHRnbDNpd2s1ak5VaERCS09RbS0xNXk5UFZsdlpDSU8wZktDZ2lUWUtSSU1BOHVab0JnRTZfalU0SmtfSFBHVVpkYk95UkpRclJhR3RYRGUwNnRfQWt6MlZuZG9lOS1ha1lDaklFUkNJeVVOcFByOHowaTZEWHJRYkl0RElFNXhxVmk2WnVHU0VGX0Q3ZmhReDRCVDZmVDJ5WENUeU1NRDhmcy03aw?oc=5",
+              "published_at": "Fri, 24 Apr 2026 07:00:00 GMT",
+              "publisher": "Manila Standard"
+            },
+            {
+              "title": "Pampanga steps up rehabilitation of damaged DPWH, NIA facilities - mb.com.ph",
+              "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQjc4UWxzcFZmdFJ3a09pb01Tb1F0Rk11ODVHQTlMQlgzd0QzbVhzdEU0WWNrYkhrcWdwd3RFeWU0STJ5UkxaSF9ZdW1ES0FpMjQ5ZE80SWh3ZGFyZUVvVjJycVlJU3R4ZGJoZEc1d25sVzZzR0stSlNkeHlwbUhPM3d1WXQ1cWZZYXBZcGd5SHNwc2Z6Zmxv?oc=5",
+              "published_at": "Tue, 22 Sep 2026 07:00:00 GMT",
+              "publisher": "mb.com.ph"
+            },
+            {
+              "title": "SAVING WHAT'S LEFT - The Manila Times",
+              "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE04aEM3eGY5MGE1c2w2Wm5UQ28ySHJ3WWJjUERpUFJiajNnVks2QTlFb3VWMWJQZERlT2NUSlZNQXYycWQyRTBFbm13UEZKOHhxTmRxMl8yc3JUbi1ROFZEOWJsQmltaHBnVHE3bHQtOVBGdXBTWTE3THFCQdIBgAFBVV95cUxNMFl2aHVrVVg5RFVnUGlDM0E3MnpPOU9iUHRSdzFjNmR3b1YyMzVRR09hS0FTb0JVa2VDZ1doR1QxYWxaWnVrRHVkeWpWVHgzdDh5OFJQV2FBck03UjVTRWlRTXB5RDQ4cE51RlhvMDdpc0VfMENfY3VOSzFYOUdDUQ?oc=5",
+              "published_at": "Fri, 10 Apr 2026 07:00:00 GMT",
+              "publisher": "The Manila Times"
+            }
+          ]
+        },
+        "gdelt": {
+          "state": "failed",
+          "attempted_at": "2026-10-01T01:03:42.417164+00:00",
+          "error": "HTTPError HTTP 429"
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "51f9f2b732300404482d": {
+      "attempted_at": "2026-10-01T01:04:09.631247+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T01:03:48.805933+00:00",
+          "items": [
+            {
+              "title": "Chhattisgarh explosive supply case: NIA chargesheets 4 fugitives among five Naxals - ANI News",
+              "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVFNjdWtHS1pxSXc4MWNBcnI5dmFkOFJRNm5tSWRzSkJTbUJnNU45RTVEeW1XQUZRQklzaERhcFUyYnlSN2ZSQlY1Y3o3VENxVjRWX0VRVG1ST0NzaWhmUWQ0UDRqTVFRN0RfTVlNWDBKcWphTFNFeFdtb2FlVGZqZDdac2EtMEJwamNZSkxBbDdWX0ZGZTNoX2ZTZXVCemozWjVXcnp1Mi11Nkh0RXBKVUFpNHdFRFE2MjQzQU1xdTdVcjFFMXdEU2VNZGdEWkZwX1pVY2VBNXd0SDVyZ2c?oc=5",
+              "published_at": "Tue, 30 Dec 2025 08:00:00 GMT",
+              "publisher": "ANI News"
+            },
+            {
+              "title": "NIA team visits Bijnor in vehicle torching case linked to alleged social media handler - The Indian Express",
+              "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOanI0aEd6a0JOLTgzWnZDdC01S3lTclhhS0duMDdIcnhuWVo3NTQyTEpaYnpNTHE2XzMtUWdac2ZCVlMtOHk1Y0dEbTNKdHNDdXpaMmdpUXR3cUlrclp4WkdsQXNCN2tnRFZ6ZEZwVDVtR21wRDZoTDlpVk9SdmJqdlVvbzNwMFl5d2gzdnBxTFBsaEJ0Wm5YbjYzQkR5Q2hWWWZtWW9hNFVKcmlxQVl2aEZ30gG4AUFVX3lxTE9kNmgxV2ZJV0dhWWM0X1lrWDhydjBNbWFRYzBubk5TQ3JTY21obVpjUHllODM5c1JlaDBUV0JlaHo2Vnd3Z3Jjd1c2VFNKVGktbl9UYlllN2FQRnMxSlUwTTJ2dTk3QlVmZ0JNVEo5dDJaUk1rc1hiV2kzSlJEbDlxWlgtTnlJYmROQlJOOHJWNlVyZG1RaDMtUmJ4ZTBaMllTa09GVk5qMXZzT2xkVXNvQllXTUFMVmw?oc=5",
+              "published_at": "Tue, 24 Mar 2026 07:00:00 GMT",
+              "publisher": "The Indian Express"
+            },
+            {
+              "title": "NIA court once again rejects Antilia bomb scare case accused’s plea to retract confession | Mumbai news - Hindustan Times",
+              "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOOFlNd0pKa081eW5GV1lTM29NVjRPM05mZXh2N2ZQVmNVM0lOR2VBOTB6WFFPNlctdWxEQ1BEek5zUW94R0xRX05PeVhwVjUxakJRaWRDWjJrTzJJelllelR2TU8yV0JzNEdwcTBBV29nQkVJUGJvRllkMzJ4ZFIwUGRZSUQ0c29wVDlncWJZM3FmVEMzRWk2ck00YlV0VGx4X1REd0ZWOXNUbnhQQ0txVjB5RkFjbzdvUVg3NV9ZMW1iQkpvczVMR252WFhfb0tPa2pYOUJwVUVRSzdmcUZhYU9tZTdhWE5nZzB5TEpIcnNjZ9IB9wFBVV95cUxQVl8zSmN1dHdZQVlvMnlVbGVKd0VxeXZQcTJUNEZVSllLQ3NURzN0MUx2eG5pTk9iN0VMTTNMYjRkcHBZNkszbmNRVWZCRjJVRlAxODExalAwZG54MzdYUzJaeW9fSFFSRTlueVd6alBFQmRWaDdEX2lNa2pTTU5XZGZOTEROT1R2WXBaY1c3Q05sQzFVUGZqbENfaFQ1MlZaeUU1b0ljOTZ4cERmTFd0V0FOMksybmx0ZmV0a2NoREtPSU41bzF3a3IxNTRVSXhqSW9hMjBvYlZ6Ui04c2lLM09YMHRhYUUwTTFlOUx2R012eVJwaGNn?oc=5",
+              "published_at": "Fri, 13 Mar 2026 07:00:00 GMT",
+              "publisher": "Hindustan Times"
+            },
+            {
+              "title": "NIA chargesheets five, including four absconders, for supplying explosives to CPI (Maoist) in Chhattisgarh - The New Indian Express",
+              "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcGZDTEx1VWxGa25STGVaWEhkYTZqXzJ4S01pQlRIajcyWXE5N0lYemJObUhUYzZ1OGQ2YThGeEhUR1JTOUZkLTBQUWcwMXJWWGRla2hOdE5GOXVoeGJmZ25tc29mVVhJSmtuU29SLTc4eXZranhKUEF3M1lGZ0JNbGVHQzRGVHE3WmdyOGNpdjQ4bGd2N09EeUNEWE9UQ1d5aGFBeFRjZ1laYmFDRkVSRkxHZmtGUnZIZHBJNFFreDBxWVU4MEducFNSQklDeVZGeE5TOFRFaExrcG5QUjFlc2hsR0plOXVU0gH2AUFVX3lxTFAzZEdxX1ZXUndIcDgxa1d1SHItV0xJMDREaFZnRDVXYlBGN0dEQWlldEc0VGlySUZnajN4NEhBRXFqODk0cU4zV0tSUzNBSXZrdVRNSDFvT3k4NTByOVQ5aTJ6RU12aDhDSUswVlBlZWFhdmxXZHhObWdNWmlQS09YdktZN214QjJaY2FNWnR4MDhUaXpMbUlUWkNaN0pYMk5Va2xuaFRRa1lTOGxOU0lnSzlTQ2xPQ2phQThaYk45dGxEWGtlUnUtNHJlOTcwaWR6ci1FRU94NFJJeEI5d0JtMWxIWnBHMV9haGh3bi1pYWxieFE0dw?oc=5",
+              "published_at": "Tue, 30 Dec 2025 08:00:00 GMT",
+              "publisher": "The New Indian Express"
+            },
+            {
+              "title": "Noida International Airport’s Big Bet: High-Stakes Execution In MRO And Cargo - thecore.in",
+              "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRTM5RDIzTC1LSXdKM3kwNkV3bmZrYjFQSExtVHpBTVJjU3Q5RWZxdlVuNUZzR1Y0TVEzNy13M3BHdjJEczN3enhUYktOR2V5Z2UteW0xbTRIZXdUbHRNd2NHQmVHQkNrYjJYREV1XzVfaWdYb3BubmZ2RkdmT0d1M0JGcFdheDNEOGFUdUM0YVhUcV80QnF3?oc=5",
+              "published_at": "Wed, 25 Mar 2026 07:00:00 GMT",
+              "publisher": "thecore.in"
+            },
+            {
+              "title": "NIA chargesheets four accused in Punjab former Minister’s residence grenade attack case - The Hindu",
+              "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSmNOcXFtN3loME1PenJ1TGx1bTNhaDkyZkp5TlZVMVlWaFlibjc1QnY4VGVMWWRUeFlTS2Qxa2J4UzZJUm9zWFgtTFFfQTZYV29yNWRqNExqZkhkdkhSV1ctX2lNZFNLSUtBbW9EUFM0c3RQVWJubHdnTGtjaExpSGU4cWhVb0k5Z0ZuT05PekN0eDJGclVCY21URmhsOWJ3Yk5HeHdOUVdMNHd0bmFLUTRKQU5sTlFFTXVOTTkzU2dQeG1RVlZzWEpsZlh0UTZZc0djLW9aWmNKY3dSUWfSAeQBQVVfeXFMTTRKZDFNWU1sc3hDeHJhRWhCbHlpekNxVDQ3VlJZc2R4blB4MHgtMXF2WFFidUktOVE1S2RHbkMzOG9YX3ZfdjNrUFNKbWIwa0JyUGY3ZHFrRmZob3lSN1FycXJ3cUVBSnMxM041SGNYUHNQcEZtQlUySm50OEpnX0JGVUxhM2VkOXhFb29hU2JwbUhhY1BiQ1FadkNvcG5MM0pwMnY4VE92RkhxN2dyWmVlWS16SW1wQ0tXeUpMVVRpTEF1M2gzMFVzMkdZdmw5WkxFSzhLMEFkbVVzZmtZR2gwS0t1?oc=5",
+              "published_at": "Sun, 05 Oct 2025 07:00:00 GMT",
+              "publisher": "The Hindu"
+            },
+            {
+              "title": "NIA seeks clarifications from top brass of Himalayan Reinsurance in money laundering scam - myRepublica",
+              "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTWFfbUE1eWxnMmZjckdWMFdSTWhxOTIwNWFJczI0N1V5ajZXbndXZm1sOGItaHkzc0RoRkdQRVVFNDZBM0pKcG1KRDg0emktZVFINENNUWxJaXlfblpSNFh3S1VWMVl5TC1iQ0ZpTlYyNXE3Nk01SFpsRVVUOFNWSmNtSFAzQzlFeTR2SmJPb3g4WG94VVpMNHRGcFZjUWwxZkRUR0RRbzZVdFN3TTBPOG5HbFZJWEZXWW5Vd081YXhGeGdpazl6V2dn?oc=5",
+              "published_at": "Thu, 16 Apr 2026 07:00:00 GMT",
+              "publisher": "myRepublica"
+            },
+            {
+              "title": "NIA raids on Allahabad human rights activists ‘part of larger political repression’ in UP - SabrangIndia",
+              "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcml2ekxsdFE1cTZ3aVFUWTZDZ3hpWi1IeVE5NmRlWHRNajNZREswNXRwOWZ1ZnpBWHE4M3NCdkd6LVJoMVRNNm5xaVd1NXlPOC0yQmlDNEVDWUZNYmNfS1laSXZxaFc5VG9pWGtrby03ZTdvbXJmM2RTRUZVaGhha085SHhzbFJxZTFsTjgtVDFTcUhmVWt1MWxVZEV4T2lTVVdfdWVDWVYwLU9nenJCVjhB?oc=5",
+              "published_at": "Tue, 05 Sep 2023 07:00:00 GMT",
+              "publisher": "SabrangIndia"
+            },
+            {
+              "title": "NIA chargesheets 4, including Khalistani operatives, for attack on ex-Punjab minister's house - CNBC TV18",
+              "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOV2VoRVc1bTBXMXUzZ3FBUEN6WWJ5bThIWVQwdzAzMWdDNnFQMHd3aXR3OGlJOWRwTkQyWHU1ODkzMnRsYmFkcDdjVi1VLVpyRmZtbW8yOENQUGg4RVlEaVpsWGpYNWQ5RGxWazEzQ2xJajlqUzc4a0RGYkZPZS1tOGFiWGhWQ0JlYjZRR240MThjU0h1ZkxtYXZNNHhHR1lzS2pyWjNnRVYwTDdyUjhqUVFVTzNkVEJIdzkzd3lFQ3pZZEczR2NMLWNmd1Vxbm1reWp1LXV30gHbAUFVX3lxTE5kV2NrLW12WWxXOTQ5S0h3QWcxR0szWWJUZ3VDelRtWWRBWjJENU5scnNTQV9Jb0FoMVhSZHVKbUdoTVQzRC1uVWpRTm5Sb0gtLWZzZFhuLUtOeEdaUkRucVVaSDVZMTAwNWJrd1FKV2otRC1TWXIzWEV6bUR2STNCX1NBbVRhZFpia3IwYlZmcEJnWjdQYTlOR2NNek1lTFVaWGhiSmw4emMtLU9WaEpvR2RzYlFZNloyQWtLV2c3LWEwanRuSFVPb19NTVBNWmc5SHBZU0dSUDNsaw?oc=5",
+              "published_at": "Sun, 05 Oct 2025 07:00:00 GMT",
+              "publisher": "CNBC TV18"
+            },
+            {
+              "title": "NOIDA INTERNATIONAL AIRPORT AND TAJSATS PARTNER FOR PREMIUM INFLIGHT KITCHEN - The Indian Hotels Company Limited (IHCL)",
+              "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOXlDWVJfakV0eXdKbTJjRnNXMmh4NVVWcjlOZUJoX25CWUJaal9HNFpBVmtlaFU4UzRtSU9nOXlmZkhCdXNMdEllVnFSRWQzREJNZHNvXzlKSmNRVmhGR21kSHRLUHpWbFFWcVZ1bW94TkV0dDE3UGswWVNTZmtGRGV1QXdlamgyNUJZQVliNlBwU3ZvMlZzejA4ZnlaQ1pjUlJUTzFUSHBNWVlPT1pudGtvSnhhWVBaZUt3?oc=5",
+              "published_at": "Wed, 25 Oct 2023 07:00:00 GMT",
+              "publisher": "The Indian Hotels Company Limited (IHCL)"
+            }
+          ]
+        },
+        "gdelt": {
+          "state": "failed",
+          "attempted_at": "2026-10-01T01:04:03.631059+00:00",
+          "error": "HTTPError HTTP 429"
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "ef91383dd4857c5c8862": {
+      "attempted_at": "2026-10-01T01:04:28.156469+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T01:04:09.863468+00:00",
+          "items": []
+        },
+        "gdelt": {
+          "state": "failed",
+          "attempted_at": "2026-10-01T01:04:22.156289+00:00",
+          "error": "HTTPError HTTP 429"
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "9ffb3a41be2f67ee22ef": {
+      "attempted_at": "2026-10-01T01:04:46.729146+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T01:04:28.398845+00:00",
+          "items": [
+            {
+              "title": "ED registers case against Hizbul Mujahideen - The Hindu",
+              "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX1ozdHRpbWdrcF9veXo2b1dkYXFQeURBYVRES2VEaEpFTFZPemRMcFBzVmpmUUl1cDNlLVh6REFldi1ZSkxqODNwbU5lRjZhY0lCdldGa0NlZEpYNzBpUjRINURsTnVaVnR3ZG5Ecm9kTWVMS0EtajNldGk5dGNOaVk5a2JsbDZ6T3ZhMWJIMVd5WkNiYW5wOHRINzhCX3pKTXNv0gGqAUFVX3lxTE1uajlVanlqZkM2MlVEVG04cVpKa09raE9tNFFJaF9HVlRucEpDb0xhRlhXNlhHSzhFRDJOWXhxV3Y5ODlkbGhmOVJVT2dUQnczRkpJYVBUWjVrLURydDlHa1FVRTRfaWlldlo4NExJUEUtSHB1b2J5dDVwYUFaeEJERk9NUUx6ekUwY1lKTk9rR3Z4WEJRMW9PXzBXaldWMGdXblV5U1hkZV9R?oc=5",
+              "published_at": "Tue, 11 Mar 2014 07:00:00 GMT",
+              "publisher": "The Hindu"
+            },
+            {
+              "title": "NIA to Send LR to Pakistan for Arrest of Hizbul Chief Salahuddin - The New Indian Express",
+              "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWURFMUx3SnBGX2M0aGMtNV9JQURfVUVldGhUdXJUcHFtVVBReE5QNGJYOC1IZVRlX3VvS2NFZ1NRVEtZc1lNVHpSMlRYbktVNkRqTUl0bmRPVXVmQXJUVXkwLTVWRkJVdUd2Y0VSLXBFTEJ3RllEV1kxczVfVW9CQnM5clBXbEpKT3BOQUdFS0E3VURXQkxVeVV5TFBBSVludWJfUDVzUml6MVRLSUxpTDNxUGkzdTQ3VGNkdTJTYm16amFsY3fSAdMBQVVfeXFMT25KZEtaWDNWb1M4OUFjT1hGWm1RZVNwZGMydmJsZzZrVXcxNWh2ZmhJYkN3cE83Y2F1U2ZhZWo4NTBWN2xoTnFHSXdTRVk0RlhrT3dGY1VGT0lreWxDUWIwclZNTVJqQzZvYTROcVNQcm4tZjRsZTdxZHFRYThienVKaUxKdnhjSHo0WXA2UEJTVDNwRENyNFktUktzMkJ0cC1VbUsyMVA3eENWYjBLQVNjTE94VlQzSElBaENLVGNyYWNFV01wMFMyWWJuV282Mi0zTQ?oc=5",
+              "published_at": "Sun, 01 Dec 2013 08:00:00 GMT",
+              "publisher": "The New Indian Express"
+            },
+            {
+              "title": "NIA court acquits Dy Supt Jail, others - Daily Excelsior",
+              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9EcHBIQWFXVVJ6ektrSlZZaXVxQ1hzZ0JySVZVTHhtSUVZbXdGcWVub2ZTU0Y0ZVd2TGFQckE2REJwdllsRWYydDluZE11R3JhbFhvbkhyVkNZUU13MlhnbU5pQU9FU18wZkFMUXhQLUdfdnk1ZkxiY04wd0XSAXxBVV95cUxPRHBwSEFhV1VSenpLa0pWWWl1cUNYc2dCcklWVUx4bUlFWW13RnFlbm9mU1NGNGVXdkxhUHJBNkRCcHZZbEVmMnQ5bmRNdUdyYWxYb25IclZDWVFNdzJYZ21OaUFPRVNfMGZBTFF4UC1HX3Z5NWZMYmNOMHdF?oc=5",
+              "published_at": "Thu, 03 Jul 2025 07:00:00 GMT",
+              "publisher": "Daily Excelsior"
+            },
+            {
+              "title": "ED registers money laundering case against Hizbul chief - Rediff",
+              "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNalRFalBJY0k5bDd1Sk5USWhJRHpiMWRpaDFvU0hUSndXVW0wNUJUcE5fUkdMcXBHcDdHYmx6emJQbmhZclZEZHNLZlZpbXByZ01UWnJWOWJuLU1TVDFXQVRxU2FJc0ZDbnppeGZwMk90MmpabFBSNnRwbmxUdjFKS2xaQXEwX3c1OXpUUjZ0dlNkVG5LeWtRdFA4MlJISkhWeXhiMmp30gGoAUFVX3lxTE9mUWo2Rmk5c0l5Q0FrR3Jtb1VfNi1CN3ZIS19TOWxEMThzbzR1Y1JENktuak5nTUstXzNfUlVLbU14SEYwS2pCYnZnM21ubkxBcnBLTWxEb0YxVFplSGxOUUNKblhoWkZmNk5NbUg5Q1RqM0lobmhSV1Q0S3B5NlBKUHBaN2FKU0pVaHFLSXJLY1lPSlliYnJlNlBSc2pyVE01cFJfZkNpOQ?oc=5",
+              "published_at": "Tue, 11 Mar 2014 07:00:00 GMT",
+              "publisher": "Rediff"
+            },
+            {
+              "title": "The Unfinished Agenda of Masood Azhar - Open Magazine",
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc2JEX0pNdnI0dVNCcTBBdjN6ZWt2VzFUeXhmVlhtb0k1dm5qWmdQOFJDbW55VHRCRzZFdFl2VXBXVnExN0J5Rll6ZERoLTNYM1NFb2dKNkpENGxGOXlZQnRDUDZOT0NGZ3hfSi1JR2UxUGVNMGtFbTBYUVNIRmprLWt3aw?oc=5",
+              "published_at": "Fri, 27 Nov 2020 08:00:00 GMT",
+              "publisher": "Open Magazine"
+            },
+            {
+              "title": "Court to Pass Order on Charges Against Hizbul Chief on Sept 28 - The New Indian Express",
+              "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRUN0TG1vcDZlbmFmdzBvV2J1S205V1JmRjNPaWd6MnV1SkRQWEJoSnhVT1JVSGdkcDBxWGxXLUJDUmZiNHE0Ym51Wk5FcTR6N2JBYlZ3TzNfeW5sbk9XUVl6RHJIaFFUTzl3YTdWcmJUeHQ4REM1ZGo3T2ZmTEhHUnBLX2wtYVctYjlnb2tsZ3J6MmhIWnZHNmJJTkwzU244WlhJNlRtQjhmZXljdVFvRktyVUVrMEYzakRJRjN1V0puMnfSAdABQVVfeXFMT1oyMV9JZHZuelNnVU56blhyRnc1alF3SlM3Qm9VdFJBSXNmTE5LQnM1UzFQVWdQZ000SlQyQTh4WkVTU1JXLXgyVk9PUmtZOGpLRnRCRXhpOWwtanZnV1N4R2oyTWFtU3FQVXNqM2JiVDU1TTRGdmZQeUg2RU5LWmJmNlZ4RDVuazc0MDhNYk9SZFdHOTBDelVmQnRYSkh6eVh0YzhySTZ5aGg2dG1IQm5Ib3p1MXBFZjNEdlE3THlUMGVLR0Q5eElHdTRBTlFHdg?oc=5",
+              "published_at": "Thu, 24 Sep 2015 07:00:00 GMT",
+              "publisher": "The New Indian Express"
+            },
+            {
+              "title": "Hizbul Mujahideen terrorists earn 5-figure salaries - Rediff",
+              "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYnN6YnpjR0Z4S0JoUFNhRnNGc3g0OVFPYzNxMHVKSlhSdGQ3Zm51VGpfcXBSNHFTb1NaV0x2U2NTbEpHRXRWd3lmdWptVlBOY2ZlUEFqZ1ZNOWdZTXJrdXhpUFBTbk9jOE5yRXFmX3MybDJvbFFIRFU3WGtES3BmWFJXQU9FVkM0Z041ajBGVG9WeDY5OWdQOHJmUHRNNnk20gGjAUFVX3lxTE5xeklMakVMblZNQjQ0SnhBQTA4RndGdWc4VXg3RG9fbkszWmQ5UVNLUkZKRkhwbkVMemJhQlVkSjFCSUZPRFZLLXh2RGw5NzlWdERFaExMdlFJMGlIbU9NdVZWVUVLRzdITGM5b0JMMVdEdWdVSzhoYS0xbXdPTVA1d2sxSUdKY2djaXBDRnNaRE5vYXJpWHZMbURtRkRXYVdHbnc?oc=5",
+              "published_at": "Tue, 03 Dec 2013 08:00:00 GMT",
+              "publisher": "Rediff"
+            },
+            {
+              "title": "Indian govt harassing IIOJK people through its probe agencies - Pakistan Observer",
+              "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMVJmWVd2RnRKQUVuYjIzNHduUklzVGR4TFl6ZFlJX1ItSHBmZjhtTE9xWkVPT01Ra2dkZ1pnbS0yZm5sQnhCdGYyejEzNXBxU01xUDRhQUNxNGhVakpYamlzUWtfdHJlcEsxcVBsRF9WYTRxb0R1V3d1aExrZTg1ZVZ0WWRnZmM0Y3F3T0xIMA?oc=5",
+              "published_at": "Fri, 28 Apr 2023 07:00:00 GMT",
+              "publisher": "Pakistan Observer"
+            }
+          ]
+        },
+        "gdelt": {
+          "state": "failed",
+          "attempted_at": "2026-10-01T01:04:40.728997+00:00",
+          "error": "HTTPError HTTP 429"
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "b80c561f04a1cf2ab8e7": {
+      "attempted_at": "2026-10-01T01:05:05.911747+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T01:04:47.036085+00:00",
+          "items": [
+            {
+              "title": "Meghalaya: NIA charge-sheets four leaders of HNLC in connection with Star Cement staff quarters blast in 2020 - India Today NE",
+              "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQX1J0Nl9KOGZ1WVZZdWIzV01FNE91WmlPT090S3VudlFnOEI3akRLRjRyeDVaUFlCeUFweVkzNmZzcDNBWElSdV9yNzQxLWFldUFGZ2RBQzNXWlByYVp6ZXFXNkRVVkV4a2NnMFJRN1VFc3dpMHo1VWJCVW00bGlBeFA2MFN5Wm9seENkekRTMjRjY3Z3bGlobkxMZmt3MWdXV2k5REcwQW5CQWZKY3VUdEFsZ0lVQjdqanNpNXl1R0hKMnUwSGhzX1o1cDMxUXotWXRXSjNla0kzNFhBX2Z5NWg0dXp6NWJjek1HQdIB8gFBVV95cUxOcjdBQWdqcjBpY2ZFNF9BTWt5cnA0bHAtb3Z0WG5pNDVWaGltV3ZXNWNkQmZHSDV1eU5OLThOdXBKOFFROVoyNGdtOUlhb0lhVGNUYjFXTEM0MjB4clZTRUNmTWc4WGdkVG1ta0dpUjV4ajNtM1NPWFp4UjlqXzdBNXF4YVZONnRZZ2ZVNmFQVFEta3dRcHlzYTBmdWs5SkZrRkxibWVRSl9KZHNIZTNmbmxPemsxc0JQMnhwZjNON2tiTHg4eENuTEdFa2xWRkc2ZDFYSEtJUDhqNXJ5VWxpOUdQWERld2xmM1hGNW9yV2EyZw?oc=5",
+              "published_at": "Wed, 07 Sep 2022 07:00:00 GMT",
+              "publisher": "India Today NE"
+            },
+            {
+              "title": "[Star Cement Factory Explosion] NIA Files Charge Sheet Against 4 HNLC Terrorists in Meghalaya - LawBeat",
+              "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVURJZzVQZ2N6eXJWdm52U1BQVHhGTzZfUnR2NDVHRkNXLU1mTVZKLVdTWlZPQkNnNjNXM2NQTVpvNHA4NVJBVkNjZUFXYUJxYktxdnpScWRaRlotS21CRTBhd0gwR1Yza01qZVVmVFRGVUpjZ1oyNXRBX05WTUVPZFpfNDQtZjZGWXdLbURDNHBESWFBdUNneGdzeEltdDBtbDk5dnZmU1BhdnQxcnZn0gG0AUFVX3lxTFAzam95VHdvUXZiT3hKOXRWRkZhSk5qVm5BTTJvSzNDeVFuRWVNOGhCWGxvTGh4U3lIV0hSRFhXMk0xQWFkc2g0V1lIbjJmX0hQU2RGMEs0VWJfSlNOZVEzTEtnQ0hGcGJleV9jejZKSVQ4VlotWERzV0VPTjdQNWJ6eGhWbzE0a1JOZjZzRHpUbjMxYUNLX09xMFlaUE43REg0U2NKM2s4ckJtdXpwUTgyWmYwUA?oc=5",
+              "published_at": "Wed, 07 Sep 2022 07:00:00 GMT",
+              "publisher": "LawBeat"
+            },
+            {
+              "title": "NIA special court issues summons to 4 HNLC leaders - Nagaland Tribune",
+              "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbHREZUljX01yeEMwR3pzLU5NUjFXMG1pZXI3TDFadzVrUkh4Z2d3VDJFRFVOaFpXZmdUUmpKSWotRzdURm1Rck5QRGVXOTlaWTEtZXV4OFpKM08yVUR5RkVjRllNWjVfbUs3aU8xUGZKN2xrdk55TXRacnE1RHhxNmVEVFk?oc=5",
+              "published_at": "Wed, 21 Dec 2022 12:08:18 GMT",
+              "publisher": "Nagaland Tribune"
+            },
+            {
+              "title": "NIA files charge sheet against four terrorists in sabotage by HNLC - BW Police World",
+              "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbE5jMmg3T29uWUZSVnRhSW1jTjUxWTdqbl82XzBXZklFSy12dHA0SDZERW1hQ2M4Y0pIaVAxYjVGS0hNUExRMXl6YWJWNDdfN0lGalRkZUtJckhua04zaURQdUJXRUNEYlkzQm8yRFFDemloV2V0LWV0UmRaZTdkUnIzSHFlWDFKd2p2SndLckJ4VUFoU1h1TXdIdTQxazhra2NxekdhSHB1bDlheWNrRTRn?oc=5",
+              "published_at": "Fri, 15 Aug 2025 08:37:17 GMT",
+              "publisher": "BW Police World"
+            },
+            {
+              "title": "NIA files charge sheet against 4 persons in case of explosion by HNLC terrorists - ANI News",
+              "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQTBOZ0Z5N2ZRLWo2a0tHXzRkeFlsTzJPQ29uek1QWDBwdi1yc2UzZFF4Wi0tZkFIcVVaSEpEUWgxY2FXbkdjWnFNNkRDTXhJT3Q1VTRsSVNrU2ZYeTFLQTBrTjlaWHNPM09Va29IWUw4TU1hdXc5SlhyQy1JZ0VIUG5SRHJoU2VtTHNMRWp1dTUtLWpYLWxuZHJxeGdWRVRFamQ5Ymo3ME1SLWNNbFNkcVdxcXRhR2k1dFlXZzQ5c0hLbkdfZXpKR3B1ZkhxVTFvXzhKM04wSzNzMHBU?oc=5",
+              "published_at": "Wed, 07 Sep 2022 07:00:00 GMT",
+              "publisher": "ANI News"
+            },
+            {
+              "title": "Govt asks HNLC to get names of cadres with criminal cases - Meghalaya Monitor",
+              "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMXBqYlFrejI3MUYzUW16NlQtSlRYaWVDWW82eDhIQ3U2NzNlcGllamppX1IyQTNGOTdyU3lkZGFUb2w4bURkbjdZdlJOeDJ2cjlhdFVHeVNyQ3VLRnQtMjFpUER5bVlpZFotcU1MUmo1MWFvT1Q0NHdla2ZfaHdLclZlZ3JRWmVOcFdIcnpQaE8?oc=5",
+              "published_at": "Sat, 24 Jun 2023 07:00:00 GMT",
+              "publisher": "Meghalaya Monitor"
+            },
+            {
+              "title": "Three Banladeshis among four HNLC terrorists chargesheeted in Meghalaya bomb blast case - theprint.in",
+              "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU25VM1ZHcEkwSzBrdWlIdEF6ODZ1UmwyMUc3c0Y4a204VHB4d3dWOWlZX0tHM2NxOEZYS015THJFMjVLb3hPOHpjeDZidXlDdWJCNVh5YzlPWVRyMFg3NHBSUDYySGtuX09iRVdtZjNka0dzVzRoQkFGa2dCYlFZVFdzVlc4akZSSDdveURwdF9wQzdTQTlwbzZiQkZldm1pbUk0V2FxMW9NblEweTZMYXN1bGpZZnlzdXlaQXFvRdIBxAFBVV95cUxQZDBKbXV6cDdGYUxIdTFnYlVpeGlFeGhyWTZOYWY5MnZIYzctcDBTV0lpa2x3cGlKVXlMYWtlR0lmanVJQ3hqSVFlbXBIOXJJTWV6aV83a1BJQTNQVHJPYzFSRHNOdXVMUVJuV0Mzd213S1FsYzZDYks2ZXZKelFSVk9HZ1dUeTVtaXhSZlVwZ1VTR0g3Q3FaQXlaMUoyNk1wZXZpUVkyRTJ1LVc3c2ZSNm1BSmg1REhoYVFWeC0tQWRWMnR3?oc=5",
+              "published_at": "Wed, 07 Sep 2022 07:00:00 GMT",
+              "publisher": "theprint.in"
+            },
+            {
+              "title": "HNLC ‘unhappy’ over NIA summon to top leaders - nenews.in",
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQblVBaXUwbVNXbzBEZmV0ck1sSXg4LUVTNVNQRUxDMkg0dkdRYUZ2bEdRSjRwVE1QNUotUDRVNkRoU19sQkNDMTFuVnhVaDJHOFhSN3IzYnZ3dk85YVVaNVFmdUJkMGNJR0h0SnFWd3JvRGV6X29BcVhacy1qTUZLZ0VR?oc=5",
+              "published_at": "Wed, 30 Nov 2022 08:00:00 GMT",
+              "publisher": "nenews.in"
+            }
+          ]
+        },
+        "gdelt": {
+          "state": "failed",
+          "attempted_at": "2026-10-01T01:04:59.911602+00:00",
+          "error": "HTTPError HTTP 429"
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "bac500813582e08226b3": {
+      "attempted_at": "2026-10-01T01:05:25.700375+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T01:05:06.130501+00:00",
+          "items": [
+            {
+              "title": "NIA declares ₹7 lakh bounty on Maoist leader Madvi Hidma - The Hindu",
+              "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQXZ6SFMzY0tmVTlsbm0xSmpBYXFGWTZCTFFBQXBuNnRhdmZ2eTloaW9vRUR4Vk9HcF9TaEE3ZDR5TndEcVJ1WXVHMERlMnZFNmdPX08tdU91cS1pcDNmRGVPRTJmTHo4M3M3VzRxWHpQSXEyRzczZHFPVTVTNWdPVW1pQ3FqNzFGYjRsXzViMXlndkdzRWtiZ2Mxb3I1dmhUQWxLWnF0VEZlazZva25LXzZQN3XSAbsBQVVfeXFMTktmYk1PYzN1ZnJqZE5HODNROFA4ZFFHYWNEVVdwSnRXdm1vclM1QU55WGZtYUtOM2xuSTJVUHhvZVpEX1dFUVNiaHFmVXJQRXRCWlYtby0ydm9rdmRMOTJCMVBReEZrX2JTRFRUY1RZNkt5OG9YY2FYVlNTTWJBUjRVWFNCQmZ5bWQtSGxILTVLZ0haWHBtbUg5eDRnaHNqZUI5cEhwaWYyTktHcEZ0M3ROMXB4UFNLeUxNQQ?oc=5",
+              "published_at": "Sat, 17 Apr 2021 07:00:00 GMT",
+              "publisher": "The Hindu"
+            }
+          ]
+        },
+        "gdelt": {
+          "state": "ok",
+          "checked_at": "2026-10-01T01:05:19.700190+00:00",
+          "items": []
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "5f9aafe1fb7654697e73": {
+      "attempted_at": "2026-10-01T01:05:43.563552+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T01:05:26.078786+00:00",
+          "items": [
+            {
+              "title": "Court Allows 6 Ukrainians, US National Earlier Accused in NIA Terrorism Case to Travel Abroad - thewire.in",
+              "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNm4wSThnNkt4X1hTcy10RkE4Q0ZyQ0VGNHJvYmlicHpWOGwzd0cwRHNYM2RXYWxORGgtMFA5Tk9ldXZtNDBlYUpfeUQtZUMyZ2dRSF90SVJTbUQ3S19RSnd3VHFJR0t4TGJCNzREUDhPWG9GaWZZbWt5QnZMc2FRSG1Mcko0ZGJpQlJvRU51M1VhS3J0Yndna0tTSUJVdlRjUURkZXlSWUFvUHFKRVJDMkxoVTFURHdUWXVTblZiVWVLZkXSAcgBQVVfeXFMTTAzOEU0X2s4dS03NHMxOFlDY3Z4XzNSNVR4UUhhRlZuWTcwYnN2XzZTTEtSQlZXeGZrMDdrNnVYY1NuZVZCN1BldmVuQUlCa3p2dEtLY1c0WVg3dTlhV0MzXzc3ZHpBdm5VcUQ0TnhFejBWdXFwNkc3R0FfM2NDZ3RRanRPUWplVG5vNmlPWXNpdVFZY0FIY1FlQnpuNEdNUmc5OFoxQ0Nfb1djdWlOOThQQ3Voc2Jvbk9wUEtGRVMyeWN3UzgxNjk?oc=5",
+              "published_at": "Fri, 25 Sep 2026 09:03:14 GMT",
+              "publisher": "thewire.in"
+            },
+            {
+              "title": "'Will Seek Access To Masood Azhar,' NIA Chief Tells NDTV - NDTV",
+              "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLUFsdDdMcFBicFR3cnpHeEVwemFMczFYTERRd3ZQclFEUnUxM29YV28xc3RwVDFLWjVxRmdiLWtWYXlyUGhvVGpQUXNoN3ZCeGhxazdjSTg2dTZyb2ZWSnp5d05GdnRONXJyZ3pWcE1aQTV2Z1ZxRTlIVUNzTUswQUxfblNObmU4SlNwOEF4TmdFUUttTnVGdQ?oc=5",
+              "published_at": "Tue, 29 Mar 2016 07:00:00 GMT",
+              "publisher": "NDTV"
+            },
+            {
+              "title": "NIA chargesheets Masood Azhar’s right-hand man, another persons in terror conspiracy case - The Indian Express",
+              "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS2FRNU52QmFOQXZfYXppcU1OTVNRdkx4VVFMR2VpNmpRUDYydFZOQk5HdGYwMEpxUk1MOXk2WF9ld2l5RzlXQ3d5aTROM05lVzZ5SFVyemRmMTdGZERhOFVYS1l1NFNlNktEYVV0T2ZrZFVsaHJWcFJ4a0hmYXE0Nk0tYjJPTWVZUnl3dlB1SVJHYmRkM2lldU8zaVctLThJeHBqSWhaMU5SaWfSAbIBQVVfeXFMTWNDQ1RvcjV1YlVmRmFTNVplOGp0R0E0YTJ5Rnkyd21CTDJqTml1OGNoVmV0OVJ1VjFSd1NRMVpwWmlnVmVPZ3ppaGVPNzdpOUNGbGNDeUVFa2hXekVaZGtXVGRTaTYxbVFzU0lWeUZ0eVRFV0FvNVd0cG9VUnF4ekdTZTkzM0tSUk5VVUR6RVBlNnctUXZ5emdJUk43SktjVTdPNU5pQ3MzNWxqOGNsTkRwdw?oc=5",
+              "published_at": "Wed, 15 Nov 2023 08:00:00 GMT",
+              "publisher": "The Indian Express"
+            },
+            {
+              "title": "Pulwama terror attack: NIA files chargesheet, names Jaish chief Masood Azhar, brother among accused - Scroll.in",
+              "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVE9obVZTUXpyTDNXOVlFdGpPSUVGZXhfenJGTDdLYWY0STF0a2R2Wm1RbDJhREM2U09FZ2szbk9SUXFpUHlGZ3lsYU90MWVzdDFMcmRyOUtnS3Y4M2pHTjcxbDQ1Yll1UXdnWFM5alZSRkZqcVZmSVpMekFTNzFWUUZBa19Reng0bW5DVE9JT2dIdjByOE5YakVWLTR5Nm5BdVQ3R0M0UkNBVUZWV2hrbzlRZmtENlNSdzg3NmhTYlViYkpOYlpR0gHMAUFVX3lxTE1vTHo3X3NrdDVKT0x0Ullqem5NVzkzQm9lZ3lfUEVRSlpORHFCdjJCdUdvRWEyUXRXWjZyZndxcXZpd2c5VzZwNmI5bUhMU1lmNU5NNldkZF9xM0VzUEVCNTZPa1BNTWZ6Ql9VaE1LNU9yYXF2OWU4aWNsaWtlMmtqQ2ZoLVN4dV9NTXhGMXI5a3B3M3FwSEpOQU45T1JpSGhuYjBtSHUxWTdQUXBpSHV0emtOUFVUWW1ZZ0I3UlljQkpCTF82WnJ4VWFnUQ?oc=5",
+              "published_at": "Tue, 25 Aug 2020 07:00:00 GMT",
+              "publisher": "Scroll.in"
+            },
+            {
+              "title": "NIA files 5,000-page chargesheet in Pulwama terror attack, names JeM chief Masood Azhar - theprint.in",
+              "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbHhGQUNQUHdnYnJ4bkRPVWdhMkZnZEpjekhEQnJGeDF2WnU1MzI3R1lzNFBEejRNNl9oRU54TktiUjFSYno2Z1BrM19BZ3RZVEZ0NVJBMDVITC1qRzBPVzNFZFRQbFRWNEdZV2NkbFVqOUM2UVpndngwOTN4andkWWhDRW1VNU9lb3FPUGtRNnY5aDQyTUNwNVF3cm45ZHdPbDFFNE5QbmNPYmdud093NmJHTW82RVVtVndF0gHAAUFVX3lxTE55NGNCa2dKemJLUnhIbzJxcXUtaTh2V0QybFB4N1ltRkI5cUY0SE1jWmloTXk4b3JBNnJ2UVk1RGtIRjRLUnMwQ0Y2dDI1Q3dFSHdaOElhVmNlUF84a1dGMm54TFdpellIOF9QaWZpcTZHbldWU2JsdlcxQ0RldGdONmVaa0RLQ2ZVd0d6TUUza2VoVkt5QWgtYXZfZzZwQzRfbks0MFVVbkpGZlB6TXdhblZibjJPSEdHVW81Tm1xeA?oc=5",
+              "published_at": "Tue, 25 Aug 2020 07:00:00 GMT",
+              "publisher": "theprint.in"
+            },
+            {
+              "title": "NIA confirms money was put in Pakistan bank accounts of Masood Azhar before Pulwama terror attack - wionews.com",
+              "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMXZTNTVqY0FlakhMN1kwazJVZEh6VThBeTZNNXoxeEJLUzM3TWp0U0xjZS0zdVNTLVFzRW1kdm1xaG9XdEE1SEJ5Sy1jdnRlMm1ER1hpRkRJRHVia28zbHAwS3RlZ3JlQXRmZGVjR3pNanJUZzJPX2xjWWc3SnltbElEZlp2aktOcmpPWGpZaTg1Y1E4QmdGZmsteG9Id0NsNzFtMmlKZ1dpUGI0MmRHa3A2dlQ0S2dNZWsxWWdOa294WmJMTWdpVkQwSWdFcWVaUXAyU1RR0gHbAUFVX3lxTE1kQk5oTU5jX1puWW45ajhyRzVfanVtcllHQUNEUWtyZFdFRHZRbUMyVVhoVndGUzhGdVAzSmRGRkhvVDZzbHNBMTktaGtIc3FyeUt5WnllSW1JOG82amNlYkplY3U1X1FIZmNPaG1OZkxIZHBIWERUTnVNWXVrcmlrbHJpbzZpdV9qR3ZLTEgzZEM3OTVpdF9lUkVSMk1VS3pXV1h6eXk2dm90dGo0a3J1ZHRBTGdKZlQyaWtncGw5WXJIZHluUjgyWmFyZzZDZlhjX2t0cjdPS1owbw?oc=5",
+              "published_at": "Wed, 26 Aug 2020 07:00:00 GMT",
+              "publisher": "wionews.com"
+            },
+            {
+              "title": "Pulwama attack: NIA names JeM chief Masood Azhar, 18 others in chargesheet - theweek.in",
+              "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdG9zdlM3VUc4SGlGSmxPYnNFX1g2eFpVcS11TjluUDlCWk1haF9jRjJqMFRXNUk4R245dDhOLXRGRUI1T0czbUZVd1NjeHAxX3lDakZkdDREbnlxMGZHLXFMVTBNRHdLa0hQbm5mZGhUTDJVWXN4SWRpQm5GLWVhUmNOWllDMjdHal9PUXY5UzU4bUctQTNuZm11Q25aOW14TlZtZ1FHN3MxcjVmaUJIN3hDcE9lVTJ5dkloT2U2Z9IBxAFBVV95cUxPMWswUlpfbURtMmNDbjBlWDNWVFpPaFJkRkx2VmdxamVPMUQ5MTRDZW5KOEJBREd2TkdrN3JCMi1oUWdsZkhxcDEwbGI2U2wwVi1kak5zaEVrZmJRa2xQSlJFclZaZnFNMnhnR1ZXMFBjNzk0S2dzZkJmXzVTaTZHanNkNTJlUkZPXzV3V3V1YjZzYTBwX0NCSXhhVll0SXBwQ29ZeGpIMkliN1B2aG9peGtVRHRMWEMwRGNnSWFYbXpRYXJz?oc=5",
+              "published_at": "Tue, 25 Aug 2020 07:00:00 GMT",
+              "publisher": "theweek.in"
+            },
+            {
+              "title": "NIA charges JeM chief, 18 others for Pulwama attack - The Times of India",
+              "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVUltUzVPb2k1RW9yRllEN1NLd2xhVkQ3OWJfZlU0YUJBX0dlQWItV2thQkdZMHZ5d0twRnEwVUwyRjNGZlpKQkRXa1dCRkVpdmpKSk9YbUJsZW1ZZ3JOTHNpRjFaa2JPc1dZTHA3V1lnTmo5R2ZUSHl3MzlnZlAxdTJpYnF5QmRBc3BZUHdvR2YzNnlOcTVKUG5zUXh0MGlVNFdxeldfQ29LZHZNUGR5RXZjMjFmTmJy0gG-AUFVX3lxTFBaTko4WGZwWDdoT2Q4Y1o4aUhpaTRSWkk1TmVsZGZlQkk3dDJFTGRXdXJfNVhoeGRVVlVlcXl2azdWTUMxSERueEhkU3dUbmFPYWkyU09mUWtBeG1tZzg4OVh5SnRtTml5Q2J5QlVPbm5MalZ6R0RhVFQ2aGNHLXZIT3dvZEJNeG1vMVAxcVBLc1dIRFF2SlZBNVJrY2FIU1dtcmxPWHVXeTlpVzE0YU4zbTlETGYwYllIUUZad3c?oc=5",
+              "published_at": "Wed, 26 Aug 2020 07:00:00 GMT",
+              "publisher": "The Times of India"
+            },
+            {
+              "title": "2019 Pulwama terror attack case | JeM chief Masood Azhar among 19 in NIA charge sheet - The Hindu",
+              "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQenVxN0ZhbjBvYmw5dmVjYXdpTG1WcWRIS1NmYWlIUUdobl9LVFlibzJJNjg4UVBzYjNvSjJQUDJ1UzlHVFZ4SXV4ZW9oODR6dkppWUY5eWo2NWtUWDBnQW1Ra1RmU2U0cWF6dTNFMnFtTHRWQjIzT3dJWVRnRjk0elJyYmx3MVhxMk1feFNVbEpOSVF6d0FZaVlVM0JGamxFdm5FOTA0dXRxWWxseWhWY1Fia1VmdzZDT3pMdkl0c1Zub1E4cnNkS1U0T2FheWxoWVhGaXA1WGtfUdIB4AFBVV95cUxNSG1DWDNBZVVfV1BTMlFJdWJjVzZVQTBNNFJ0RHdSSmhNZ2NoMDNTckJXSUo4SFJjV2xIalVwNy1Ia1NEUi1YSWJSN2liS21wOGhqRmRNMkdzNm9wQVRQcnlNc2stU1hkbWQzX1hhYUhBakxhZUVQWGd5V0kxcG9IV2ZnN0pFSkN0b2JIbVI0QzNlM3NMZWVhVUgwdHgzaWFjNlNTNHVYN0pOVVRkWlFoMFJ4SjIyRTI2eUw1b1UxWjNMZ1JpR19BLUpPUTRobllWemtWeWxadm8wTWVPYk12bA?oc=5",
+              "published_at": "Tue, 25 Aug 2020 07:00:00 GMT",
+              "publisher": "The Hindu"
+            },
+            {
+              "title": "NIA files charge sheet in Pulwama attack case; names Jaish chief Masood Azhar, his brothers and Pakistan | India News - Hindustan Times",
+              "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQMnhSWjg0dkc2ZDB4WE94SnZBMUt1bElCdzNjSjNRcldqNHBvMmxnMHYwTzM5eXlwYWRLajQxNUNqOW43YWE0NVF1NXNiWlZ5VlN6eldJNDE4ZWFCWlRmNkpxTXhtMV9wNWpFckNmOVdwUFpoWlB1bW81RGI5RzBXTGlDVmdCZDhVc21mMUZnNnVkVTI4bGx6allrNGdDc3MzTXpiTjRVaV81cG5aX2FfRzIwVUs3ZXJpMzMxWWJQNHNBQVRnUmdzT28wZEMxXzMwNXNHZFpyYUN5U0NHaS03Ul9aY3c0UWRXY0J5RUNvcktKZHlMUkhrd3RQajdBdXU1WG9j0gGIAkFVX3lxTE5qRFExUEVnS1pNTk1nQUlHbXVxdHZKamMwVjFOR2R0Wm1GMTdnbUFNZEdVZV9iUUlyRGNCTlFidERzMnlVY2ZROUNiOVZFcGlMbVBSS1Q2b3diRXZkM0VKLTg3cFRyN293LXhKY1RKTGlodTVwN01tLTNOU3ROVFdLSmUtN2ZJQi1KX0EwN1hvOWZ0aEcyVHZBaEhWNnU5SlhFQXhLV3VVM3ZodEo0Mno3Qnh6Y1RwUFlOSkRIU2Z1XzY1VUh3b1FlTlcydkZhV0V4QXZzU1lxY1BfR2dMaWE2ajA2a3RTQVlyWmhaV0ZmSkpBZ1dibGlyUzV1SWxfemRrY1FNcWN4bQ?oc=5",
+              "published_at": "Tue, 25 Aug 2020 07:00:00 GMT",
+              "publisher": "Hindustan Times"
+            }
+          ]
+        },
+        "gdelt": {
+          "state": "failed",
+          "attempted_at": "2026-10-01T01:05:37.563428+00:00",
+          "error": "HTTPError HTTP 429"
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "87ce287bee68625e772b": {
+      "attempted_at": "2026-10-01T01:06:00.302146+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T01:05:43.791737+00:00",
+          "items": []
+        },
+        "gdelt": {
+          "state": "failed",
+          "attempted_at": "2026-10-01T01:05:54.301961+00:00",
+          "error": "HTTPError HTTP 429"
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "3c60d345a914f6a28cfe": {
+      "attempted_at": "2026-10-01T01:06:17.843097+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T01:06:00.545135+00:00",
+          "items": [
+            {
+              "title": "PFI formed ‘killer squads’ to identify targets, NIA files chargesheet against 20 PFI members - LawBeat",
+              "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVkhfQXBMNjJ6M2g1b0ZYWUlodThLWEJJTmVCZk5LTHpnUUU3ZU55LWlNeXVmb3FoaldFRXFneUMwRWpiZ2d5dUVKbkhqSTc2UGlsV3pFQXEwaVYtSV90NWVXQ1FRUUhsVmNaSUhYcGZORnJLMkZ2WlJ5eGNyaUpwREZKcXE1bHVwYmtKZXVRQUFkb0RZVS1sNE5OQjdUU2xGbXQyaE96SVdmeFk3c2I4S0xPeVZfN0FW0gG-AUFVX3lxTFBPdDdKT1RTRURKS3Qza0R2VmhpTWoxNHIyWVl4Q1ZmemZEVXp1YnZPOGw3U2FDa1BzZEpaeHRBdVlnQkpfQk0tLTdaeG9nTW9GQk9ETl9GbmxBRHczQ3lhYm55NzJVTWdjcVpVTTFLcVlxNXJPRHR1Z3VjcEg5eFVGckN3enVWMVBSRFhNMHhuVmwzMXdhWU9NWG1QUmo0TTlLdXdIWGxmX1hRbmRoYlBjWUZ3cERiOXlpaVpMdEE?oc=5",
+              "published_at": "Sun, 29 Jan 2023 08:00:00 GMT",
+              "publisher": "LawBeat"
+            },
+            {
+              "title": "Praveen Nettaru murder case: Absconding key accused arrested in Hassan - The New Indian Express",
+              "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaVVrUjFEYk90UXJlcjJSdGJWTmpqRWFqSWg1QzctV0RFU2VtYkwyNVZaUUM3dG5QSGg2ZTVMUVpPSlI0MkprRDBXX294OUhjZG96R2VJNU1yVzdJaXU5c3k3OHNXakFOQW5LYmR5eGg4VExzVkdTRDY1UkJPNGZzay0zRFM5a3RWRnI0bkpzdGJ1dzlTT2dnQjJsYzVaVGVMWnJDZkpoUFIzaWdObUJjY2tNQU9NZmJ1RXVsYi1kWjlJZ3NpRjZpSU1TRdIB2AFBVV95cUxOZml1ZW5lZnBoQ2VCRkpXbnVpTXdJaC1QTFc4MGxzYncxS1BhMkRURmdlVGwxNWlNLXI0dVVwVkl6MWZrX0xLUVhVdWFfZklqdkxnejBJdnpxUTYxRW5IMm93UGpLSXQwZ2lCUkRfZW5xQzFSWGdBT0JpQjdUbnZtWU1rb2YzLUhJR2NrbDR3cWFYOWhvMmVJTWVFRjRwX0RaNE4xbXRWWmdxMmlCbDZrckJVYnFDT1ZYMDU3UGl5S1dCeDRkYXpNMVEzNU9yaEF1T3hOYXFZU0E?oc=5",
+              "published_at": "Fri, 10 May 2024 07:00:00 GMT",
+              "publisher": "The New Indian Express"
+            },
+            {
+              "title": "Praveen Nettaru murder case: NIA announces Rs 5 lakh reward against two PFI members - The Times of India",
+              "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOWmJXajBsdHNJeFE2MkFrQTdIenR1TUFmVF9TTkFZeWxMSkE4dHdQUUEzVVk1R19PSDY5dHdSX09UUUxERDdjYkhqaGNJLXR6cTZiY0pZdUZVUjczTl8xSEl3cU5vaUd4SzRyaGcxOFN1YlJIb25SaldWSUZCZlpJM1RsNkxBbUhtQzFlTC01V2wwS0RwRTFQNVlXVFVQbi1lZUYwazVINXZ6dTVQZG1OYk9paWdUam9xUFFwMGpwbXVkZVE1OXZCbDMxXzJxcDZlR2h4SVhWMGZlV1NNY0dTV1QyQVN6X0ZMLW10UlJiQdIB9AFBVV95cUxOWHJXLXNjcEotdFpla3NkLXJjTE5yM3NNQ0hjQ2c0aHhMWU52OFk5RWc5Xy1VdUdRUVZUcHlBYUdPTEVicWNDdlVid2ZKcWRseDBPSzBSa2pZbXV6N21SRVhKeTAwUE5SYUJ5bHpkdFFrRWlxS2UxUTdiajkzVmY1T00xWW1XLXdXaWlKNUJXYmhCQ1dvdURWX0wwUWNUa0ZjRGJILUxoT3VzWGltQXY3Y19ldDM5aHBwak13YTFXVUlZRlpfX213Zm1EOEo1QUZ5TmVBcVVQeTl3TmlmN0xxRkhmdWJSSzRQSmQzWnhGSzBycHNn?oc=5",
+              "published_at": "Fri, 20 Jan 2023 08:00:00 GMT",
+              "publisher": "The Times of India"
+            },
+            {
+              "title": "Praveen Nettaru murder case: NIA declares ₹5L reward against two PFI members | Bengaluru - Hindustan Times",
+              "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNYzJuQzJ5NzBMWm1BczRKb21PeFNEX1JzQXptZFFLQ0doY0ZxZlRfSjZBUmFVNkoycXc2WklONjg2a01rb2FMN2w3REp1S1h3bTF5QXItQklfelNmamM0UTdkQ0pEZXNDQlhiQnd4U3BjcnNySjlMLW9sVEZ0OUZBbkdRZzhSYjlNeGVQcFJFLUpnQ0IzYllGUi1NMU9TdGhrbnc1MngzTlFQc2NoenB6NUw3OElGWWw4WnU3WDdZb0J3cW4yMjVnSnQxdjA1UmlOZmNPSUhfY1dhZndhaXZiYkFhZ3VEUdIB6wFBVV95cUxONldOczNuS2Q1NUFfclR1X09rb3Bka1k0MmJIVG1UZmNBTEVUUFowN0prMlVxRWNkbVllNFVmZXdXWUU1WS1hVEIxSWZUZURoX1lTZklmTURJOWNlSmc2cGZkdWY5XzlWR0NDY0dOLVNfQ3I5NmR2Y2ttT0hSR1BHWHp4Q1BZV1NjdEw3NmFaRnNSVkdMcXRtY1EwSmplY013bUdtMENScGExd211UzlVSnFLUUNZeVR3RXlvWHU2dVA1Y01CQkY1N1V1d2NKbGRkYzYwSUhiR1hlV1dZRmdEYVp3cExha3F2TnE0?oc=5",
+              "published_at": "Fri, 20 Jan 2023 08:00:00 GMT",
+              "publisher": "Hindustan Times"
+            },
+            {
+              "title": "Praveen Nettaru case: NIA announces Rs 5 lakh reward for information on PFI members involved in murder of BJYM leader - organiser.org",
+              "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQX0tXbHE5UXhOT1l2eTFsN0Rja0Q1a1Y3ZldpMHh1MHBjZUlidEhhTUpxcGRRcWZ6ZWEyYm04allRT0VBS2g0MjhQbVNwdXdob3JScGRnMGZWTVQwX3pTRFVWeXJuUWlZeGdqSURNSXFzUjVvT3EwRGNoeWRSNnNXR2lLR3p5MmVMbFFsdzB6N2RucDFHbWZfRk9ZenE3TGRCOERiWVg4MUsxQWxVVFdqVkV0d0ZPTUt0bnVBbWpISzZVVXpfVzFZckRDcVIxM28wYXlHUWF5RUlZc2MtUUdXUmd3M03SAeoBQVVfeXFMUExRRWRySjJBM0pZa0JSbmZrUVlKRmFNdlh5WUJhaVJ4TVQzYkRIeWpqODdVc1NzY09YQkJLZl9BcGpaa3RnXzRwa1VNTmFQN3gxRFdiS0E3V084bmlpZnFIemh6bnV1bW5ZVkhiVW55UFZIZkRyVExsUTJDaXVUNENzMG5kWk8xYkJ5QTBYZVFock01TmFqeW00Z1pLTEV4YnozU0otMWVieTh6dEpWWERrTkZSR0RMTGJGTHFKUlRVQmI3eXZoaGREMG1VVy1lOUdEbUJxUm96OXY2TnZVanY1NVR0WnQtMFJR?oc=5",
+              "published_at": "Fri, 20 Jan 2023 08:00:00 GMT",
+              "publisher": "organiser.org"
+            },
+            {
+              "title": "Praveen Nettaru murder: NIA announces cash reward on 2 more suspects - mangaloretoday.com",
+              "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLVo3dmtGY0kxeEswMXpyVkRkWm15ZmZQbkdkc2tnMDlsMmQ2clJxZG1HVzBZN1lhSVN5YUVONmR1ZFBXc2dUZlFFMHFIVFhWWkVHSDdkT0JyUzBmeTZnZWhUNjVjSHllTXpNX0tXSnBfYkpOYUsyUUZEMlVyTzNuTk9xV0swanFYcENUYnJRNXFBTkp0VlZYeExidDdVV2w5dmhjQmJLdVMwbmNS?oc=5",
+              "published_at": "Thu, 19 Jan 2023 08:00:00 GMT",
+              "publisher": "mangaloretoday.com"
+            },
+            {
+              "title": "PFI hit squad head held in Praveen Nettaru murder case - The New Indian Express",
+              "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOS0p4c3FNSnpCRTBWem9yaTF0S3l3S1Y3RjVwYk8zMEt4NFdWN1BCNnlzeUlyTFpWcHgtY1RQUWpMazBfcmpRWTB0Tl9BNlh0RU43OHpYMVpaODJPczl5SkhzY05wU0tSM05jRVpsSHNLOVZhQXdfTXZhMFJhX0FtWVZuYUpYb3AwSlRndmNlVTVPUmJ3VW5EXzN2XzFxZ05zZEpHa3pZeXV6LVpxV2g5UDZzZVBaWGM5YTU0MUM5eHZTajgxOEVIMNIB1gFBVV95cUxPRzFmQTdJU0tGeWJTSm0zRGNvcUMxVWZhbG5wY0lEQ3pmZEJDb1pRTFlrU3BSZ29DeGEwaEZIR05qLXdIeEgwSk9XdXc0WWV0dkVmSmNZaU4wSlpQVUtjMW03UG1seDRsbzlxRTBDMXlmbVRlcm1CeVA2dVRkTWtyTWcxMENkbFNPcXIwSFVlcHZ5UDN6SS1XUnYzb0ZkeF9EbVlta1FsMy1OUms0OUtCQThsUWQ0S1dJa25qLU8ycjQtcDhqeDlzdVhiclVXdEZqUGwxWFNB?oc=5",
+              "published_at": "Mon, 06 Mar 2023 08:00:00 GMT",
+              "publisher": "The New Indian Express"
+            },
+            {
+              "title": "Praveen Nettaru murder case: NIA files chargesheet against 20 accused with PFI killer squad’ to create terror in Hindu community, establish Islamic Rule by 2047 Says NIA Chargesheet - Country and Politics",
+              "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPTWhraG1NLVhTWTQzdUFZVGI3dlJWTDQtaFpzVnBTM1BvNEYzNjNhMDhvUE1saExSWVVIOG5fRHlrWVVKN3RLU2liNlFMdXQ2YXVFckZadzBMajRqUjJNdG9TZDhDVXJ2X2xmb3ZEVXB2TTdhazNuT0hLUFdpQjIwVUhDaU1Gd1BXTGVaV3lEOE9qRHd5dXdxUlRHdlFhTHVEWWZTTEJ4MGtraWM4RjF1bjBzNzItOEtpYWpmSEVqWE9zZS16dlk1R1hraWZENDVDY3dIeEVOTXpfaW02U3NmblBvWUZFTV83bnNzVGJneUdWQ0thQUh5bG5MdXQ5RkprTjNQT0tSTUE1SDlBSlEyWjJ1X2hHVk9SVWVaOE55VmpOUEc5a1ZIQ3ZvbWlLNVljQ0xyV2hSazQwa0hOSERWckpKSFRFZUk?oc=5",
+              "published_at": "Tue, 24 Jan 2023 08:00:00 GMT",
+              "publisher": "Country and Politics"
+            },
+            {
+              "title": "Praveen Nettaru murder case: NIA files chargesheet against 20 PFI members; 'outfit formed 'Killer Squads' - The Times of India",
+              "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPbzA2cW15eGc1amRPVGtHdlYtdkhCSWxFcTVpNk9udTJZYnUwb0lqWmpqSGVZaDNMV0FvY0pGSGRzMWFjcWpGY3JvYVMyRWdEekh1Rm5tcHRlSnRzWWNfTEE4QlEwYzVEV2JUR2xSbDF5bjRydjdWdW9rQ3QzUkxkdjJFd2hfWUg5YlctTVl1d25mYktBVnQwM1dGOF9IRjZmOVA5RFAxVUo2MktxekloMTZSS25fcngyOU1VOXAyT0dmZXFNTERrSlpzcXJnc2dIWUJCQzhPcDlMa1ltLVdoeThJM0RZLW5nUWptLTJLWm02aXNIUlZNMFNRWHlmc1NhNnhnTVBZZTJ2YjhIR0JrUUpHUXo2RlVZSFBzUVI2VnRJeS1q0gGqAkFVX3lxTE5WVWRiNk1udDYzbWlWRndzeTgtX2ZMRndmTUJOYVJDMG1jbmFuTHpkdmxxUDRxX3BzWm5nZ3dLSXpvbVg4dkdSaGdnVEpCenBkczlGZnJta05kdXM2R0liWjBQNEl6UlR0MVNtQWJxNjJQNlJNYTZiZFE2OUNhWkNxdUR4S05WWVBEem9Qc3JXajVsNDdvQWs2U1ZjUmhJcmt6OE5OUmx4NzRVYjBhaThwOWN2T0ZnUkg3M29wcGFSOHA1c3Fra1VmbE1lSGZROUZxb1k2b2pQWC1fUWVkZzhFSFZTUjVwY2tIUjFYaDlOZHlGVFU4c0ZqTmJhQ2tTZkFpa2Vpb2ZGUVdGOTYtVzRXUEpzZWdzTndaeFQ2ZlJzSFdlV2ZublRnQXc?oc=5",
+              "published_at": "Sat, 21 Jan 2023 08:00:00 GMT",
+              "publisher": "The Times of India"
+            },
+            {
+              "title": "Praveen Nettaru murder: NIA arrests another accused in Bengaluru - Daijiworld",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HME1WaDdyUUg4YWJ0MDJ1ME55RWotT2RscFNQWWNPcDVhY1JTdXFfTWhYMW9NeGRRNWZxVVBPQXVGV09VWVpKYjBpelVleG53LXdfN19BTmRnT1dxNFhlZUhka0JvZnhuaXc?oc=5",
+              "published_at": "Sun, 05 Mar 2023 08:00:00 GMT",
+              "publisher": "Daijiworld"
+            }
+          ]
+        },
+        "gdelt": {
+          "state": "failed",
+          "attempted_at": "2026-10-01T01:06:11.842952+00:00",
+          "error": "HTTPError HTTP 429"
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "6059beed3f705c64ae27": {
+      "attempted_at": "2026-10-01T01:06:35.565148+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T01:06:18.103264+00:00",
+          "items": [
+            {
+              "title": "7-yr wait for drainage upgrade fuels residents’ anger in Bansdroni belt - The Times of India",
+              "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQS2plTExGcDNVSUpSVGVzWWJEM1l5R1dSRTE5TE81bVRZR3hGaUdJb0h0VHZQQmZPZEJvZWNYWGIydlIwcmdFX2VwWGVoWDRsU3FqRjRkQndseUNidzUyYWhFSm9UcFZCT1NHVkF1cEk4QkpHbHM5Rno4UzhBRVBkRURyWnMwMWUzNmxtd21BZ0ZFWWVVOGdqWTFRZ0pEa1p0UmgzSU5yOW51a0VOWmpSZ2dZTnVVSkhfUHB0ZTJzdVBsdjZ5SGpwOUVEaHdsWHpPbmljcVNCNll2dDQyek9FU2ZR0gHnAUFVX3lxTFBBdWhxSzFSdGlQR05wNzNQcUdPZ2lSMzFoM3k3ekZrOFhGTGo2bFpQOFhibDdCbGE2YjctdWRZU040V0VWQ3AxeElIVmlBOHNNZU8xVmt2eE5FY2V0ZUMtdjRPOVF0bzBubVpmZTgtYS05cXcyckl5Nk1mUVBPMzJSNXFGUGtBRnRHV0Y4TFo4bC05d1RVb2NWblkwNmN2WkFIMm00RnRyWk54TFBLZ2RwU1E2cThPZTliVTZOTnVnX1Z1enNndTUyb084RHFvQVAzM2I2a1VFQ2lRczhmZFp5RXZoazF2cw?oc=5",
+              "published_at": "Thu, 03 Oct 2024 07:00:00 GMT",
+              "publisher": "The Times of India"
+            }
+          ]
+        },
+        "gdelt": {
+          "state": "failed",
+          "attempted_at": "2026-10-01T01:06:29.564964+00:00",
+          "error": "HTTPError HTTP 429"
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "28e578f6ac7cb787c5ef": {
+      "attempted_at": "2026-10-01T01:06:53.089179+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T01:06:35.802551+00:00",
+          "items": [
+            {
+              "title": "Calcutta High Court orders CBI/NIA probe in plea alleging 'forceful conversion as punishment' for... - LawBeat",
+              "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUEREMXhmUVJVa2ltLXdsTjViRVA1VFRHRUlScFBaY0RsVWFwcGM0TldMMENVLWd1Nk4zeGQ3bzUzSWhvTFdibUdVemh4eGlhMzBZQzlSVzY2Tkh1N1ZzLWlUeGRveW5sc3JZTU9NenREeDI3RHJfRFh0Rlczem4tVjdKZmQyOEVZUFVfMmlDTEJuNmZ4WlZQeFY3aGFaVjQzM3Y5MFRHV0Y1ZVFxc0JIaGN3R1Q4d9IBuwFBVV95cUxPSElPOHBqYzR5ZXVUVVAtVHUxRUk3SF9aNXdHcnNfODI2MEE1aS1BWEZMNXlGU1ljMlJhOHZMaE1xdWFSY1ptVUlSS2ZvYmZsdmVQVkoxeXNCRVdOc184WmdIUElDbWVrU2tld0NnNWtyUGd2SHhaUDZyN2hiUWR0ZUdISUNDX1FtMTdDbS11R1JEVEdLUkVRNVJ4R1RHU1pacUl4V0dwdmNOM3FmZnh6MENoY2k4UVVkdjZR?oc=5",
+              "published_at": "Sat, 21 May 2022 07:00:00 GMT",
+              "publisher": "LawBeat"
+            },
+            {
+              "title": "Delhi Police Special Cell busts Pune ISIS module, arrests NIA wanted terrorist Shahnawaz Alam - BW Police World",
+              "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeHVjcFZZRkcxVVZiTkdzcEp5MkZBYWNHTWtrOHl2Q3FaVk95dzV6cG9jc3NmOUlwV3hNRzhWalpvZ3NnOGlSVEdVWTRqRWxpWDNRYXRxQmxZZkNJYnZ1VHVReFNMejhUajNrcmpaaHhhUlc4eTlPOWd6d0Q3R2lrX21nU1hFZHlzTDNIOXI1U1YwOG82azRtNklJazJZZUNwQnRtN3VOa3FoT0dGV20wOVI3OFQ0RFFLWUFxT2JQak54Yk44LWpWQVFFcXhQc2VrWU9R?oc=5",
+              "published_at": "Wed, 04 Oct 2023 07:00:00 GMT",
+              "publisher": "BW Police World"
+            }
+          ]
+        },
+        "gdelt": {
+          "state": "failed",
+          "attempted_at": "2026-10-01T01:06:47.089018+00:00",
+          "error": "HTTPError HTTP 429"
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "ee78168c6c449e3f3bf2": {
+      "attempted_at": "2026-10-01T01:07:11.202176+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T01:06:53.320720+00:00",
+          "items": [
+            {
+              "title": "2,988 kg heroin seizure at Adani’s Mundra Port linked to LeT terror funding, NIA tells Supreme Court - The Indian Express",
+              "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU0tLZjFLdXlYRm9WMWhCbEZONEt1RVFTNTdOMHBmVkIxeWMzUmtteUZvZG9JZDhQVkZlbnlzbzNqb1JhUDNtWG5zX3BTY00ta0pyZ1lyTU1keVRQekpLVlZ3X3RITE1EMklNMnhwdloxd2JBN0o5c1dSMHVsbG5XaXp6VXBKa3hpUi1nQnlyZ1NNeGFZc2MtQ2IzYzZCbjlYdWFCMjJqT3BvRzBlMEFfOWhRcHFpbHV4TWp0YmF2Z0dBSW5xQkdITdIBzwFBVV95cUxQaWFDb1F1X1p2QmpfbXNYZFpUOTVpZUFFWVBQZWp5ZU9BaWVlbnU0UUpCNExjamRJaVE5SUdJaEtjWEo1a09UcUhhRklQbmpVZHlKS0RQaElleVFleWFxUkc0QTFGYllrNmtaSURBY2JoYm5Gck1PcVNvbUs4dGtMQ0VUUFJNX2xmZS1rUUNjTUVFVlJ4RXVrZ05QU0xhSlB1SklUT2pNdEs3TVlmWHAzVGllWVNhZjE0LVJhcE1SMW0wVzAtdW10eVhZM2RNd1U?oc=5",
+              "published_at": "Thu, 24 Apr 2025 07:00:00 GMT",
+              "publisher": "The Indian Express"
+            }
+          ]
+        },
+        "gdelt": {
+          "state": "failed",
+          "attempted_at": "2026-10-01T01:07:05.202017+00:00",
+          "error": "HTTPError HTTP 429"
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "0f426055d5d97962e10f": {
+      "attempted_at": "2026-10-01T01:07:29.241514+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T01:07:11.486535+00:00",
+          "items": [
+            {
+              "title": "ISIS module: One more held in Hyderabad - The Times of India",
+              "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYUN5U3dYM0I5UHdONkpxMlNmWHNTZEFtNUZYZGw3NXc5d3V3S1cwd3lMN2lkdk9vejJvQWFSM2E5eVI1UVNhb291YUNPN0FYZ3BhcTViNVNnTGphcGoycUlNR1VCWnNUSUJqRUYtdDVEeGVhaEpwRmgxa2RWMVpadVA5UlVEbjRIejRHajk0bWhMWXI0UUhjS29BYk9JTkpTRzdRLURaSlkyLVhRTUHSAbMBQVVfeXFMUDNfYlNnTmJoRG9sVjhiZnRGVmdSUVYxY0tfVGhIcExXaUdkb2x6Z0w0bU9GOENXWkczWFpiM3ZkZHNXQ3ozTmxFRzR6anlIaEVzbWdPSi1uQzhaSHZROXRvZmFiWDhCQjA2dGJJZmgxNjQxM0dJd1V1X01DaTM4dVhEY04tbjdlTzlaQlFHT0NObEl6bURtZTNuU25TZzNWaGgtMWxxQ09QM0s4TXZObi1vRVE?oc=5",
+              "published_at": "Wed, 18 Jan 2017 08:00:00 GMT",
+              "publisher": "The Times of India"
+            },
+            {
+              "title": "Telangana: One more PFI member arrested by NIA - archive.siasat.com",
+              "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaTRGZDJEcnpiSWhjd3pHNVhJZXJESFB2MTI3VC00MFRvTVdTcFhidkFwZDdOUXJacDBzeHJWS2JwaERWeUpyeWxxX25FOWNtamtsTVQ0RGprVENNZjVoYy1rRXYxMUFPOTdZakFkZ1hUZVFPcnBTTTQ0MmtZRnZpMFN1dUFnM2pETENLeEIxWQ?oc=5",
+              "published_at": "Fri, 23 Sep 2022 07:00:00 GMT",
+              "publisher": "archive.siasat.com"
+            }
+          ]
+        },
+        "gdelt": {
+          "state": "failed",
+          "attempted_at": "2026-10-01T01:07:23.241356+00:00",
+          "error": "HTTPError HTTP 429"
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "e58f534acac27b92ef09": {
+      "attempted_at": "2026-10-01T01:07:47.075611+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-01T01:07:29.514397+00:00",
+          "items": []
+        },
+        "gdelt": {
+          "state": "failed",
+          "attempted_at": "2026-10-01T01:07:41.075455+00:00",
+          "error": "HTTPError HTTP 429"
         },
         "x": {
           "state": "not_configured",
