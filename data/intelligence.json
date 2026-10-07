@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-10-07T02:06:12.862402+00:00",
+  "generated_at": "2026-10-07T09:36:46.012996+00:00",
   "profiles": {
     "1d5ef2acfc61b1838c47": {
-      "attempted_at": "2026-10-05T07:49:30.122550+00:00",
+      "attempted_at": "2026-10-07T09:31:00.305988+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-05T07:49:12.256252+00:00",
-          "items": []
+          "items": [],
+          "attempted_at": "2026-10-07T09:30:34.035438+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
-          "state": "failed",
-          "checked_at": "2026-10-03T20:15:22.387640+00:00",
-          "items": [],
-          "attempted_at": "2026-10-05T07:49:24.122381+00:00",
-          "error": "HTTPError HTTP 429"
+          "state": "ok",
+          "checked_at": "2026-10-07T09:30:54.305860+00:00",
+          "items": []
         },
         "x": {
           "state": "not_configured",
@@ -23,16 +23,18 @@
       }
     },
     "ee6f1262e2c452c979c1": {
-      "attempted_at": "2026-10-05T07:49:47.313569+00:00",
+      "attempted_at": "2026-10-07T09:31:32.257229+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-05T07:49:30.332962+00:00",
-          "items": []
+          "items": [],
+          "attempted_at": "2026-10-07T09:31:09.886496+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
           "state": "failed",
-          "attempted_at": "2026-10-05T07:49:41.313417+00:00",
+          "attempted_at": "2026-10-07T09:31:26.257111+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -42,10 +44,10 @@
       }
     },
     "504c42d55791e6c548b6": {
-      "attempted_at": "2026-10-05T07:50:28.959416+00:00",
+      "attempted_at": "2026-10-07T09:32:01.874244+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-05T07:49:47.617004+00:00",
           "items": [
             {
@@ -108,12 +110,14 @@
               "published_at": "Sat, 19 Dec 2020 08:00:00 GMT",
               "publisher": "newindianexpress.com"
             }
-          ]
+          ],
+          "attempted_at": "2026-10-07T09:31:41.705772+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
           "state": "failed",
-          "attempted_at": "2026-10-05T07:50:22.959252+00:00",
-          "error": "ReadTimeout"
+          "attempted_at": "2026-10-07T09:31:55.874126+00:00",
+          "error": "HTTPError HTTP 429"
         },
         "x": {
           "state": "not_configured",
@@ -122,10 +126,10 @@
       }
     },
     "40417e1dbb9214e91ae4": {
-      "attempted_at": "2026-10-05T07:51:00.390939+00:00",
+      "attempted_at": "2026-10-07T09:32:26.114696+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-05T07:50:29.319963+00:00",
           "items": [
             {
@@ -152,12 +156,14 @@
               "published_at": "Mon, 19 Oct 2020 07:00:00 GMT",
               "publisher": "Pratidin Time"
             }
-          ]
+          ],
+          "attempted_at": "2026-10-07T09:32:07.512384+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
           "state": "failed",
-          "attempted_at": "2026-10-05T07:50:54.390816+00:00",
-          "error": "ReadTimeout"
+          "attempted_at": "2026-10-07T09:32:20.114547+00:00",
+          "error": "HTTPError HTTP 429"
         },
         "x": {
           "state": "not_configured",
@@ -166,10 +172,10 @@
       }
     },
     "38334f98ddf750fd669a": {
-      "attempted_at": "2026-10-05T07:51:34.895359+00:00",
+      "attempted_at": "2026-10-07T09:32:54.170116+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-05T07:51:00.766287+00:00",
           "items": [
             {
@@ -208,14 +214,14 @@
               "published_at": "Thu, 25 Aug 2022 07:00:00 GMT",
               "publisher": "The Indian Express"
             }
-          ]
+          ],
+          "attempted_at": "2026-10-07T09:32:34.619428+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
-          "state": "failed",
-          "checked_at": "2026-10-02T06:10:40.689992+00:00",
-          "items": [],
-          "attempted_at": "2026-10-05T07:51:28.895209+00:00",
-          "error": "ReadTimeout"
+          "state": "ok",
+          "checked_at": "2026-10-07T09:32:48.169969+00:00",
+          "items": []
         },
         "x": {
           "state": "not_configured",
@@ -224,10 +230,10 @@
       }
     },
     "a802a8d372846ef6f9b5": {
-      "attempted_at": "2026-10-05T07:51:53.201241+00:00",
+      "attempted_at": "2026-10-07T09:33:21.230291+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-05T07:51:35.225745+00:00",
           "items": [
             {
@@ -248,11 +254,13 @@
               "published_at": "Tue, 16 Jan 2018 08:00:00 GMT",
               "publisher": "VSK Kerala"
             }
-          ]
+          ],
+          "attempted_at": "2026-10-07T09:33:03.627919+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
           "state": "failed",
-          "attempted_at": "2026-10-05T07:51:47.201081+00:00",
+          "attempted_at": "2026-10-07T09:33:15.230116+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -262,10 +270,10 @@
       }
     },
     "fabb34554f98751d09a5": {
-      "attempted_at": "2026-10-05T07:52:15.089460+00:00",
+      "attempted_at": "2026-10-07T09:33:48.777986+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-05T07:51:53.498248+00:00",
           "items": [
             {
@@ -328,13 +336,15 @@
               "published_at": "Thu, 02 May 2019 07:00:00 GMT",
               "publisher": "The Statesman"
             }
-          ]
+          ],
+          "attempted_at": "2026-10-07T09:33:30.698835+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
           "state": "failed",
           "checked_at": "2026-10-03T20:17:09.521470+00:00",
           "items": [],
-          "attempted_at": "2026-10-05T07:52:09.089300+00:00",
+          "attempted_at": "2026-10-07T09:33:42.777693+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -344,10 +354,10 @@
       }
     },
     "37ebf7a07bc7a125b993": {
-      "attempted_at": "2026-10-05T07:52:32.067435+00:00",
+      "attempted_at": "2026-10-07T09:34:15.430095+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-05T07:52:15.371775+00:00",
           "items": [
             {
@@ -380,11 +390,13 @@
               "published_at": "Tue, 11 Mar 2014 07:00:00 GMT",
               "publisher": "newindianexpress.com"
             }
-          ]
+          ],
+          "attempted_at": "2026-10-07T09:33:56.898940+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
           "state": "failed",
-          "attempted_at": "2026-10-05T07:52:26.067269+00:00",
+          "attempted_at": "2026-10-07T09:34:09.429952+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -394,10 +406,10 @@
       }
     },
     "14f2684dfab58a39e774": {
-      "attempted_at": "2026-10-05T07:52:49.389081+00:00",
+      "attempted_at": "2026-10-07T09:34:39.311216+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-05T07:52:32.304366+00:00",
           "items": [
             {
@@ -460,11 +472,13 @@
               "published_at": "Thu, 02 Nov 2017 07:00:00 GMT",
               "publisher": "India.com"
             }
-          ]
+          ],
+          "attempted_at": "2026-10-07T09:34:21.380605+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
           "state": "failed",
-          "attempted_at": "2026-10-05T07:52:43.388921+00:00",
+          "attempted_at": "2026-10-07T09:34:33.311097+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -474,10 +488,10 @@
       }
     },
     "0724b4f5551fbbb82e2a": {
-      "attempted_at": "2026-10-05T07:53:06.907298+00:00",
+      "attempted_at": "2026-10-07T09:35:07.919635+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-05T07:52:49.634718+00:00",
           "items": [
             {
@@ -540,11 +554,13 @@
               "published_at": "Tue, 15 Apr 2025 07:00:00 GMT",
               "publisher": "ThePrint"
             }
-          ]
+          ],
+          "attempted_at": "2026-10-07T09:34:49.201128+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
           "state": "failed",
-          "attempted_at": "2026-10-05T07:53:00.907138+00:00",
+          "attempted_at": "2026-10-07T09:35:01.919466+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -554,10 +570,10 @@
       }
     },
     "ebf44b91693ce3171beb": {
-      "attempted_at": "2026-10-05T07:53:24.054988+00:00",
+      "attempted_at": "2026-10-07T09:35:30.982890+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-05T07:53:07.170033+00:00",
           "items": [
             {
@@ -620,11 +636,13 @@
               "published_at": "Fri, 25 Jul 2025 07:00:00 GMT",
               "publisher": "INDIA New England News"
             }
-          ]
+          ],
+          "attempted_at": "2026-10-07T09:35:13.458233+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
           "state": "failed",
-          "attempted_at": "2026-10-05T07:53:18.054840+00:00",
+          "attempted_at": "2026-10-07T09:35:24.982739+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -634,10 +652,10 @@
       }
     },
     "9ef4060b6ae5b5879065": {
-      "attempted_at": "2026-10-05T07:53:40.131315+00:00",
+      "attempted_at": "2026-10-07T09:35:53.550602+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-05T07:53:24.324087+00:00",
           "items": [
             {
@@ -700,13 +718,15 @@
               "published_at": "Fri, 14 Apr 2017 07:00:00 GMT",
               "publisher": "IBTimes India"
             }
-          ]
+          ],
+          "attempted_at": "2026-10-07T09:35:36.387439+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
           "state": "failed",
           "checked_at": "2026-09-30T05:10:24.114830+00:00",
           "items": [],
-          "attempted_at": "2026-10-05T07:53:34.131137+00:00",
+          "attempted_at": "2026-10-07T09:35:47.550458+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -716,10 +736,10 @@
       }
     },
     "956686b93144d924531c": {
-      "attempted_at": "2026-10-05T07:53:55.723664+00:00",
+      "attempted_at": "2026-10-07T09:36:20.287635+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-05T07:53:40.389006+00:00",
           "items": [
             {
@@ -728,12 +748,14 @@
               "published_at": "Fri, 27 Mar 2026 07:00:00 GMT",
               "publisher": "Daijiworld"
             }
-          ]
+          ],
+          "attempted_at": "2026-10-07T09:36:00.095708+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
-          "state": "failed",
-          "attempted_at": "2026-10-05T07:53:49.723545+00:00",
-          "error": "HTTPError HTTP 429"
+          "state": "ok",
+          "checked_at": "2026-10-07T09:36:14.287524+00:00",
+          "items": []
         },
         "x": {
           "state": "not_configured",
@@ -742,10 +764,10 @@
       }
     },
     "aefd5adad8d8ab6b2a24": {
-      "attempted_at": "2026-10-05T07:54:15.247325+00:00",
+      "attempted_at": "2026-10-07T09:36:46.012934+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-05T07:53:55.955827+00:00",
           "items": [
             {
@@ -760,11 +782,13 @@
               "published_at": "Tue, 21 Feb 2023 08:00:00 GMT",
               "publisher": "The Federal"
             }
-          ]
+          ],
+          "attempted_at": "2026-10-07T09:36:26.514610+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
           "state": "ok",
-          "checked_at": "2026-10-05T07:54:09.247182+00:00",
+          "checked_at": "2026-10-07T09:36:40.012781+00:00",
           "items": []
         },
         "x": {
@@ -21683,11 +21707,11 @@
       }
     },
     "4cb0671e41002c0d6a84": {
-      "attempted_at": "2026-10-05T01:28:51.329359+00:00",
+      "attempted_at": "2026-10-07T09:13:38.597528+00:00",
       "sources": {
         "news": {
           "state": "ok",
-          "checked_at": "2026-10-05T01:28:36.869391+00:00",
+          "checked_at": "2026-10-07T09:13:21.514258+00:00",
           "items": [
             {
               "title": "NIA files charge sheet against ULFA-I chief Paresh Baruah, 5 others - India Today NE",
@@ -21701,7 +21725,7 @@
           "state": "failed",
           "checked_at": "2026-10-03T16:52:47.981530+00:00",
           "items": [],
-          "attempted_at": "2026-10-05T01:28:45.329165+00:00",
+          "attempted_at": "2026-10-07T09:13:32.597399+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -21711,11 +21735,11 @@
       }
     },
     "b57615f7c40b34c0df2f": {
-      "attempted_at": "2026-10-05T01:29:06.646499+00:00",
+      "attempted_at": "2026-10-07T09:13:55.661516+00:00",
       "sources": {
         "news": {
           "state": "ok",
-          "checked_at": "2026-10-05T01:28:51.622850+00:00",
+          "checked_at": "2026-10-07T09:13:38.864196+00:00",
           "items": [
             {
               "title": "Haryana: Two members of Kala Rana gang target police vehicle for robbery in Yamunanagar, held - The Times of India",
@@ -21781,7 +21805,7 @@
         },
         "gdelt": {
           "state": "failed",
-          "attempted_at": "2026-10-05T01:29:00.646307+00:00",
+          "attempted_at": "2026-10-07T09:13:49.661355+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -21791,30 +21815,26 @@
       }
     },
     "020fa520fe66cd2f3253": {
-      "attempted_at": "2026-10-05T01:29:24.768792+00:00",
+      "attempted_at": "2026-10-07T09:14:13.169574+00:00",
       "sources": {
         "news": {
           "state": "ok",
-          "checked_at": "2026-10-05T01:29:06.990755+00:00",
+          "checked_at": "2026-10-07T09:13:55.916934+00:00",
           "items": [
             {
               "title": "NIA arrests Nepal national in 2014 fake currency case - The Times of India",
               "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNUVXYmxwV2ppRUhWZDZ4eWU3QzJLYVhUQXhPN1I4b094YW5QS1N5WENuanA5VkRCdTVyakRjVGNTdEVMMjJRZy1mYVBCdE00T2d1RzBKbndyYWpKZ3o3MFpKdGJhbnRDVkJQcGV1TDBNZEJVMjM0N0YxUVA0Y3o5dkpPY2FXZmVxU09sSzBDaWl6NDRfZGF0Z054N2g5a3dzS0k3NWVyakQyeVAzSEVfaTdDYXVLZC1kakZKenloUGZmYnhD0gHKAUFVX3lxTFBKMW5nY1RUZjRoV1RZUVZBd1FEVmJLRlZKMVVVSE5seENtUVd2YVU3cnQ2YzBzd0xLdDlfQTRKLXdMQ0xnWVQwNnU3WkxHYnZzS0Y5WVRxdGxNdWpBWnNhdXdMd21zZXU2QVBuQWFocWE0ZnVRM3k3OUhDZjd6ZlpwZk9iTEllM0ZsTlNISGJHdWIyUFV4S05kZmRHbzRac2pTUE90MUYwdEtraGhSdWxxWmdnQ3ZjUEM4U2NhVklRSV9jS2tnSUVoNlE?oc=5",
               "published_at": "Mon, 02 Mar 2026 08:00:00 GMT",
               "publisher": "The Times of India"
-            },
-            {
-              "title": "Bihar: NIA special court awards 20 years rigorous imprisonment to FICN trafficker - The Times of India",
-              "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVmRPeGt0NGRlaG5ibzlMTWFPOFZLaUNBYWtrLThhc21oVm4tS0wwZUs2NzlKX1pQUzEwS3I0bVVIeXBRUU9hRXcycS1VT2ctX0ZSV3k2X25oTFRjcnZoMDlrdkZQSDZka2Nsb2tLcmVqckcwMWtJVEV3ekFaN0ozWndBRlhCRHM1WnJiRHc4c0k4V0J5LWpuUXJMTXQ2MzZPRkFydGxuYVdRYWxhZU1uSkFVVmpST1QtcjUzTzhwQlJnbVhOb3V1Smxtbm1lNHNhQm11T2pMbGJXOTBRVThpRGxYb2huUEnSAewBQVVfeXFMTktWV3BkM095YVdKeFBxa3BnbW1NbkFLXy0yNU55cG5BVi01OV9RTGdLNmZZODFGc203SjIwTWh3ekM1cnJBMHg3dlJOSWxfVFJyZDVJRFNBOFdmNi1YQUtVMnNPTURrSlRGQzhDSG5uTF9KclhPZmgwMTlHRFNpMUJGdDJfc09ITFhnVFg0UndPdW83S1dRdlVLOUdLd3FqY3BFdkFzY2JOb0FNcExMeDRKTkM5dXhfZ0s0T01BTlMzTlQ3SWgwcm5xbVhfaUhob0hlR3ZGSHN0R0ZUQ05rR1RDTnlWa3JZX203aTY?oc=5",
-              "published_at": "Sat, 23 Jul 2022 07:00:00 GMT",
-              "publisher": "The Times of India"
             }
           ]
         },
         "gdelt": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-05T01:29:18.768644+00:00",
-          "items": []
+          "items": [],
+          "attempted_at": "2026-10-07T09:14:07.169424+00:00",
+          "error": "HTTPError HTTP 429"
         },
         "x": {
           "state": "not_configured",
@@ -21823,17 +21843,19 @@
       }
     },
     "9d91486e01d5cb9d0db2": {
-      "attempted_at": "2026-10-05T01:29:44.928720+00:00",
+      "attempted_at": "2026-10-07T09:14:30.962240+00:00",
       "sources": {
         "news": {
           "state": "ok",
-          "checked_at": "2026-10-05T01:29:25.000677+00:00",
+          "checked_at": "2026-10-07T09:14:13.405742+00:00",
           "items": []
         },
         "gdelt": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-05T01:29:38.928532+00:00",
-          "items": []
+          "items": [],
+          "attempted_at": "2026-10-07T09:14:24.962103+00:00",
+          "error": "HTTPError HTTP 429"
         },
         "x": {
           "state": "not_configured",
@@ -21842,18 +21864,18 @@
       }
     },
     "481d807d19b5052488b2": {
-      "attempted_at": "2026-10-05T01:30:00.515644+00:00",
+      "attempted_at": "2026-10-07T09:14:48.236156+00:00",
       "sources": {
         "news": {
           "state": "ok",
-          "checked_at": "2026-10-05T01:29:45.196754+00:00",
+          "checked_at": "2026-10-07T09:14:31.201695+00:00",
           "items": []
         },
         "gdelt": {
           "state": "failed",
           "checked_at": "2026-10-02T00:16:29.330567+00:00",
           "items": [],
-          "attempted_at": "2026-10-05T01:29:54.515475+00:00",
+          "attempted_at": "2026-10-07T09:14:42.235988+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -21863,35 +21885,18 @@
       }
     },
     "cbe6790c8c5c3ef8584e": {
-      "attempted_at": "2026-10-05T01:30:20.997295+00:00",
+      "attempted_at": "2026-10-07T09:15:06.052352+00:00",
       "sources": {
         "news": {
           "state": "ok",
-          "checked_at": "2026-10-05T01:30:00.795997+00:00",
-          "items": []
-        },
-        "gdelt": {
-          "state": "ok",
-          "checked_at": "2026-10-05T01:30:14.997105+00:00",
-          "items": []
-        },
-        "x": {
-          "state": "not_configured",
-          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
-        }
-      }
-    },
-    "2096bd1190d22ad26780": {
-      "attempted_at": "2026-10-05T01:30:40.810522+00:00",
-      "sources": {
-        "news": {
-          "state": "ok",
-          "checked_at": "2026-10-05T01:30:21.284651+00:00",
+          "checked_at": "2026-10-07T09:14:48.466501+00:00",
           "items": []
         },
         "gdelt": {
           "state": "failed",
-          "attempted_at": "2026-10-05T01:30:34.810332+00:00",
+          "checked_at": "2026-10-05T01:30:14.997105+00:00",
+          "items": [],
+          "attempted_at": "2026-10-07T09:15:00.052213+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -21900,17 +21905,43 @@
         }
       }
     },
-    "a55eed826291c46db785": {
-      "attempted_at": "2026-10-05T01:31:01.852982+00:00",
+    "2096bd1190d22ad26780": {
+      "attempted_at": "2026-10-07T09:15:30.557000+00:00",
       "sources": {
         "news": {
           "state": "ok",
-          "checked_at": "2026-10-05T01:30:41.066759+00:00",
+          "checked_at": "2026-10-07T09:15:06.301755+00:00",
           "items": []
         },
         "gdelt": {
+          "state": "ok",
+          "checked_at": "2026-10-07T09:15:24.556867+00:00",
+          "items": []
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "a55eed826291c46db785": {
+      "attempted_at": "2026-10-07T09:15:48.537849+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-10-07T09:15:30.807014+00:00",
+          "items": [
+            {
+              "title": "Bengaluru NIA Court sentences 3 Jamaat-ul-Mujahideen Bangladesh members to 7-year imprisonment - LawBeat",
+              "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbjMtTU9SX1dWcFFsWTRqMW1HM3ZYZFktbjN6cktJdm55MmJHWGZEcktBVHNUTmtsUXJMRnI2THFOWWJMZWFWR1NoRWdXUWxMakhsRTdJM0QxX3dhSE1HVC1NLVNvaUZFQU5qWGJHNWZRcmRILUgtWVpJakZDVVhYdUd4OU5QNGFBaVpyeHB5S1pfaHRjVWo5Tk1Lc0UzZ2hJeXhBWktNU25adFBXTG5mcWpNNmQ4S2NDVHhuY2xKTFPSAcYBQVVfeXFMTWlob01hbWg1YUY2VlFFSDFTLU9UMG5heHBBSDNud29CU2VUaTdFcDhOeHdqMkE1YjBrS3d0Vlp6anE4T1RLdFVKa296VWQ5QUtJbG9HeGkxYV9NLTZEMnBIZmdRRzhKNGcxNU5VNTgzS0Fwcm5HT0FVcXNteE1kc1pveXR6emwwbWNFcVlzNmF6VXVyN1ZnT0txUFllMEZ2b04yNW9mbmJRLW8zR3ZnX2RRSWMwSEFhMHk3dERsNTNmSlpKWmpR?oc=5",
+              "published_at": "Thu, 01 Dec 2022 08:00:00 GMT",
+              "publisher": "LawBeat"
+            }
+          ]
+        },
+        "gdelt": {
           "state": "failed",
-          "attempted_at": "2026-10-05T01:30:55.852740+00:00",
+          "attempted_at": "2026-10-07T09:15:42.537438+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -21920,11 +21951,11 @@
       }
     },
     "246cf6616e02009b8726": {
-      "attempted_at": "2026-10-05T01:31:23.533353+00:00",
+      "attempted_at": "2026-10-07T09:16:07.078724+00:00",
       "sources": {
         "news": {
           "state": "ok",
-          "checked_at": "2026-10-05T01:31:02.135512+00:00",
+          "checked_at": "2026-10-07T09:15:48.803678+00:00",
           "items": [
             {
               "title": "NIA chargesheets 25th accused in Salaya drug seizure case - BW Police World",
@@ -21957,10 +21988,10 @@
               "publisher": "ANI News"
             },
             {
-              "title": "NIA Seizes Amritsar Plots Linked to LeT Terror Funding Through Heroin Network - Pioneer Daily",
+              "title": "NIA Seizes Amritsar Plots Linked to LeT Terror Funding Through Heroin Network - Daily Pioneer",
               "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xY0ZTNzNEZkZMMFhacndrZ044M00wM3p4R3I5TXA5bG0tVU1RWWxnVzREMzJOX3dVOGRHX2Nhbk83MDVMalBUa2pkdUIyVzlnMHpqRlpYUjE0ZkRrRzdlSGpjWDY4YmJoNFhldVlzM3ZHSGU2NkVmWXhqVE1nV0E?oc=5",
               "published_at": "Sat, 15 Aug 2026 07:00:00 GMT",
-              "publisher": "Pioneer Daily"
+              "publisher": "Daily Pioneer"
             },
             {
               "title": "NIA files sixth supplementary chargesheet against four in 500 kg heroin seizure case - The Indian Express",
@@ -21974,7 +22005,7 @@
           "state": "failed",
           "checked_at": "2026-10-02T00:17:42.790025+00:00",
           "items": [],
-          "attempted_at": "2026-10-05T01:31:17.533190+00:00",
+          "attempted_at": "2026-10-07T09:16:01.078579+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -21984,11 +22015,11 @@
       }
     },
     "ba003756cafc6e64a799": {
-      "attempted_at": "2026-10-05T01:31:46.376650+00:00",
+      "attempted_at": "2026-10-07T09:16:24.618295+00:00",
       "sources": {
         "news": {
           "state": "ok",
-          "checked_at": "2026-10-05T01:31:23.814857+00:00",
+          "checked_at": "2026-10-07T09:16:07.332001+00:00",
           "items": [
             {
               "title": "Davinder Singh Case: Ex-Village Head Tariq Ahmad Mir, a Former BJP 'Leader', Arrested by NIA - India.com",
@@ -22009,12 +22040,6 @@
               "publisher": "The Hindu"
             },
             {
-              "title": "Kashmir: Crackdowns and Plunder | Tariq Mir - The New York Review of Books",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zbGZHMHBQWlhDNkJsUlU3eWhjNVJlUnlvQWpMNFFMcG9hbjJIRG9sWkVONmh5Wm5zTUFGZEVTVlRvcENtWlRlcm9vNUZfaWdOZWxVX2RZdmQ5M25UdFBqaFZiSWtsR3FaVWJFeG5IUkNQaWtCcjJCbC1wZnR0QQ?oc=5",
-              "published_at": "Sun, 21 Jul 2024 07:00:00 GMT",
-              "publisher": "The New York Review of Books"
-            },
-            {
               "title": "DSP Davinder Singh case: NIA questions PDP leader Waheed Para for second day - The New Indian Express",
               "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOX0t2UndmdThQQm1hbGE0cEhCX0F3cUpaM2VkYVhiUVN2TGhvU0VfVjlVZUVpLVZrMS1XNExrNVE0Zk9zVGRHXzNLTmxhUllVT3g3aW16TFBXSHk0d0xKUkhfajJEV0J0S0dNdTMyc05pMGljWU5LTldfbWtRN2JsWjc0OWt4enVLZDF4RHpBX28zY3M0ZXUxWjlLRVFESy1xeGdKRjZqTU9WS3BmWTMyTnJCV0lEem1QWUFPekltYjdDcS1rZnBoRGVOelJDbkpiZ29tbDlB0gHjAUFVX3lxTE53Q3p0elhqMUxISTNXbEFDY1NMR0JudHBETGVyQ3E2YVdqOW5qOGRzbk95cnQzaWozR0tiaVgzYU1aaFNmUUlIZWJYM3FQRmo1MU1OWGd0R2NKSkNWNkI0Yl94QXlXSjdMbDJYb1E2eHcySHJ4T19ZSjZfaVhqYWI5Tk9TaVlGOTVHdVhVVWVuMU1pSHVqa3dEXzRDNjdfZ3kyRElSNDZzQ29aaDJUTkV3NHhYaUZUa3hZVDdCdTdMYWlTeGFYVmVLREFvY05mVDVmbl9BZGcxY3lZTC1KNjVkRXVn?oc=5",
               "published_at": "Wed, 25 Nov 2020 08:00:00 GMT",
@@ -22027,16 +22052,16 @@
               "publisher": "The Indian Express"
             },
             {
+              "title": "NIA charge-sheets Maulana Masood Azhar's brother, 13 others in Nagrota army camp attack case - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRTNkeDlLaWlPckNLc2stb0JDeVY3dVFvX012eFdGOGpEVjgxODVIVnJSYlhWTDlxblYyYnZKcnZIS0ZJRkVvT2l3UURjR0N1eTVtM2VjR2JkSnZDRHI1bTlwalB6Ym85Q082bmNkaGVicDk3NW9GWmllOHlHX1dpVDRKT19XeWVjVWFFWE9tblRSNTF2MkR0cGk0V0dnSndtMGQtT2JMeHBvV3V5eHA1QkhKaEtmVFJwSEJkaUk2anhpWEl3N0pjTFhETGFvQ1FTZVBKaHpfRzJSVjNXSzVBV2kzblMyenk2VWNLU9IB8gFBVV95cUxNd1FXWl9mbXFGdDg4dXhhMFVXZVZIYlB0QkZTVkFDajNvLXNHTWdrSHY3RW9pYjR1azMxQ1BhMjBTbjlHYVgyOS10YmRBcnEzYW8tdDlkcUduckxQaGpndnBjSmVKSTBqWWlQOXhyRDVPeGdqZlVOUlgxQ2JUV3RuWDFXMXRJT09DMW9aekdLYXdGNHpvUzNPTzR4QlFIa1h5R1N6ZUMzVm9QY2hOamtJcDVSbDJaZDhhYXRfM0tKd2FOeDVBNmwzZXJxQ2tDZUFYM1NJOEpuU3o5T05sYlFpeFdjZ2lDUkt4bEFVTGQ0Zi1TQQ?oc=5",
+              "published_at": "Wed, 21 Nov 2018 08:00:00 GMT",
+              "publisher": "The Economic Times"
+            },
+            {
               "title": "One More Arrest In Case Related To Former Jammu And Kashmir Cop Davinder Singh - NDTV",
               "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPczJSZk1ZWFRLME5JTVJjTmNkWDZFVlRXN3pEdmJHaHNWQmZSdUloTjhJTDB6UjF1YnNqdU9JdVEwa25PRTZja05iOVc0aFVzeW5wYTRtR2s5Q0VsZDhTMXo5YlNRMTNGc00xT01Cdko4SzVCbHkxWDhmZmc1YXlZQjBfZjlUTUttc0FZNkY5TEJla2dBcGJ4LV9vT0NERjdONGphTGEyaXBKUVVIVzd0anhnMWJjZ3ZEemc?oc=5",
               "published_at": "Fri, 01 May 2020 07:00:00 GMT",
               "publisher": "NDTV"
-            },
-            {
-              "title": "NIA charge-sheets Maulana Masood Azhar's brother, 13 others in Nagrota army camp attack case - economictimes.com",
-              "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRTNkeDlLaWlPckNLc2stb0JDeVY3dVFvX012eFdGOGpEVjgxODVIVnJSYlhWTDlxblYyYnZKcnZIS0ZJRkVvT2l3UURjR0N1eTVtM2VjR2JkSnZDRHI1bTlwalB6Ym85Q082bmNkaGVicDk3NW9GWmllOHlHX1dpVDRKT19XeWVjVWFFWE9tblRSNTF2MkR0cGk0V0dnSndtMGQtT2JMeHBvV3V5eHA1QkhKaEtmVFJwSEJkaUk2anhpWEl3N0pjTFhETGFvQ1FTZVBKaHpfRzJSVjNXSzVBV2kzblMyenk2VWNLU9IB8gFBVV95cUxNd1FXWl9mbXFGdDg4dXhhMFVXZVZIYlB0QkZTVkFDajNvLXNHTWdrSHY3RW9pYjR1azMxQ1BhMjBTbjlHYVgyOS10YmRBcnEzYW8tdDlkcUduckxQaGpndnBjSmVKSTBqWWlQOXhyRDVPeGdqZlVOUlgxQ2JUV3RuWDFXMXRJT09DMW9aekdLYXdGNHpvUzNPTzR4QlFIa1h5R1N6ZUMzVm9QY2hOamtJcDVSbDJaZDhhYXRfM0tKd2FOeDVBNmwzZXJxQ2tDZUFYM1NJOEpuU3o5T05sYlFpeFdjZ2lDUkt4bEFVTGQ0Zi1TQQ?oc=5",
-              "published_at": "Wed, 21 Nov 2018 08:00:00 GMT",
-              "publisher": "economictimes.com"
             },
             {
               "title": "LeT terrorist apprehended by Reasi villagers formerly led BJP Jammu's IT cell; party responds [details] - IBTimes India",
@@ -22054,7 +22079,7 @@
         },
         "gdelt": {
           "state": "failed",
-          "attempted_at": "2026-10-05T01:31:40.376463+00:00",
+          "attempted_at": "2026-10-07T09:16:18.618061+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -22064,17 +22089,19 @@
       }
     },
     "de2fee54329bf34a8b91": {
-      "attempted_at": "2026-10-05T01:32:09.977592+00:00",
+      "attempted_at": "2026-10-07T09:16:42.462433+00:00",
       "sources": {
         "news": {
           "state": "ok",
-          "checked_at": "2026-10-05T01:31:46.628459+00:00",
+          "checked_at": "2026-10-07T09:16:24.846853+00:00",
           "items": []
         },
         "gdelt": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-05T01:32:03.977404+00:00",
-          "items": []
+          "items": [],
+          "attempted_at": "2026-10-07T09:16:36.462304+00:00",
+          "error": "HTTPError HTTP 429"
         },
         "x": {
           "state": "not_configured",
@@ -22083,16 +22110,16 @@
       }
     },
     "e74c73f7c45e6b65082e": {
-      "attempted_at": "2026-10-05T01:32:31.864930+00:00",
+      "attempted_at": "2026-10-07T09:17:02.399998+00:00",
       "sources": {
         "news": {
           "state": "ok",
-          "checked_at": "2026-10-05T01:32:10.222663+00:00",
+          "checked_at": "2026-10-07T09:16:42.698416+00:00",
           "items": []
         },
         "gdelt": {
           "state": "ok",
-          "checked_at": "2026-10-05T01:32:25.864708+00:00",
+          "checked_at": "2026-10-07T09:16:56.399790+00:00",
           "items": []
         },
         "x": {
@@ -22102,19 +22129,17 @@
       }
     },
     "0f3949f87f3a66a03452": {
-      "attempted_at": "2026-10-05T01:32:51.158834+00:00",
+      "attempted_at": "2026-10-07T09:17:22.540933+00:00",
       "sources": {
         "news": {
           "state": "ok",
-          "checked_at": "2026-10-05T01:32:32.136473+00:00",
+          "checked_at": "2026-10-07T09:17:02.638286+00:00",
           "items": []
         },
         "gdelt": {
-          "state": "failed",
-          "checked_at": "2026-10-02T00:19:01.485240+00:00",
-          "items": [],
-          "attempted_at": "2026-10-05T01:32:45.158666+00:00",
-          "error": "HTTPError HTTP 429"
+          "state": "ok",
+          "checked_at": "2026-10-07T09:17:16.540826+00:00",
+          "items": []
         },
         "x": {
           "state": "not_configured",
@@ -22123,17 +22148,19 @@
       }
     },
     "f913b48bad1d8461c811": {
-      "attempted_at": "2026-10-05T01:33:13.967918+00:00",
+      "attempted_at": "2026-10-07T09:17:40.333739+00:00",
       "sources": {
         "news": {
           "state": "ok",
-          "checked_at": "2026-10-05T01:32:51.440702+00:00",
+          "checked_at": "2026-10-07T09:17:22.802727+00:00",
           "items": []
         },
         "gdelt": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-05T01:33:07.967749+00:00",
-          "items": []
+          "items": [],
+          "attempted_at": "2026-10-07T09:17:34.333616+00:00",
+          "error": "HTTPError HTTP 429"
         },
         "x": {
           "state": "not_configured",
@@ -22142,11 +22169,11 @@
       }
     },
     "e672166bef9835aab02e": {
-      "attempted_at": "2026-10-05T01:33:38.842331+00:00",
+      "attempted_at": "2026-10-07T09:17:57.606976+00:00",
       "sources": {
         "news": {
           "state": "ok",
-          "checked_at": "2026-10-05T01:33:14.258877+00:00",
+          "checked_at": "2026-10-07T09:17:40.601077+00:00",
           "items": [
             {
               "title": "Ex-Top Maoist Leader Devji Writes Intermediate Exam In Telangana's Jagtial - ETV Bharat",
@@ -22157,7 +22184,7 @@
             {
               "title": "'Hidma was a foot soldier, mastermind still walks free': ₹7 cr reward on Devji, Ganpati and Besra who kille... - Bhaskar English",
               "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZjFHSTBUSExfS2NxZGl5X3pHSURzU0lqek1jZXJaZWRhR25ZRXBqbXNRUHdwMl9kU3dHNnFSMF9fODdoMU13VktFaEtzNkdRZmpaNnpFMlhjQkNaWlBVYjZXcnRPQ2c1eXQwdU4tdmNod0RpeEtFZVczdkg3MjdEZEhMbzVqQThQSTJmSzNxOUc3M2k5YjlGVExGWHc5Z0hHTnhrMDlXaElSRGF0VVlOR0ZDeTlJNUpxaEdSdUNQNlJrSW9hM2tTSzVlQdIB0AFBVV95cUxPOFBZeldlbHh6cGhsbDB3bDM0ampFR01lcXA1MDJLZERvYnI4MGdNTDZKbFZfZDVZaHN4OHZhRVk5dmVFN2xzcW56eERfYzNmckx6VzduSU1wX0dUOUpJdkNDWWNZUEJ6TTFsd09qQUVEY1VxUkd6Y2Zuc3B5bi1JcTduUzdlTlgwVy1kSmFjVGZncTV4MmxJc0wyaWt1d2lXaGVrSmpBLXB6WTEtNElWOVhWeTJzb25SU05rZUs2UWdiempYelQyZDZaeVF0Tnk1?oc=5",
-              "published_at": "Tue, 18 Nov 2025 08:00:00 GMT",
+              "published_at": "Mon, 01 Dec 2025 08:00:00 GMT",
               "publisher": "Bhaskar English"
             },
             {
@@ -22167,22 +22194,22 @@
               "publisher": "Hyderabad Mail"
             },
             {
-              "title": "CPI (Maoist) gets third Telugu leader as its chief | India News - Hindustan Times",
-              "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc3F0NWRDeEV1UC14NHh5dmdrdEV4X2h0eGtyNC1BdlFpSDNkNjVOMkhmdVZGZjVlQ1lJWnZBUkxEMDVPalBkQmc2RjkwZGhuNk9VNTZiWVFZR3RjdU1jeEVaTE9wY3YxemJiSVBYbERuY3B2YnhzY05wNzg2dm13UVZla2NyRWxrWldyR3BpcVYtQjlHMU12X1ZIN2JfODVJRjNZUFgwY2E4am40YVNPatIBtgFBVV95cUxNWGdwX0xLNzU2Z3ZwalN1WkxoeGdqLUU4RXVtSGdwdE1jd1BzbWVpaERjQzVzRDUxTjR5SEdPMUtTZzZJTHFtNENBNDJGRUNfX0hJN1FwVW9BRURMTGljV0o3bGxNa2RYdmJyeFhfMTJLZUkzQ1BXRldDUkg3ZVdXNTNhcUFRU0lDVHlERURRX29EVjVwUmtUbjVNcF9LYnh3QlpOaHZhR0FWbEtEbWdiQ0JFY2E5QQ?oc=5",
-              "published_at": "Wed, 10 Sep 2025 07:00:00 GMT",
-              "publisher": "Hindustan Times"
-            },
-            {
               "title": "Telugu leadership resurfaces as Dalit leader Devji appointed CPI (Maoist) chief - India Today",
               "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPLTQyd3BPMkF3aXkzdUQ0SVBsNVc2X0NTc2pFRlB1UDVaWjRDVFhKM2ZDVFR3QWZZT1dxbFk1WGM1QzlrcUUxaGJQMzZPUVVyTUg0V2tUbWFNcnpjUEQyUHhVNFJRWndOazRXWjV0cl9FUGo1ckh2Zm9SdzRvLXI1aXk2dXkwRXJiZ3VRRnFqRG5VNmRCRE9HUGg1OGtqUzMySXQwZjF1OXVrT0c1ZXV1cXktTFlqWlJObFd4SEFyMmlGMDNscm5NRmpYQTBXSkh1UFFkXzg4bDhERVdmdmlZNtIB5gFBVV95cUxQWFVKS0JuUGx2aTRUOUFNaDV6bGVuaUI3RjJKNlh2amZ4Q00wY3pvZS1oTjdrUDV6ME50YUJYUGJtWFE3UVlqN3JPUi1IemxBRC01Q3Ewcml0MzJwN2V4S1JXTndqTlh2NlRhTVhGRTdUZFY5eGFZVVFXYjd6NUl1dERWdnl4WXgyTEFmU2tTb3IwdUVjN2xuUTdaVTl0V096dDNETWN4MlU0WkpIWXdLZWtVZmJyYkxSZUZUam56QWdjTFpJU29kY0UxVlpmcHBpTGhsX3F2VjdpbjZ6cVBJUkk0WnVMQQ?oc=5",
               "published_at": "Wed, 10 Sep 2025 07:00:00 GMT",
               "publisher": "India Today"
             },
             {
-              "title": "Telangana:Top Maoist leaders Devji, Sangram among over 20 who surrender as Operation-2 Kagar intensifie - organiser.org",
+              "title": "CPI (Maoist) gets third Telugu leader as its chief | India News - Hindustan Times",
+              "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc3F0NWRDeEV1UC14NHh5dmdrdEV4X2h0eGtyNC1BdlFpSDNkNjVOMkhmdVZGZjVlQ1lJWnZBUkxEMDVPalBkQmc2RjkwZGhuNk9VNTZiWVFZR3RjdU1jeEVaTE9wY3YxemJiSVBYbERuY3B2YnhzY05wNzg2dm13UVZla2NyRWxrWldyR3BpcVYtQjlHMU12X1ZIN2JfODVJRjNZUFgwY2E4am40YVNPatIBtgFBVV95cUxNWGdwX0xLNzU2Z3ZwalN1WkxoeGdqLUU4RXVtSGdwdE1jd1BzbWVpaERjQzVzRDUxTjR5SEdPMUtTZzZJTHFtNENBNDJGRUNfX0hJN1FwVW9BRURMTGljV0o3bGxNa2RYdmJyeFhfMTJLZUkzQ1BXRldDUkg3ZVdXNTNhcUFRU0lDVHlERURRX29EVjVwUmtUbjVNcF9LYnh3QlpOaHZhR0FWbEtEbWdiQ0JFY2E5QQ?oc=5",
+              "published_at": "Wed, 10 Sep 2025 07:00:00 GMT",
+              "publisher": "Hindustan Times"
+            },
+            {
+              "title": "Telangana:Top Maoist leaders Devji, Sangram among over 20 who surrender as Operation-2 Kagar intensifie - Organiser Weekly",
               "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTG1vOVdPOXFCMzBmdi1WNlVsTGlRLUh5TkVZenJsd2tUeXoxZ3NWZTEzRDAtZExpblZtX0F4dnBsOWF5MGpDOE1zam1MV0JsZzN0MHFSd3hzcUd5VjBjUDJKdTgzOU1lbnREVk9WUzlsU0dkWW9sU1dqVHl4QjBNc08tU2l1U2VXMVFYc0NreVAzWW55T3lEZkNnVzFuY0ZYZWl4TV83cklxNXFwWnJ4bFlocWFiMUcxNFNTQi03VXZ5eHdTRkVkOUt1TVNRTTBxdmdQSlpuT3J4LUVtX1pQVU9vZ9IB6AFBVV95cUxPMUxlaTRjOTg5TW5YWGdqNV9maWp0ZFNZcmFwUDctZUxrcmdGM2owYU1aX1dsakFhTmM0V1JOOEw4UlJ0OTBlTnVEbzB6amZONHAxQ1BhUC1FRllmZ0tYYTlvb2hNbUNsM0lrcElzR3NWSGdNNDhuTS12R0dVdkl5Q2xFM205RVpCeXJweVEwel80bDFwTHZ5R1JiU01Kd3AwVnl1NmU4b0s1TWhXWndYZjdCTzBfX1U2R2IwblRHZnBsd0ozZjN6T1JvSDdPVmVmVlNjUUY3NjBZRGtjUnNfeFBVOVNTQWV2?oc=5",
               "published_at": "Mon, 23 Feb 2026 08:00:00 GMT",
-              "publisher": "organiser.org"
+              "publisher": "Organiser Weekly"
             },
             {
               "title": "Telangana Dalit leader Devji rises as new Maoist chief - News Arena India",
@@ -22193,7 +22220,7 @@
             {
               "title": "10 convicted in Jhiram Valley naxal attack sentenced to death: Convoy of Chhattisgarh Congress leaders atta... - Bhaskar English",
               "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYVRWODR6RnFMSnFXbUJuU3oyWFN4c1p3RXdHeU5NZmpqZ3Q5alB5eEgzbjg4N2w0bkJaVlBiRnRHV1ZWUmFHMm5iaVBEWEFha0RWUk5ONzdBZGpYYWtmZEJpOERfLTNzLWZ5T2xyTlZUN3AxRmJyRjFSWVJiTWVQUV8zM2ZqbHJZTHByTi01WDB3UGl3SmNueVBNRUtsLUgxS255M3ZVVkNkNnpUalZkWXJYUnNVOFJUTUd3Rm10dDlpZC1WREVJTzMtYUFoM2fSAdQBQVVfeXFMUDd6ZmV1b21EY0RlWTRGMGNqdUdXYy1XVnNNMUlMQnJKSDRGdUViMjUwaGR1MlNPZDNudThGSHFSSEFzeWhrWkdzb09Nbml2M1hPdVk0dXdlYk1LenVVZGlHcE1Qc0VkVW9MXzBlUmFTaGJJU0ZiVGpjRWU1UTN3empGcUJiSFlqODZsT1JqWTVYOEtqaDZ6bFVXNFNCTUo1Ym8xdGxBc3pWU0FNaXE5bEhEYXdpVGJKclU3dHF5bFFpVFdReFdxU3l0ZkxuWVVIVlNUR3c?oc=5",
-              "published_at": "Thu, 17 Sep 2026 12:41:31 GMT",
+              "published_at": "Thu, 17 Sep 2026 15:45:25 GMT",
               "publisher": "Bhaskar English"
             },
             {
@@ -22206,7 +22233,7 @@
         },
         "gdelt": {
           "state": "failed",
-          "attempted_at": "2026-10-05T01:33:32.842156+00:00",
+          "attempted_at": "2026-10-07T09:17:51.606837+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -22216,16 +22243,16 @@
       }
     },
     "a8e2629a11bd1850699a": {
-      "attempted_at": "2026-10-05T01:33:55.853947+00:00",
+      "attempted_at": "2026-10-07T09:18:16.707621+00:00",
       "sources": {
         "news": {
           "state": "ok",
-          "checked_at": "2026-10-05T01:33:39.129792+00:00",
+          "checked_at": "2026-10-07T09:17:57.868805+00:00",
           "items": []
         },
         "gdelt": {
           "state": "failed",
-          "attempted_at": "2026-10-05T01:33:49.853721+00:00",
+          "attempted_at": "2026-10-07T09:18:10.707472+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -22235,25 +22262,18 @@
       }
     },
     "42fa4fc0b8beeb98c808": {
-      "attempted_at": "2026-10-05T07:40:32.127650+00:00",
+      "attempted_at": "2026-10-07T09:18:35.246446+00:00",
       "sources": {
         "news": {
           "state": "ok",
-          "checked_at": "2026-10-05T07:40:14.609057+00:00",
-          "items": [
-            {
-              "title": "Manipur: NIA files chargesheet in Assam Rifles ambush case - NE NOW",
-              "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaDBQTGtlaThwc0dERTdjYkQxV0J3LXk3U0RUZkllbHhlNHNaa1kwZEhGZXdlWnFhZm8xMzZ0WmhZODk3bklQZy1GallUcGJwcFYzLVRXYmo3UDhLV3FkRTNueUpnMlY0QTNKT084VkpWTGtlUW1jWExjRk9hRDdzZ3duN0NCSk9oQ2lxNEdQak1nLUJCYVl5bWN1ank4R081ODE1a2hB?oc=5",
-              "published_at": "Thu, 02 Jan 2020 08:00:00 GMT",
-              "publisher": "NE NOW"
-            }
-          ]
+          "checked_at": "2026-10-07T09:18:16.940341+00:00",
+          "items": []
         },
         "gdelt": {
           "state": "failed",
           "checked_at": "2026-10-02T00:20:08.048484+00:00",
           "items": [],
-          "attempted_at": "2026-10-05T07:40:26.127492+00:00",
+          "attempted_at": "2026-10-07T09:18:29.246298+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -22263,16 +22283,16 @@
       }
     },
     "34c40fb82792808af85d": {
-      "attempted_at": "2026-10-05T07:40:48.820858+00:00",
+      "attempted_at": "2026-10-07T09:18:53.024918+00:00",
       "sources": {
         "news": {
           "state": "ok",
-          "checked_at": "2026-10-05T07:40:32.351917+00:00",
+          "checked_at": "2026-10-07T09:18:35.489544+00:00",
           "items": []
         },
         "gdelt": {
           "state": "failed",
-          "attempted_at": "2026-10-05T07:40:42.820732+00:00",
+          "attempted_at": "2026-10-07T09:18:47.024753+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -22282,18 +22302,18 @@
       }
     },
     "affe7ab804577ce62aaf": {
-      "attempted_at": "2026-10-05T07:41:12.868601+00:00",
+      "attempted_at": "2026-10-07T09:19:11.490472+00:00",
       "sources": {
         "news": {
           "state": "ok",
-          "checked_at": "2026-10-05T07:40:49.067340+00:00",
+          "checked_at": "2026-10-07T09:18:53.274483+00:00",
           "items": []
         },
         "gdelt": {
           "state": "failed",
           "checked_at": "2026-10-02T00:20:48.361533+00:00",
           "items": [],
-          "attempted_at": "2026-10-05T07:41:06.868455+00:00",
+          "attempted_at": "2026-10-07T09:19:05.490343+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -22303,16 +22323,18 @@
       }
     },
     "5c9980036d832f1155c0": {
-      "attempted_at": "2026-10-05T07:41:30.100700+00:00",
+      "attempted_at": "2026-10-07T09:19:38.040105+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-05T07:41:13.153803+00:00",
-          "items": []
+          "items": [],
+          "attempted_at": "2026-10-07T09:19:20.557257+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
           "state": "failed",
-          "attempted_at": "2026-10-05T07:41:24.100531+00:00",
+          "attempted_at": "2026-10-07T09:19:32.039990+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -22322,18 +22344,20 @@
       }
     },
     "73d1237cc78ea7ffaf9a": {
-      "attempted_at": "2026-10-05T07:41:47.013193+00:00",
+      "attempted_at": "2026-10-07T09:20:05.497978+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-05T07:41:30.323030+00:00",
-          "items": []
+          "items": [],
+          "attempted_at": "2026-10-07T09:19:47.691113+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
           "state": "failed",
           "checked_at": "2026-10-02T00:21:28.013333+00:00",
           "items": [],
-          "attempted_at": "2026-10-05T07:41:41.012960+00:00",
+          "attempted_at": "2026-10-07T09:19:59.497834+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -22343,18 +22367,20 @@
       }
     },
     "72cab5adeb2fff4411f2": {
-      "attempted_at": "2026-10-05T07:42:03.388800+00:00",
+      "attempted_at": "2026-10-07T09:20:33.342383+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-05T07:41:47.263617+00:00",
-          "items": []
+          "items": [],
+          "attempted_at": "2026-10-07T09:20:14.112052+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
           "state": "failed",
           "checked_at": "2026-10-03T16:58:44.637039+00:00",
           "items": [],
-          "attempted_at": "2026-10-05T07:41:57.388650+00:00",
+          "attempted_at": "2026-10-07T09:20:27.342241+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -22364,10 +22390,10 @@
       }
     },
     "915c3444d4f4ad179279": {
-      "attempted_at": "2026-10-05T07:42:20.607174+00:00",
+      "attempted_at": "2026-10-07T09:20:56.120511+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-05T07:42:03.829535+00:00",
           "items": [
             {
@@ -22430,11 +22456,13 @@
               "published_at": "Wed, 09 Sep 2026 07:00:00 GMT",
               "publisher": "News18"
             }
-          ]
+          ],
+          "attempted_at": "2026-10-07T09:20:38.925462+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
           "state": "failed",
-          "attempted_at": "2026-10-05T07:42:14.607033+00:00",
+          "attempted_at": "2026-10-07T09:20:50.120359+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -22444,10 +22472,10 @@
       }
     },
     "fc3f075d364a42eb7db7": {
-      "attempted_at": "2026-10-05T07:42:38.198236+00:00",
+      "attempted_at": "2026-10-07T09:21:19.222305+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-05T07:42:20.857458+00:00",
           "items": [
             {
@@ -22474,12 +22502,16 @@
               "published_at": "Tue, 11 Mar 2014 07:00:00 GMT",
               "publisher": "newindianexpress.com"
             }
-          ]
+          ],
+          "attempted_at": "2026-10-07T09:21:02.331697+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-05T07:42:32.198107+00:00",
-          "items": []
+          "items": [],
+          "attempted_at": "2026-10-07T09:21:13.222141+00:00",
+          "error": "HTTPError HTTP 429"
         },
         "x": {
           "state": "not_configured",
@@ -22488,10 +22520,10 @@
       }
     },
     "d16222637f936f008035": {
-      "attempted_at": "2026-10-05T07:42:54.661125+00:00",
+      "attempted_at": "2026-10-07T09:21:45.385896+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-05T07:42:38.427495+00:00",
           "items": [
             {
@@ -22506,11 +22538,13 @@
               "published_at": "Sat, 16 Dec 2023 08:00:00 GMT",
               "publisher": "Daijiworld"
             }
-          ]
+          ],
+          "attempted_at": "2026-10-07T09:21:28.483614+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
           "state": "failed",
-          "attempted_at": "2026-10-05T07:42:48.660966+00:00",
+          "attempted_at": "2026-10-07T09:21:39.385781+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -22520,17 +22554,21 @@
       }
     },
     "93a83013446317aca72e": {
-      "attempted_at": "2026-10-05T07:43:13.106232+00:00",
+      "attempted_at": "2026-10-07T09:22:07.462877+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-05T07:42:54.946926+00:00",
-          "items": []
+          "items": [],
+          "attempted_at": "2026-10-07T09:21:50.451559+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-05T07:43:07.106088+00:00",
-          "items": []
+          "items": [],
+          "attempted_at": "2026-10-07T09:22:01.462724+00:00",
+          "error": "HTTPError HTTP 429"
         },
         "x": {
           "state": "not_configured",
@@ -22539,18 +22577,20 @@
       }
     },
     "190490c103e8e2fb13ec": {
-      "attempted_at": "2026-10-05T07:43:30.132928+00:00",
+      "attempted_at": "2026-10-07T09:22:31.740532+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-05T07:43:13.325332+00:00",
-          "items": []
+          "items": [],
+          "attempted_at": "2026-10-07T09:22:15.096193+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
           "state": "failed",
           "checked_at": "2026-10-03T17:00:11.717607+00:00",
           "items": [],
-          "attempted_at": "2026-10-05T07:43:24.132705+00:00",
+          "attempted_at": "2026-10-07T09:22:25.740408+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -22560,10 +22600,10 @@
       }
     },
     "389b25aa64dba77ee228": {
-      "attempted_at": "2026-10-05T07:43:47.007233+00:00",
+      "attempted_at": "2026-10-07T09:22:57.178660+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-05T07:43:30.383321+00:00",
           "items": [
             {
@@ -22626,11 +22666,13 @@
               "published_at": "Thu, 28 Nov 2024 08:00:00 GMT",
               "publisher": "Country and Politics"
             }
-          ]
+          ],
+          "attempted_at": "2026-10-07T09:22:40.339654+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
           "state": "failed",
-          "attempted_at": "2026-10-05T07:43:41.007056+00:00",
+          "attempted_at": "2026-10-07T09:22:51.178515+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -22640,17 +22682,21 @@
       }
     },
     "1867e2724f21eaefdb39": {
-      "attempted_at": "2026-10-05T07:44:13.184747+00:00",
+      "attempted_at": "2026-10-07T09:23:24.142566+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-05T07:43:47.233951+00:00",
-          "items": []
+          "items": [],
+          "attempted_at": "2026-10-07T09:23:06.466045+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-05T07:44:07.184616+00:00",
-          "items": []
+          "items": [],
+          "attempted_at": "2026-10-07T09:23:18.142448+00:00",
+          "error": "HTTPError HTTP 429"
         },
         "x": {
           "state": "not_configured",
@@ -22659,10 +22705,10 @@
       }
     },
     "b2d6cc98149a1d2e4e93": {
-      "attempted_at": "2026-10-05T07:44:29.166527+00:00",
+      "attempted_at": "2026-10-07T09:23:48.848234+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-05T07:44:13.434284+00:00",
           "items": [
             {
@@ -22725,11 +22771,13 @@
               "published_at": "Sun, 21 Jun 2026 07:00:00 GMT",
               "publisher": "The Times of India"
             }
-          ]
+          ],
+          "attempted_at": "2026-10-07T09:23:31.402404+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
           "state": "failed",
-          "attempted_at": "2026-10-05T07:44:23.166404+00:00",
+          "attempted_at": "2026-10-07T09:23:42.848102+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -22739,10 +22787,10 @@
       }
     },
     "16db528c4127499db6e5": {
-      "attempted_at": "2026-10-05T07:44:45.923292+00:00",
+      "attempted_at": "2026-10-07T09:24:10.741252+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-05T07:44:29.430660+00:00",
           "items": [
             {
@@ -22757,13 +22805,15 @@
               "published_at": "Tue, 21 Feb 2023 08:00:00 GMT",
               "publisher": "The Federal"
             }
-          ]
+          ],
+          "attempted_at": "2026-10-07T09:23:53.921416+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
           "state": "failed",
           "checked_at": "2026-10-03T17:01:43.719211+00:00",
           "items": [],
-          "attempted_at": "2026-10-05T07:44:39.923177+00:00",
+          "attempted_at": "2026-10-07T09:24:04.741130+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -22773,10 +22823,10 @@
       }
     },
     "31c69c744e70ad9e37dd": {
-      "attempted_at": "2026-10-05T07:45:02.199564+00:00",
+      "attempted_at": "2026-10-07T09:24:33.444741+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-05T07:44:46.205218+00:00",
           "items": [
             {
@@ -22839,13 +22889,15 @@
               "published_at": "Fri, 14 Feb 2025 08:00:00 GMT",
               "publisher": "The Times of India"
             }
-          ]
+          ],
+          "attempted_at": "2026-10-07T09:24:15.857931+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
           "state": "failed",
           "checked_at": "2026-10-02T00:24:34.629118+00:00",
           "items": [],
-          "attempted_at": "2026-10-05T07:44:56.199416+00:00",
+          "attempted_at": "2026-10-07T09:24:27.444602+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -22855,16 +22907,18 @@
       }
     },
     "47705ec335e79ff947d7": {
-      "attempted_at": "2026-10-05T07:45:21.589973+00:00",
+      "attempted_at": "2026-10-07T09:24:57.733870+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-05T07:45:02.470543+00:00",
-          "items": []
+          "items": [],
+          "attempted_at": "2026-10-07T09:24:38.595994+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
           "state": "failed",
-          "attempted_at": "2026-10-05T07:45:15.589823+00:00",
+          "attempted_at": "2026-10-07T09:24:51.733743+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -22874,10 +22928,10 @@
       }
     },
     "1543781732fafd6168b4": {
-      "attempted_at": "2026-10-05T07:45:39.232457+00:00",
+      "attempted_at": "2026-10-07T09:25:22.598384+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-05T07:45:21.861271+00:00",
           "items": [
             {
@@ -22940,11 +22994,13 @@
               "published_at": "Fri, 11 Apr 2025 07:00:00 GMT",
               "publisher": "The Indian Express"
             }
-          ]
+          ],
+          "attempted_at": "2026-10-07T09:25:03.819868+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
           "state": "failed",
-          "attempted_at": "2026-10-05T07:45:33.232311+00:00",
+          "attempted_at": "2026-10-07T09:25:16.598240+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -22954,10 +23010,10 @@
       }
     },
     "7f65d55c588960d7f3e5": {
-      "attempted_at": "2026-10-05T07:45:56.391246+00:00",
+      "attempted_at": "2026-10-07T09:25:51.244102+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-05T07:45:39.461243+00:00",
           "items": [
             {
@@ -22966,14 +23022,14 @@
               "published_at": "Wed, 09 Jul 2025 07:00:00 GMT",
               "publisher": "The Daily Jagran"
             }
-          ]
+          ],
+          "attempted_at": "2026-10-07T09:25:30.098878+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
-          "state": "failed",
-          "checked_at": "2026-10-03T20:11:43.530515+00:00",
-          "items": [],
-          "attempted_at": "2026-10-05T07:45:50.391077+00:00",
-          "error": "HTTPError HTTP 429"
+          "state": "ok",
+          "checked_at": "2026-10-07T09:25:45.243996+00:00",
+          "items": []
         },
         "x": {
           "state": "not_configured",
@@ -22982,16 +23038,18 @@
       }
     },
     "7c1489cd9cf1ca4e62cd": {
-      "attempted_at": "2026-10-05T07:46:13.870719+00:00",
+      "attempted_at": "2026-10-07T09:26:14.957830+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-05T07:45:56.609942+00:00",
-          "items": []
+          "items": [],
+          "attempted_at": "2026-10-07T09:25:57.622001+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
           "state": "failed",
-          "attempted_at": "2026-10-05T07:46:07.870579+00:00",
+          "attempted_at": "2026-10-07T09:26:08.957695+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -23001,10 +23059,10 @@
       }
     },
     "bdc09d7d0f10264d2458": {
-      "attempted_at": "2026-10-05T07:46:31.563422+00:00",
+      "attempted_at": "2026-10-07T09:26:42.216906+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-05T07:46:14.085162+00:00",
           "items": [
             {
@@ -23019,11 +23077,13 @@
               "published_at": "Mon, 01 May 2023 07:00:00 GMT",
               "publisher": "The Sentinel - of this Land, for its People"
             }
-          ]
+          ],
+          "attempted_at": "2026-10-07T09:26:24.868671+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
           "state": "failed",
-          "attempted_at": "2026-10-05T07:46:25.563277+00:00",
+          "attempted_at": "2026-10-07T09:26:36.216782+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -23033,18 +23093,20 @@
       }
     },
     "1c07a4eebbb186b90af7": {
-      "attempted_at": "2026-10-05T07:46:48.816179+00:00",
+      "attempted_at": "2026-10-07T09:27:06.086020+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-05T07:46:31.837605+00:00",
-          "items": []
+          "items": [],
+          "attempted_at": "2026-10-07T09:26:50.006902+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
           "state": "failed",
           "checked_at": "2026-10-02T00:26:18.005432+00:00",
           "items": [],
-          "attempted_at": "2026-10-05T07:46:42.816035+00:00",
+          "attempted_at": "2026-10-07T09:27:00.085873+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -23054,10 +23116,10 @@
       }
     },
     "59492d09bfc126b37782": {
-      "attempted_at": "2026-10-05T07:47:06.064341+00:00",
+      "attempted_at": "2026-10-07T09:27:32.409743+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-05T07:46:49.059791+00:00",
           "items": [
             {
@@ -23120,13 +23182,15 @@
               "published_at": "Sun, 11 Aug 2024 07:00:00 GMT",
               "publisher": "The Tribune"
             }
-          ]
+          ],
+          "attempted_at": "2026-10-07T09:27:15.270317+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
           "state": "failed",
           "checked_at": "2026-10-03T20:12:56.309840+00:00",
           "items": [],
-          "attempted_at": "2026-10-05T07:47:00.064222+00:00",
+          "attempted_at": "2026-10-07T09:27:26.409627+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -23136,10 +23200,10 @@
       }
     },
     "71356f6aee0c3f6470e0": {
-      "attempted_at": "2026-10-05T07:47:23.769651+00:00",
+      "attempted_at": "2026-10-07T09:27:57.923907+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-05T07:47:06.330594+00:00",
           "items": [
             {
@@ -23148,12 +23212,14 @@
               "published_at": "Mon, 04 Nov 2019 08:00:00 GMT",
               "publisher": "The Federal"
             }
-          ]
+          ],
+          "attempted_at": "2026-10-07T09:27:41.066925+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
-          "state": "failed",
-          "attempted_at": "2026-10-05T07:47:17.769502+00:00",
-          "error": "HTTPError HTTP 429"
+          "state": "ok",
+          "checked_at": "2026-10-07T09:27:51.923774+00:00",
+          "items": []
         },
         "x": {
           "state": "not_configured",
@@ -23162,10 +23228,10 @@
       }
     },
     "11a17f8fa9f4b9e61b00": {
-      "attempted_at": "2026-10-05T07:47:40.458690+00:00",
+      "attempted_at": "2026-10-07T09:28:20.392254+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-05T07:47:24.063765+00:00",
           "items": [
             {
@@ -23222,11 +23288,13 @@
               "published_at": "Sat, 20 Jan 2024 08:00:00 GMT",
               "publisher": "The Siasat Daily"
             }
-          ]
+          ],
+          "attempted_at": "2026-10-07T09:28:04.316631+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
           "state": "failed",
-          "attempted_at": "2026-10-05T07:47:34.458524+00:00",
+          "attempted_at": "2026-10-07T09:28:14.392107+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -23236,16 +23304,18 @@
       }
     },
     "d43a32982e22bd9f0eb6": {
-      "attempted_at": "2026-10-05T07:47:59.284780+00:00",
+      "attempted_at": "2026-10-07T09:28:45.099438+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-05T07:47:40.686117+00:00",
-          "items": []
+          "items": [],
+          "attempted_at": "2026-10-07T09:28:26.170172+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
           "state": "ok",
-          "checked_at": "2026-10-05T07:47:53.284638+00:00",
+          "checked_at": "2026-10-07T09:28:39.099296+00:00",
           "items": []
         },
         "x": {
@@ -23255,16 +23325,18 @@
       }
     },
     "475e9759c2b579fbc56b": {
-      "attempted_at": "2026-10-05T07:48:17.148839+00:00",
+      "attempted_at": "2026-10-07T09:29:07.500945+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-05T07:47:59.499973+00:00",
-          "items": []
+          "items": [],
+          "attempted_at": "2026-10-07T09:28:50.446032+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
           "state": "failed",
-          "attempted_at": "2026-10-05T07:48:11.148628+00:00",
+          "attempted_at": "2026-10-07T09:29:01.500802+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -23274,10 +23346,10 @@
       }
     },
     "9e5c0479400703bcbb6f": {
-      "attempted_at": "2026-10-05T07:48:34.653606+00:00",
+      "attempted_at": "2026-10-07T09:29:31.313911+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-05T07:48:17.399930+00:00",
           "items": [
             {
@@ -23304,11 +23376,13 @@
               "published_at": "Sun, 11 Jun 2017 07:00:00 GMT",
               "publisher": "Firstpost"
             }
-          ]
+          ],
+          "attempted_at": "2026-10-07T09:29:15.323746+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
           "state": "failed",
-          "attempted_at": "2026-10-05T07:48:28.653460+00:00",
+          "attempted_at": "2026-10-07T09:29:25.313775+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -23318,10 +23392,10 @@
       }
     },
     "9012ebddc579439e142d": {
-      "attempted_at": "2026-10-05T07:48:51.568587+00:00",
+      "attempted_at": "2026-10-07T09:29:57.605987+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-05T07:48:34.909474+00:00",
           "items": [
             {
@@ -23384,11 +23458,13 @@
               "published_at": "Wed, 16 May 2012 07:00:00 GMT",
               "publisher": "newindianexpress.com"
             }
-          ]
+          ],
+          "attempted_at": "2026-10-07T09:29:40.231140+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
           "state": "failed",
-          "attempted_at": "2026-10-05T07:48:45.568434+00:00",
+          "attempted_at": "2026-10-07T09:29:51.605843+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -23398,10 +23474,10 @@
       }
     },
     "b621d9cebb603905b54f": {
-      "attempted_at": "2026-10-05T07:49:11.998010+00:00",
+      "attempted_at": "2026-10-07T09:30:26.754083+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-05T07:48:51.945574+00:00",
           "items": [
             {
@@ -23464,11 +23540,13 @@
               "published_at": "Sat, 19 Nov 2016 08:00:00 GMT",
               "publisher": "The Hindu"
             }
-          ]
+          ],
+          "attempted_at": "2026-10-07T09:30:03.989551+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
           "state": "failed",
-          "attempted_at": "2026-10-05T07:49:05.997801+00:00",
+          "attempted_at": "2026-10-07T09:30:20.753937+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
