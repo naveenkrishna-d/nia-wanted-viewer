@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T02:50:37.138586+00:00",
+  "generated_at": "2026-11-01T10:02:00.397422+00:00",
   "profiles": {
     "1d5ef2acfc61b1838c47": {
       "attempted_at": "2026-10-31T23:01:20.018683+00:00",
@@ -3908,10 +3908,10 @@
       }
     },
     "5b4cf675965bf87a7976": {
-      "attempted_at": "2026-10-30T10:39:56.174888+00:00",
+      "attempted_at": "2026-11-01T09:42:11.210596+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-30T10:39:39.878436+00:00",
           "items": [
             {
@@ -3920,13 +3920,15 @@
               "published_at": "Tue, 23 Oct 2018 07:00:00 GMT",
               "publisher": "Oneindia"
             }
-          ]
+          ],
+          "attempted_at": "2026-11-01T09:41:54.769792+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
           "state": "failed",
           "checked_at": "2026-10-18T00:27:34.520482+00:00",
           "items": [],
-          "attempted_at": "2026-10-30T10:39:50.174704+00:00",
+          "attempted_at": "2026-11-01T09:42:05.210453+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -3936,10 +3938,10 @@
       }
     },
     "e5e9823b4c8c0a1a0b76": {
-      "attempted_at": "2026-10-30T10:40:12.577213+00:00",
+      "attempted_at": "2026-11-01T09:42:35.046395+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-30T10:39:56.449569+00:00",
           "items": [
             {
@@ -3948,13 +3950,15 @@
               "published_at": "Tue, 03 Jan 2023 08:00:00 GMT",
               "publisher": "TheWire.in"
             }
-          ]
+          ],
+          "attempted_at": "2026-11-01T09:42:19.605083+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
           "state": "failed",
           "checked_at": "2026-10-23T22:49:41.858494+00:00",
           "items": [],
-          "attempted_at": "2026-10-30T10:40:06.577008+00:00",
+          "attempted_at": "2026-11-01T09:42:29.046245+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -3964,10 +3968,10 @@
       }
     },
     "d9a3fedccfb402166c5b": {
-      "attempted_at": "2026-10-30T10:40:30.175586+00:00",
+      "attempted_at": "2026-11-01T09:42:59.240969+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-30T10:40:12.880854+00:00",
           "items": [
             {
@@ -4030,14 +4034,14 @@
               "published_at": "Fri, 16 Aug 2024 07:00:00 GMT",
               "publisher": "FOX Sports"
             }
-          ]
+          ],
+          "attempted_at": "2026-11-01T09:42:41.907884+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
-          "state": "failed",
-          "checked_at": "2026-10-25T01:57:25.285100+00:00",
-          "items": [],
-          "attempted_at": "2026-10-30T10:40:24.175399+00:00",
-          "error": "HTTPError HTTP 429"
+          "state": "ok",
+          "checked_at": "2026-11-01T09:42:53.240832+00:00",
+          "items": []
         },
         "x": {
           "state": "not_configured",
@@ -4046,10 +4050,10 @@
       }
     },
     "e0b0fc93d3e87d3ac2fd": {
-      "attempted_at": "2026-10-30T10:40:47.511266+00:00",
+      "attempted_at": "2026-11-01T09:43:24.638972+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-30T10:40:30.500527+00:00",
           "items": [
             {
@@ -4112,11 +4116,13 @@
               "published_at": "Mon, 18 Jul 2016 07:00:00 GMT",
               "publisher": "India.com"
             }
-          ]
+          ],
+          "attempted_at": "2026-11-01T09:43:09.263170+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
           "state": "failed",
-          "attempted_at": "2026-10-30T10:40:41.511106+00:00",
+          "attempted_at": "2026-11-01T09:43:18.638832+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -4126,10 +4132,10 @@
       }
     },
     "599ff540285f4682b01f": {
-      "attempted_at": "2026-10-30T10:41:06.205793+00:00",
+      "attempted_at": "2026-11-01T09:43:49.163515+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-30T10:40:47.830888+00:00",
           "items": [
             {
@@ -4168,14 +4174,14 @@
               "published_at": "Thu, 04 Jan 2018 08:00:00 GMT",
               "publisher": "Oneindia"
             }
-          ]
+          ],
+          "attempted_at": "2026-11-01T09:43:30.512337+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
-          "state": "failed",
-          "checked_at": "2026-10-25T06:49:15.228584+00:00",
-          "items": [],
-          "attempted_at": "2026-10-30T10:41:00.205599+00:00",
-          "error": "HTTPError HTTP 429"
+          "state": "ok",
+          "checked_at": "2026-11-01T09:43:43.163362+00:00",
+          "items": []
         },
         "x": {
           "state": "not_configured",
@@ -4184,18 +4190,20 @@
       }
     },
     "fac00f6b0215d91afda9": {
-      "attempted_at": "2026-10-30T10:41:23.770877+00:00",
+      "attempted_at": "2026-11-01T09:44:12.188013+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-30T10:41:06.498441+00:00",
-          "items": []
+          "items": [],
+          "attempted_at": "2026-11-01T09:43:55.239411+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
           "state": "failed",
           "checked_at": "2026-10-22T12:31:34.085873+00:00",
           "items": [],
-          "attempted_at": "2026-10-30T10:41:17.770683+00:00",
+          "attempted_at": "2026-11-01T09:44:06.187856+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -4205,18 +4213,20 @@
       }
     },
     "e84e39634203415fbbbc": {
-      "attempted_at": "2026-10-30T10:41:41.339932+00:00",
+      "attempted_at": "2026-11-01T09:44:35.340291+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-30T10:41:24.032410+00:00",
-          "items": []
+          "items": [],
+          "attempted_at": "2026-11-01T09:44:20.807575+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
           "state": "failed",
           "checked_at": "2026-10-10T01:20:51.940469+00:00",
           "items": [],
-          "attempted_at": "2026-10-30T10:41:35.339759+00:00",
+          "attempted_at": "2026-11-01T09:44:29.340147+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -4226,10 +4236,10 @@
       }
     },
     "49d5f6adbe7054b4dc5d": {
-      "attempted_at": "2026-10-30T10:41:58.103520+00:00",
+      "attempted_at": "2026-11-01T09:44:57.029527+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-30T10:41:41.650888+00:00",
           "items": [
             {
@@ -4286,13 +4296,15 @@
               "published_at": "Fri, 11 Sep 2020 07:00:00 GMT",
               "publisher": "The Sentinel - of this Land, for its People"
             }
-          ]
+          ],
+          "attempted_at": "2026-11-01T09:44:42.321326+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
           "state": "failed",
           "checked_at": "2026-10-25T06:50:19.844875+00:00",
           "items": [],
-          "attempted_at": "2026-10-30T10:41:52.103367+00:00",
+          "attempted_at": "2026-11-01T09:44:51.029361+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -4302,10 +4314,10 @@
       }
     },
     "24d98fb33d1fb225fb13": {
-      "attempted_at": "2026-10-30T10:42:15.525222+00:00",
+      "attempted_at": "2026-11-01T09:45:25.323951+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-30T10:41:58.452393+00:00",
           "items": [
             {
@@ -4368,12 +4380,16 @@
               "published_at": "Thu, 27 Nov 2025 08:00:00 GMT",
               "publisher": "Awaz The Voice"
             }
-          ]
+          ],
+          "attempted_at": "2026-11-01T09:45:06.017212+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-30T10:42:09.525081+00:00",
-          "items": []
+          "items": [],
+          "attempted_at": "2026-11-01T09:45:19.323800+00:00",
+          "error": "HTTPError HTTP 429"
         },
         "x": {
           "state": "not_configured",
@@ -4382,18 +4398,20 @@
       }
     },
     "275e6ef66bb487961aec": {
-      "attempted_at": "2026-10-30T10:42:31.887169+00:00",
+      "attempted_at": "2026-11-01T09:45:49.221694+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-30T10:42:15.803174+00:00",
-          "items": []
+          "items": [],
+          "attempted_at": "2026-11-01T09:45:32.134663+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
           "state": "failed",
           "checked_at": "2026-10-23T22:52:15.179608+00:00",
           "items": [],
-          "attempted_at": "2026-10-30T10:42:25.886969+00:00",
+          "attempted_at": "2026-11-01T09:45:43.221524+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -4403,18 +4421,20 @@
       }
     },
     "67d6e7cfc96982c69de4": {
-      "attempted_at": "2026-10-30T10:42:48.504393+00:00",
+      "attempted_at": "2026-11-01T09:46:15.729045+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-30T10:42:32.145847+00:00",
-          "items": []
+          "items": [],
+          "attempted_at": "2026-11-01T09:45:58.698036+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
           "state": "failed",
           "checked_at": "2026-10-23T22:52:36.175979+00:00",
           "items": [],
-          "attempted_at": "2026-10-30T10:42:42.504239+00:00",
+          "attempted_at": "2026-11-01T09:46:09.728901+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -4424,10 +4444,10 @@
       }
     },
     "956c3d805e90a242d47d": {
-      "attempted_at": "2026-10-30T10:43:05.731773+00:00",
+      "attempted_at": "2026-11-01T09:46:40.727417+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-30T10:42:48.839176+00:00",
           "items": [
             {
@@ -4490,13 +4510,15 @@
               "published_at": "Wed, 30 Nov 2022 08:00:00 GMT",
               "publisher": "nenews.in"
             }
-          ]
+          ],
+          "attempted_at": "2026-11-01T09:46:23.599876+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
           "state": "failed",
           "checked_at": "2026-10-19T11:15:09.542250+00:00",
           "items": [],
-          "attempted_at": "2026-10-30T10:42:59.731589+00:00",
+          "attempted_at": "2026-11-01T09:46:34.727242+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -4506,10 +4528,10 @@
       }
     },
     "f818cbd5b861e37f6f12": {
-      "attempted_at": "2026-10-30T10:43:23.554224+00:00",
+      "attempted_at": "2026-11-01T09:47:03.979792+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-30T10:43:06.048064+00:00",
           "items": [
             {
@@ -4530,13 +4552,15 @@
               "published_at": "Fri, 10 Feb 2017 08:00:00 GMT",
               "publisher": "Hindustan Times"
             }
-          ]
+          ],
+          "attempted_at": "2026-11-01T09:46:47.699854+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
           "state": "failed",
           "checked_at": "2026-10-26T20:15:32.969657+00:00",
           "items": [],
-          "attempted_at": "2026-10-30T10:43:17.554052+00:00",
+          "attempted_at": "2026-11-01T09:46:57.979668+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -4546,10 +4570,10 @@
       }
     },
     "5c619265440bb67263de": {
-      "attempted_at": "2026-10-30T10:43:39.384835+00:00",
+      "attempted_at": "2026-11-01T09:47:29.161431+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-30T10:43:23.817097+00:00",
           "items": [
             {
@@ -4558,13 +4582,15 @@
               "published_at": "Mon, 22 Oct 2018 07:00:00 GMT",
               "publisher": "Eastern Mirror"
             }
-          ]
+          ],
+          "attempted_at": "2026-11-01T09:47:12.753208+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
           "state": "failed",
           "checked_at": "2026-10-25T06:52:13.776263+00:00",
           "items": [],
-          "attempted_at": "2026-10-30T10:43:33.384661+00:00",
+          "attempted_at": "2026-11-01T09:47:23.161242+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -4574,18 +4600,20 @@
       }
     },
     "c3254756d1164df4d232": {
-      "attempted_at": "2026-10-30T10:43:55.622346+00:00",
+      "attempted_at": "2026-11-01T09:47:52.431634+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-30T10:43:39.663388+00:00",
-          "items": []
+          "items": [],
+          "attempted_at": "2026-11-01T09:47:36.844530+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
           "state": "failed",
           "checked_at": "2026-10-26T20:16:16.421439+00:00",
           "items": [],
-          "attempted_at": "2026-10-30T10:43:49.622171+00:00",
+          "attempted_at": "2026-11-01T09:47:46.431453+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -4595,17 +4623,19 @@
       }
     },
     "974c95e5cb674ad8d32d": {
-      "attempted_at": "2026-10-30T10:44:10.840504+00:00",
+      "attempted_at": "2026-11-01T09:48:19.000657+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-30T10:43:55.901816+00:00",
-          "items": []
+          "items": [],
+          "attempted_at": "2026-11-01T09:47:58.642177+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
-          "state": "failed",
-          "attempted_at": "2026-10-30T10:44:04.840310+00:00",
-          "error": "HTTPError HTTP 429"
+          "state": "ok",
+          "checked_at": "2026-11-01T09:48:13.000498+00:00",
+          "items": []
         },
         "x": {
           "state": "not_configured",
@@ -4614,10 +4644,10 @@
       }
     },
     "9c1cb345b2d5fed06f79": {
-      "attempted_at": "2026-10-30T16:49:22.232592+00:00",
+      "attempted_at": "2026-11-01T09:48:41.655827+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-30T16:49:03.241489+00:00",
           "items": [
             {
@@ -4680,13 +4710,15 @@
               "published_at": "Sat, 29 Sep 2018 07:00:00 GMT",
               "publisher": "The Times of India"
             }
-          ]
+          ],
+          "attempted_at": "2026-11-01T09:48:26.161437+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
           "state": "failed",
           "checked_at": "2026-10-19T11:16:46.193445+00:00",
           "items": [],
-          "attempted_at": "2026-10-30T16:49:16.232456+00:00",
+          "attempted_at": "2026-11-01T09:48:35.655660+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -4696,17 +4728,21 @@
       }
     },
     "2de432077c02e789160d": {
-      "attempted_at": "2026-10-30T16:49:46.831924+00:00",
+      "attempted_at": "2026-11-01T09:49:05.996884+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-30T16:49:22.525638+00:00",
-          "items": []
+          "items": [],
+          "attempted_at": "2026-11-01T09:48:50.578150+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-30T16:49:40.831757+00:00",
-          "items": []
+          "items": [],
+          "attempted_at": "2026-11-01T09:48:59.996705+00:00",
+          "error": "HTTPError HTTP 429"
         },
         "x": {
           "state": "not_configured",
@@ -4715,17 +4751,21 @@
       }
     },
     "2a7c1fa42394a739b5d5": {
-      "attempted_at": "2026-10-30T16:50:20.713388+00:00",
+      "attempted_at": "2026-11-01T09:49:31.970531+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-30T16:49:47.249601+00:00",
-          "items": []
+          "items": [],
+          "attempted_at": "2026-11-01T09:49:16.011974+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-30T16:50:14.713199+00:00",
-          "items": []
+          "items": [],
+          "attempted_at": "2026-11-01T09:49:25.970390+00:00",
+          "error": "HTTPError HTTP 429"
         },
         "x": {
           "state": "not_configured",
@@ -4734,10 +4774,10 @@
       }
     },
     "4f4d1dbadbbfb440c7df": {
-      "attempted_at": "2026-10-30T16:50:40.883338+00:00",
+      "attempted_at": "2026-11-01T09:49:55.514744+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-30T16:50:20.993219+00:00",
           "items": [
             {
@@ -4758,13 +4798,15 @@
               "published_at": "Mon, 01 May 2023 07:00:00 GMT",
               "publisher": "The Sentinel - of this Land, for its People"
             }
-          ]
+          ],
+          "attempted_at": "2026-11-01T09:49:39.489704+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
           "state": "failed",
           "checked_at": "2026-10-28T14:43:24.953651+00:00",
           "items": [],
-          "attempted_at": "2026-10-30T16:50:34.883164+00:00",
+          "attempted_at": "2026-11-01T09:49:49.514567+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -4774,10 +4816,10 @@
       }
     },
     "162a9eab915dad17a962": {
-      "attempted_at": "2026-10-30T16:50:57.601208+00:00",
+      "attempted_at": "2026-11-01T09:50:20.107924+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-30T16:50:41.273176+00:00",
           "items": [
             {
@@ -4834,13 +4876,15 @@
               "published_at": "Fri, 23 Jun 2023 07:00:00 GMT",
               "publisher": "Rozana Spokesman"
             }
-          ]
+          ],
+          "attempted_at": "2026-11-01T09:50:01.801415+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
           "state": "failed",
           "checked_at": "2026-10-28T14:43:43.081071+00:00",
           "items": [],
-          "attempted_at": "2026-10-30T16:50:51.601057+00:00",
+          "attempted_at": "2026-11-01T09:50:14.107807+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -4850,10 +4894,10 @@
       }
     },
     "c6becaa4cc6d57b22f44": {
-      "attempted_at": "2026-10-30T16:51:14.187269+00:00",
+      "attempted_at": "2026-11-01T09:50:46.503510+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-30T16:50:57.896302+00:00",
           "items": [
             {
@@ -4904,13 +4948,15 @@
               "published_at": "Sun, 25 Jun 2023 07:00:00 GMT",
               "publisher": "The Sunday Times, Sri Lanka"
             }
-          ]
+          ],
+          "attempted_at": "2026-11-01T09:50:29.548332+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
           "state": "failed",
           "checked_at": "2026-10-21T00:16:08.762217+00:00",
           "items": [],
-          "attempted_at": "2026-10-30T16:51:08.187113+00:00",
+          "attempted_at": "2026-11-01T09:50:40.503370+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -4920,10 +4966,10 @@
       }
     },
     "727f844b0b7b5bc28765": {
-      "attempted_at": "2026-10-30T16:51:32.169488+00:00",
+      "attempted_at": "2026-11-01T09:51:12.543207+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-30T16:51:14.486461+00:00",
           "items": [
             {
@@ -4962,13 +5008,15 @@
               "published_at": "Thu, 21 Sep 2023 07:00:00 GMT",
               "publisher": "The Sentinel - of this Land, for its People"
             }
-          ]
+          ],
+          "attempted_at": "2026-11-01T09:50:55.502303+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
           "state": "failed",
           "checked_at": "2026-10-28T14:44:18.711819+00:00",
           "items": [],
-          "attempted_at": "2026-10-30T16:51:26.169321+00:00",
+          "attempted_at": "2026-11-01T09:51:06.543066+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -4978,10 +5026,10 @@
       }
     },
     "0dfdac3937d1e4bfff8f": {
-      "attempted_at": "2026-10-30T16:51:49.958728+00:00",
+      "attempted_at": "2026-11-01T09:51:34.453070+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-30T16:51:32.488136+00:00",
           "items": [
             {
@@ -5044,13 +5092,15 @@
               "published_at": "Sat, 26 Mar 2016 07:00:00 GMT",
               "publisher": "Firstpost"
             }
-          ]
+          ],
+          "attempted_at": "2026-11-01T09:51:18.519246+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
           "state": "failed",
           "checked_at": "2026-10-28T14:44:37.000533+00:00",
           "items": [],
-          "attempted_at": "2026-10-30T16:51:43.958577+00:00",
+          "attempted_at": "2026-11-01T09:51:28.452925+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -5060,10 +5110,10 @@
       }
     },
     "07fa81701fb46341d978": {
-      "attempted_at": "2026-10-30T16:52:09.176797+00:00",
+      "attempted_at": "2026-11-01T09:51:56.804570+00:00",
       "sources": {
         "news": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-30T16:51:50.264697+00:00",
           "items": [
             {
@@ -5126,13 +5176,15 @@
               "published_at": "Mon, 09 May 2022 07:00:00 GMT",
               "publisher": "Firstpost"
             }
-          ]
+          ],
+          "attempted_at": "2026-11-01T09:51:42.050557+00:00",
+          "error": "HTTPError HTTP 503"
         },
         "gdelt": {
           "state": "failed",
           "checked_at": "2026-10-28T14:44:55.829203+00:00",
           "items": [],
-          "attempted_at": "2026-10-30T16:52:03.176628+00:00",
+          "attempted_at": "2026-11-01T09:51:50.804415+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -5142,18 +5194,18 @@
       }
     },
     "4a02abe5367ea46753e4": {
-      "attempted_at": "2026-10-30T16:52:24.492215+00:00",
+      "attempted_at": "2026-11-01T09:52:12.035516+00:00",
       "sources": {
         "news": {
           "state": "ok",
-          "checked_at": "2026-10-30T16:52:09.438122+00:00",
+          "checked_at": "2026-11-01T09:51:57.125288+00:00",
           "items": []
         },
         "gdelt": {
           "state": "failed",
           "checked_at": "2026-10-22T12:37:49.124670+00:00",
           "items": [],
-          "attempted_at": "2026-10-30T16:52:18.492047+00:00",
+          "attempted_at": "2026-11-01T09:52:06.035381+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -5163,19 +5215,17 @@
       }
     },
     "46d38829bb4ebda0d601": {
-      "attempted_at": "2026-10-30T16:52:41.177983+00:00",
+      "attempted_at": "2026-11-01T09:52:28.639367+00:00",
       "sources": {
         "news": {
           "state": "ok",
-          "checked_at": "2026-10-30T16:52:24.760788+00:00",
+          "checked_at": "2026-11-01T09:52:12.288667+00:00",
           "items": []
         },
         "gdelt": {
-          "state": "failed",
-          "checked_at": "2026-10-25T06:56:21.759335+00:00",
-          "items": [],
-          "attempted_at": "2026-10-30T16:52:35.177838+00:00",
-          "error": "HTTPError HTTP 429"
+          "state": "ok",
+          "checked_at": "2026-11-01T09:52:22.639232+00:00",
+          "items": []
         },
         "x": {
           "state": "not_configured",
@@ -5184,19 +5234,17 @@
       }
     },
     "b9025f9fa1e59ab34617": {
-      "attempted_at": "2026-10-30T16:52:56.499883+00:00",
+      "attempted_at": "2026-11-01T09:52:47.513348+00:00",
       "sources": {
         "news": {
           "state": "ok",
-          "checked_at": "2026-10-30T16:52:41.483597+00:00",
+          "checked_at": "2026-11-01T09:52:28.881629+00:00",
           "items": []
         },
         "gdelt": {
-          "state": "failed",
-          "checked_at": "2026-10-28T14:45:52.248441+00:00",
-          "items": [],
-          "attempted_at": "2026-10-30T16:52:50.499729+00:00",
-          "error": "HTTPError HTTP 429"
+          "state": "ok",
+          "checked_at": "2026-11-01T09:52:41.513180+00:00",
+          "items": []
         },
         "x": {
           "state": "not_configured",
@@ -5205,11 +5253,11 @@
       }
     },
     "74227cbb448c72bb152d": {
-      "attempted_at": "2026-10-30T16:53:12.883501+00:00",
+      "attempted_at": "2026-11-01T09:53:02.602591+00:00",
       "sources": {
         "news": {
           "state": "ok",
-          "checked_at": "2026-10-30T16:52:56.805253+00:00",
+          "checked_at": "2026-11-01T09:52:47.783536+00:00",
           "items": [
             {
               "title": "Bhubaneswar-Rajdhani Express hijacking case: NIA chargesheets 10 Naxals - ANI News",
@@ -5220,9 +5268,11 @@
           ]
         },
         "gdelt": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-30T16:53:06.883360+00:00",
-          "items": []
+          "items": [],
+          "attempted_at": "2026-11-01T09:52:56.602455+00:00",
+          "error": "HTTPError HTTP 429"
         },
         "x": {
           "state": "not_configured",
@@ -5231,18 +5281,18 @@
       }
     },
     "7b18bf018ca3f6a169e7": {
-      "attempted_at": "2026-10-30T16:53:28.644591+00:00",
+      "attempted_at": "2026-11-01T09:53:18.297635+00:00",
       "sources": {
         "news": {
           "state": "ok",
-          "checked_at": "2026-10-30T16:53:13.187820+00:00",
+          "checked_at": "2026-11-01T09:53:02.880535+00:00",
           "items": []
         },
         "gdelt": {
           "state": "failed",
           "checked_at": "2026-10-22T12:39:03.704660+00:00",
           "items": [],
-          "attempted_at": "2026-10-30T16:53:22.644428+00:00",
+          "attempted_at": "2026-11-01T09:53:12.297497+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -5252,11 +5302,11 @@
       }
     },
     "dcf8389de4cd58bb1913": {
-      "attempted_at": "2026-10-30T16:53:49.973367+00:00",
+      "attempted_at": "2026-11-01T09:53:33.178970+00:00",
       "sources": {
         "news": {
           "state": "ok",
-          "checked_at": "2026-10-30T16:53:28.986088+00:00",
+          "checked_at": "2026-11-01T09:53:18.561441+00:00",
           "items": [
             {
               "title": "NIA releases list of most wanted gangsters based in Punjab and Haryana - ETV Bharat",
@@ -5277,28 +5327,22 @@
               "publisher": "WION"
             },
             {
-              "title": "President Murmu appoints Dinesh Sharma as LG of Andaman and Nicobar - The Indian Awaaz",
-              "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeG9kTTVobGFaVGZkd0ZGQlZUc0hYQW9nY25nOUY2Vk9YQ3JFMENMeWl4TFJNaHd2alpBekxaWUR0M0l0dU0xSmhrTDZKVk9nSmMzaWZVbXZFTy1ETDB4QXVWajM1QndXVmtZYjZNS0NLemZwSE42VXF4OVBMOE9zYVlpZmg3STRHMzFkZW1tYU5LNU1qWTZvNVMwUTZmVm8?oc=5",
-              "published_at": "Sun, 06 Sep 2026 07:00:00 GMT",
+              "title": "NIA CHARGESHEETS 13 ACCUSED IN GHAZIABAD ESPIONAGE CASE - The Indian Awaaz",
+              "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNEpQVjQ0T081UHNFVm5BRF9YSXI2UVFEbGJCaWFlSkdGMGduR1czX3EyYk1mQldvWHlWMXhKak9jejhGcTdiSWpsWG0tZ1M3T2pkN0psUG5WRGdhM3lHbERsSkFYTmh1bndwLThuQ2EwNmVRUlNLN0RXZGNDaWRCbm16ZXlKLVpjY2hv?oc=5",
+              "published_at": "Sat, 05 Sep 2026 18:56:52 GMT",
               "publisher": "The Indian Awaaz"
-            },
-            {
-              "title": "BJP names former deputy chief minister Dinesh Sharma as its Rajya Sabha candidate from UP - The Times of India",
-              "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVmVOdmpuT3N0b25WMk50YU85cWNLZFJoWGhHdXluNk9hdmMzSEdFRzl6RGI3emRiUWJoWE1NZTlrbFdIaERBQnVCVGt1aVkzRVhoRWNOTDFFWVprejJSdzdMQy1veHQ1cFNHRTVPOFdHd3gwUmpSYmlMeUxRY1lKcmNNdEk1LVFNOExoeTFMeTBMaUNFMlJRWWZ4NnNES0xQdTdnZDZqd3hlYVRaUF9IakNKM3lWNktfSFRQQVk4NkZ0bXB6ckxkZ01FY1UxaVZ6ZHBrZWk5bkhJcjlYQ3A5Y0JEU3hfVnVleTBoNEhn0gHzAUFVX3lxTFA3LWVOUU9RUl81R0VCZzdtMGdKM0ZlSzY0WHlEV3JtbXI2NTVYMFhkRFh3OTBobDZNeEFmWl9rMldmb1V2eVBhQ192dnQ4Slp5c042WktrQ2dMUEQ1UE1DWTJUV1FLSUNCQXRjVTUwZ1RIUWotaGY5WVRkZG1JXzZhanFPcHhFQjNyblhQMEpJSWJuVHNzVUx1MVM3WmRlaDhoNzhRdDdNbmJOMW1RbWJ2VXNCYlVEZ0hiRWgxbEQzNE9ncWhpLXVSUTk0Sk9qNnRqVkJ6M2tGQjVMeURWTURXYjJsNW4wRmVFV0xtVDFBbGY0dw?oc=5",
-              "published_at": "Sun, 03 Sep 2023 07:00:00 GMT",
-              "publisher": "The Times of India"
-            },
-            {
-              "title": "NIA releases list of 43 wanted gangsters; asks people to share details of their properties - ETV Bharat",
-              "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOU3ZtbVZTc2V5VnY0bVdFYUI3UE0yWTMtYzF0NmdCTWdUVUstdlppV0pWSE0wdGlEaGhnWUFxc1lKaDFPWmVRTlFPTmJTNmpRYkFFbzNab1VmNENiQzBzbEVJbmN4RTZnSEVHSDBMQ1MwN0YwVHRBaWxkcHJqa0lPR0VqNnVXNk93R0Z6SnhRMkRidy1uZmc4SGNETFlhWk5Eb0l4RUVCUUd1cFJhUWxKbWt4MGg1a1V6ckJEd21uSlRncFFHOGNDbHVNclc5VU5aaTd0VFU5bC1jdk5zR0F0ekpYS3RRV2hEQmRYRTNxV1B1QktnY0lia1V2Z9IBgAJBVV95cUxQcF93dkMyUEJrMDBwa2xUaEZOSnBEQjIzQTB3bld5VkRMMnRSR0lwTGM1NUdJa244b1hjSnhodGtwRmlxb0NXSDFMdU10Yk1ZQV9Ycm1YS041cE9BWFI4QVJ3emFTZm5pM0xhdDNqeUNMMVMyUXdMeWhGNEdoV1JPaEg2WWd5ZzBXNkVtcXBybWU2LVZOZkl2TzZVOEhhV212eUV5SFhqbjUtMkN6WTFVLTE4YW5jWHp5QTNxTThPaVhGLXdlZGpHSEQyRkVyYUhxeUpjSjNxWlZ1NlV4cFBRWWlUd2dlNWZMbU1BTWEweDBaZDJrX2kzUjVMZUhpLWFH?oc=5",
-              "published_at": "Tue, 26 Sep 2023 07:00:00 GMT",
-              "publisher": "ETV Bharat"
             },
             {
               "title": "NIA releases list of 43 most wanted criminals, including Khalistan linked gangsters in Canada - OpIndia",
               "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONWVaOUFzNnBqV2ZnVVdNTkowRjhGaHlkdURlc3E0Z2YzU0FXa1NkN1JneWtyUENWN3lfZldtWUFGS3BobHdaQ3laTzhmODJfWnB4azFINmpqa0dhdmJyd3VwTjBWcC1sVWY2M2h0YkF4UmIzVnp1MUtrQUlnOE96VUdyRy1GcVhjQ2c4eEsxQ1JtMW5PTm1ZaG5mY0RuSFFpUG9BdUktVE83R3JId1hEeVJWellfVWpwaUFvNXRtWEJBazg?oc=5",
               "published_at": "Wed, 20 Sep 2023 07:00:00 GMT",
               "publisher": "OpIndia"
+            },
+            {
+              "title": "NIA releases list of 43 wanted gangsters; asks people to share details of their properties - ETV Bharat",
+              "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOU3ZtbVZTc2V5VnY0bVdFYUI3UE0yWTMtYzF0NmdCTWdUVUstdlppV0pWSE0wdGlEaGhnWUFxc1lKaDFPWmVRTlFPTmJTNmpRYkFFbzNab1VmNENiQzBzbEVJbmN4RTZnSEVHSDBMQ1MwN0YwVHRBaWxkcHJqa0lPR0VqNnVXNk93R0Z6SnhRMkRidy1uZmc4SGNETFlhWk5Eb0l4RUVCUUd1cFJhUWxKbWt4MGg1a1V6ckJEd21uSlRncFFHOGNDbHVNclc5VU5aaTd0VFU5bC1jdk5zR0F0ekpYS3RRV2hEQmRYRTNxV1B1QktnY0lia1V2Z9IBgAJBVV95cUxQcF93dkMyUEJrMDBwa2xUaEZOSnBEQjIzQTB3bld5VkRMMnRSR0lwTGM1NUdJa244b1hjSnhodGtwRmlxb0NXSDFMdU10Yk1ZQV9Ycm1YS041cE9BWFI4QVJ3emFTZm5pM0xhdDNqeUNMMVMyUXdMeWhGNEdoV1JPaEg2WWd5ZzBXNkVtcXBybWU2LVZOZkl2TzZVOEhhV212eUV5SFhqbjUtMkN6WTFVLTE4YW5jWHp5QTNxTThPaVhGLXdlZGpHSEQyRkVyYUhxeUpjSjNxWlZ1NlV4cFBRWWlUd2dlNWZMbU1BTWEweDBaZDJrX2kzUjVMZUhpLWFH?oc=5",
+              "published_at": "Tue, 26 Sep 2023 07:00:00 GMT",
+              "publisher": "ETV Bharat"
             },
             {
               "title": "NIA Announces Rewards of Rs 1 to 5 Lakh for 8 Notorious Gangsters from Haryana-Punjab - Rozana Spokesman",
@@ -5313,6 +5357,12 @@
               "publisher": "IANS LIVE"
             },
             {
+              "title": "Dinesh Sharma appointed as Lt Governor of Andaman and Nicobar Islands - The Hawk",
+              "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMDhGc0l2V29pc29iT3ExUEZGdEVySmhtbUszWnhLUV9RQ2tya3ozd2NMREMtTmZoY09MNk84anNsMEl1cWNNTzV6UWNpQktwbDFWT3VsTHBGNElGMmFaMl95UXd0ZTZ3dGwxQTU0SW9jdHhUcktmZmFoNGJjbFNhOHEyUThFUWZabVBWcUg3Ml9UTHFfZFZoMzZFN2hDVzg3aTZqV3R3?oc=5",
+              "published_at": "Mon, 07 Sep 2026 07:00:00 GMT",
+              "publisher": "The Hawk"
+            },
+            {
               "title": "Canada becomes heaven for fugitive gangsters evading Indian crimes: NIA identifies 11, including Goldy Barad - True Scoop",
               "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdi1Ddk91UTJYVWVoU1FQSVJXdWZxQmd5elljMEJyanVDbjg4ak56NmZkTDZkYl9jd3hZNTRKSEVhanJNc1ZZRUM0VEZURXlmZWVpcGVuZ1Y1LWxJOTdhX181NU1fd1RtLVlCdUU1bWpZNkQ4QTE2RW0yR3RWeGxWVWxncnZvWUV5cXNEMUk4YjlGdEc5d0puQ044Q19FZHBEdmF5bWU2dnUxQ2w2ekZGZHlBZFdlVzlJVU05Szd3Qklxcy1FclJDQnpwYkowMG5JdXpTSUtfc0hOQ3Z4MTUzTtIB7gFBVV95cUxQZFgtTy1aWl9OMDFySkdIanpveTFFekN5eGxHWl9VQS04aC1oczJjeWtYcmo3OGVEZi1tQkFUanM5V1Z2dGkxa09QVzlSeTVEQXN4Z0kyRW5qR3QxbnhTaVBheTVVYnRMcGRYeEVtWVZxdzhZR3dQQmJJWDVDX28yNzYxdkZuak5Xa3BXeHZQWVN0Y3JfQy1xcVJ5dnd5YWF0UEpKMVRYTzVxZ3M4T3FTR2QwMVpHZTkxbE1BZURLNEpnNjljZ1NncEpDU0hMUWtjZXJrV0lJUkJuSk1QT2xYSk8zVy1QTnFVNGtzWXRn?oc=5",
               "published_at": "Wed, 20 Sep 2023 07:00:00 GMT",
@@ -5321,29 +5371,10 @@
           ]
         },
         "gdelt": {
-          "state": "ok",
-          "checked_at": "2026-10-30T16:53:43.973224+00:00",
-          "items": []
-        },
-        "x": {
-          "state": "not_configured",
-          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
-        }
-      }
-    },
-    "f20015630f2a701ee8a0": {
-      "attempted_at": "2026-10-30T16:54:05.599316+00:00",
-      "sources": {
-        "news": {
-          "state": "ok",
-          "checked_at": "2026-10-30T16:53:50.238857+00:00",
-          "items": []
-        },
-        "gdelt": {
           "state": "failed",
-          "checked_at": "2026-10-28T14:47:09.122488+00:00",
+          "checked_at": "2026-10-30T16:53:43.973224+00:00",
           "items": [],
-          "attempted_at": "2026-10-30T16:53:59.599149+00:00",
+          "attempted_at": "2026-11-01T09:53:27.178824+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -5352,12 +5383,31 @@
         }
       }
     },
-    "bbc91b01c503093e55b1": {
-      "attempted_at": "2026-10-30T16:54:22.267140+00:00",
+    "f20015630f2a701ee8a0": {
+      "attempted_at": "2026-11-01T09:53:49.944279+00:00",
       "sources": {
         "news": {
           "state": "ok",
-          "checked_at": "2026-10-30T16:54:05.908142+00:00",
+          "checked_at": "2026-11-01T09:53:33.420491+00:00",
+          "items": []
+        },
+        "gdelt": {
+          "state": "ok",
+          "checked_at": "2026-11-01T09:53:43.944130+00:00",
+          "items": []
+        },
+        "x": {
+          "state": "not_configured",
+          "error": "Set X_BEARER_TOKEN to enable automatic X searches"
+        }
+      }
+    },
+    "bbc91b01c503093e55b1": {
+      "attempted_at": "2026-11-01T09:54:03.907104+00:00",
+      "sources": {
+        "news": {
+          "state": "ok",
+          "checked_at": "2026-11-01T09:53:50.214893+00:00",
           "items": [
             {
               "title": "India mulls legal ways to extradite elusive ULFA chief Mukul Hazarika - The Federal",
@@ -5395,7 +5445,7 @@
           "state": "failed",
           "checked_at": "2026-10-28T19:51:25.145894+00:00",
           "items": [],
-          "attempted_at": "2026-10-30T16:54:16.266947+00:00",
+          "attempted_at": "2026-11-01T09:53:57.906960+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -5405,11 +5455,11 @@
       }
     },
     "18544590b8a9f2e88cb4": {
-      "attempted_at": "2026-10-30T16:54:37.650409+00:00",
+      "attempted_at": "2026-11-01T09:54:19.094865+00:00",
       "sources": {
         "news": {
           "state": "ok",
-          "checked_at": "2026-10-30T16:54:22.546688+00:00",
+          "checked_at": "2026-11-01T09:54:04.138074+00:00",
           "items": [
             {
               "title": "Three Indian Women Who Joined The Islamic State In Afghanistan Reveal New Details And ‘Disillusionment’ - Swarajya",
@@ -5429,7 +5479,7 @@
           "state": "failed",
           "checked_at": "2026-10-21T00:19:46.949515+00:00",
           "items": [],
-          "attempted_at": "2026-10-30T16:54:31.650255+00:00",
+          "attempted_at": "2026-11-01T09:54:13.094707+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -5439,11 +5489,11 @@
       }
     },
     "8d9678c73f88e62e27c7": {
-      "attempted_at": "2026-10-30T16:54:55.715541+00:00",
+      "attempted_at": "2026-11-01T09:54:33.659145+00:00",
       "sources": {
         "news": {
           "state": "ok",
-          "checked_at": "2026-10-30T16:54:37.951110+00:00",
+          "checked_at": "2026-11-01T09:54:19.343853+00:00",
           "items": [
             {
               "title": "History sheets of 4 Indian Mujahideen operatives opened in Azamgarh - The Times of India",
@@ -5481,7 +5531,7 @@
           "state": "failed",
           "checked_at": "2026-10-18T05:09:37.521927+00:00",
           "items": [],
-          "attempted_at": "2026-10-30T16:54:49.715349+00:00",
+          "attempted_at": "2026-11-01T09:54:27.659010+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -5491,11 +5541,11 @@
       }
     },
     "cd3721fd31db83dea1ba": {
-      "attempted_at": "2026-10-30T16:55:13.198983+00:00",
+      "attempted_at": "2026-11-01T09:54:47.951145+00:00",
       "sources": {
         "news": {
           "state": "ok",
-          "checked_at": "2026-10-30T16:54:56.007476+00:00",
+          "checked_at": "2026-11-01T09:54:34.034373+00:00",
           "items": [
             {
               "title": "Naik maliciously insulted religious beliefs, says NIA - The Hindu",
@@ -5528,16 +5578,16 @@
               "publisher": "Open Magazine"
             },
             {
-              "title": "NIA to revoke Islamic preacher Zakir Naik's Indian passport | Naik's preaching is banned in India, UK, Canada | Inshorts - Inshorts",
-              "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRDlRcmhyYTczei1QUlA0bzR2dXU0SnROd3NaXzBHVHFqQ2dRck9nck5CaUt3dTh1VnN1dzBXQ0ZtbmFOSHBzdWgzZURnWkJ1dUwyYnVnODlfOEhuVkNHOVQzc2ZEZmZZV0pFQ19PMlgyS3J5eHo1ZGlFVG9yTzA1WGR1QnhKRWhCQTR1WG8wd0xtSDA4TzRvMUhLX2toazA0TVRJ0gGoAUFVX3lxTE1acDB6bnVRSXZYQnFhUlBiVnJGMWhoYXRORTVvME9mU3A4bm5aX2RXUHZNRkZ0OWtsWE1xYi1UNUs0SWdGUDRBTUNuNnozcDhiR1Y1MWpiaW1EbEtraE9aZjA1RkFLWWVDT2NaaFpQZ0RXQU9fNGVRN0lMei10Z2VEcHRXc1NBeUF3M3FYLTJ4TGJDWFlBSm5IMFFkMzgzYW9HZkg1N1k0RQ?oc=5",
-              "published_at": "Sun, 27 May 2018 09:25:25 GMT",
-              "publisher": "Inshorts"
-            },
-            {
               "title": "Passport of Islamic Research Foundation President Zakir Naik revoked - The Asian Age",
               "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYkJrZTVId0R6WFpSbldHMmhLVVhkTkFWZFBfZ3FvOG5VUmtheFdtZng2bFFabTlYTUxiOXhtM1dPYkNobDlybkRPRHNOSVYyWFhWYkQ4ZlhSMTdlalpvb25iNk9VZEhxWkZVVUdFc3VNTFJkS2NVNVNDUnloSWduam1vbmtEYzJDYVc3ekpTOTNvcXowYjlpdVo2OFp1TVFuOUxCTjFpd1RiV3k5akNOc2hvYTF0ZkdNdzJ6eVBB0gHDAUFVX3lxTFBETVI1N0dqSE10R0FGaUZYd2ItcGVqSnA2VTYyMENGdndvdGJNaVZBNlplTXlkbGtxaVBTVXJzWWhrVVV1Ry1UNXhaNC1ySkxLaGtQV0xJb2hnMWdQNHpqTVVBaGljNWxOYkVIOGdNTVBkaExVd3NuWjBVTXNfeFFzNXFMZVo2NXpsa3RFQ3lsNnJhaXp5MnAwUG1Dck51ZlJKdWxnV2FFS2FIRXBGTFlZUmVndzVHaVVKS1lPZWFFTEtRSQ?oc=5",
               "published_at": "Tue, 18 Jul 2017 07:00:00 GMT",
               "publisher": "The Asian Age"
+            },
+            {
+              "title": "NIA to revoke Islamic preacher Zakir Naik's Indian passport | Naik's preaching is banned in India, UK, Canada | Inshorts - Inshorts",
+              "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRDlRcmhyYTczei1QUlA0bzR2dXU0SnROd3NaXzBHVHFqQ2dRck9nck5CaUt3dTh1VnN1dzBXQ0ZtbmFOSHBzdWgzZURnWkJ1dUwyYnVnODlfOEhuVkNHOVQzc2ZEZmZZV0pFQ19PMlgyS3J5eHo1ZGlFVG9yTzA1WGR1QnhKRWhCQTR1WG8wd0xtSDA4TzRvMUhLX2toazA0TVRJ0gGoAUFVX3lxTE1acDB6bnVRSXZYQnFhUlBiVnJGMWhoYXRORTVvME9mU3A4bm5aX2RXUHZNRkZ0OWtsWE1xYi1UNUs0SWdGUDRBTUNuNnozcDhiR1Y1MWpiaW1EbEtraE9aZjA1RkFLWWVDT2NaaFpQZ0RXQU9fNGVRN0lMei10Z2VEcHRXc1NBeUF3M3FYLTJ4TGJDWFlBSm5IMFFkMzgzYW9HZkg1N1k0RQ?oc=5",
+              "published_at": "Sun, 27 May 2018 09:25:25 GMT",
+              "publisher": "Inshorts"
             },
             {
               "title": "Islamic preacher Zakir Naik now a proclaimed offender, his assets to be attached: NIA - The Indian Express",
@@ -5560,9 +5610,11 @@
           ]
         },
         "gdelt": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-30T16:55:07.198824+00:00",
-          "items": []
+          "items": [],
+          "attempted_at": "2026-11-01T09:54:41.951009+00:00",
+          "error": "HTTPError HTTP 429"
         },
         "x": {
           "state": "not_configured",
@@ -5571,11 +5623,11 @@
       }
     },
     "c36ec85eeb1089a36726": {
-      "attempted_at": "2026-10-30T16:55:30.741452+00:00",
+      "attempted_at": "2026-11-01T09:55:03.135117+00:00",
       "sources": {
         "news": {
           "state": "ok",
-          "checked_at": "2026-10-30T16:55:13.535040+00:00",
+          "checked_at": "2026-11-01T09:54:48.184251+00:00",
           "items": [
             {
               "title": "NIA files charge sheet against 16 foreign-based ‘Khalistanis’ - The Hindu",
@@ -5631,7 +5683,7 @@
           "state": "failed",
           "checked_at": "2026-10-25T06:59:27.238059+00:00",
           "items": [],
-          "attempted_at": "2026-10-30T16:55:24.741322+00:00",
+          "attempted_at": "2026-11-01T09:54:57.134975+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -5641,19 +5693,17 @@
       }
     },
     "b01dd1258696f9533623": {
-      "attempted_at": "2026-10-30T16:55:48.018074+00:00",
+      "attempted_at": "2026-11-01T09:55:23.921808+00:00",
       "sources": {
         "news": {
           "state": "ok",
-          "checked_at": "2026-10-30T16:55:31.015978+00:00",
+          "checked_at": "2026-11-01T09:55:03.377667+00:00",
           "items": []
         },
         "gdelt": {
-          "state": "failed",
-          "checked_at": "2026-10-26T20:23:22.342787+00:00",
-          "items": [],
-          "attempted_at": "2026-10-30T16:55:42.017900+00:00",
-          "error": "HTTPError HTTP 429"
+          "state": "ok",
+          "checked_at": "2026-11-01T09:55:17.921670+00:00",
+          "items": []
         },
         "x": {
           "state": "not_configured",
@@ -5662,11 +5712,11 @@
       }
     },
     "7425761d174b7db61399": {
-      "attempted_at": "2026-10-30T16:56:04.799047+00:00",
+      "attempted_at": "2026-11-01T09:55:40.813563+00:00",
       "sources": {
         "news": {
           "state": "ok",
-          "checked_at": "2026-10-30T16:55:48.327671+00:00",
+          "checked_at": "2026-11-01T09:55:24.176357+00:00",
           "items": [
             {
               "title": "NIA Charges CEO of Laos-Based Long Sheng Company in High-Profile Human Trafficking & Cyber Fraud Case - News On AIR",
@@ -5716,7 +5766,7 @@
           "state": "failed",
           "checked_at": "2026-10-28T19:53:19.908984+00:00",
           "items": [],
-          "attempted_at": "2026-10-30T16:55:58.798861+00:00",
+          "attempted_at": "2026-11-01T09:55:34.813401+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -5726,18 +5776,18 @@
       }
     },
     "c39ffd43590c0b50ae72": {
-      "attempted_at": "2026-10-30T16:56:21.259310+00:00",
+      "attempted_at": "2026-11-01T09:55:57.039317+00:00",
       "sources": {
         "news": {
           "state": "ok",
-          "checked_at": "2026-10-30T16:56:05.090473+00:00",
+          "checked_at": "2026-11-01T09:55:41.061390+00:00",
           "items": []
         },
         "gdelt": {
           "state": "failed",
           "checked_at": "2026-10-28T19:53:38.304174+00:00",
           "items": [],
-          "attempted_at": "2026-10-30T16:56:15.259144+00:00",
+          "attempted_at": "2026-11-01T09:55:51.039199+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -5747,11 +5797,11 @@
       }
     },
     "1ef3c6ae93f697d081a6": {
-      "attempted_at": "2026-10-30T16:56:37.540838+00:00",
+      "attempted_at": "2026-11-01T09:56:12.721715+00:00",
       "sources": {
         "news": {
           "state": "ok",
-          "checked_at": "2026-10-30T16:56:21.561875+00:00",
+          "checked_at": "2026-11-01T09:55:57.303861+00:00",
           "items": [
             {
               "title": "NIA arrests two key accused in 3,000-kg Mundra heroin seizure case - The Hindu",
@@ -5789,7 +5839,7 @@
           "state": "failed",
           "checked_at": "2026-10-26T20:24:12.158147+00:00",
           "items": [],
-          "attempted_at": "2026-10-30T16:56:31.540663+00:00",
+          "attempted_at": "2026-11-01T09:56:06.721577+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -5799,17 +5849,23 @@
       }
     },
     "837d8d4a4f6862d188d0": {
-      "attempted_at": "2026-10-30T16:56:55.297031+00:00",
+      "attempted_at": "2026-11-01T09:56:28.465149+00:00",
       "sources": {
         "news": {
           "state": "ok",
-          "checked_at": "2026-10-30T16:56:38.000928+00:00",
+          "checked_at": "2026-11-01T09:56:13.114648+00:00",
           "items": [
             {
               "title": "Bangladeshi Nationals, Rohingyas Among 15 Jailed In Human Trafficking Case In Lucknow - ETV Bharat",
               "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaldTSEREa1daVVhNVnc3UXNUaWE4cloyQzFxQ2l0d0VlVXFucE44SWNVYjI0M1UxZFdpazNicF96OVpzRXI5TlpxZEFBVUdnd3czQU5ISDA1QXJGSWx4SV9CMndMYkV1QXNONVViSGxGV3ZUTnJyZXpwUEtnS19QZ2dERmdhemVKb21OOTM2WE8xMXVTdnNCbFFBSEVhSzhpdHZtMk9LSWxzNHEwLUFjTThGeW5jS3BVeUQ0R2Yxc1nSAcYBQVVfeXFMTnBaMTYzSjl6ejdtcDVqTW92clJqNjdxak5PbzN2OXdvQ3dzUEZfbDNXeTgxRUoybUFOakN4NHNtbnZpaDhLZHBOSmdDMG03bE5sekVlSjRfMFpkQlBSZFNWY1NHU1RjLXNQVERZbVhPZ0VOQ1RVbS1Wal96RDE4Xzk4TEpjbE5yZ0RsZWJleHJHYzFyY0RkamQ3dC1femJ6UmNYNTFld1Q4eHM5UTFYbU9NZTRBUWlQNkJkSjFkMkFGX2hwYnNB?oc=5",
               "published_at": "Tue, 07 Jul 2026 07:00:00 GMT",
               "publisher": "ETV Bharat"
+            },
+            {
+              "title": "NIA seeks ‘proclaimed offender’ status for 3 Kalyan youths in ISIS case - The Indian Express",
+              "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNW9GUXZmenJFN1FKZTd1ejcweHBNRkl5YkE5UHpkSUxQYjRRX0RyYVJJeHFCTFVjc3ByOXd1Y0Eya2Zra0NSX3BSWXZ5NnU0dmFEU3ZOdFpxTEhPVFF0NTNuODJBaHhmd0JSUHBhLWpVLVF0WFRzQURJbDFxU25zYUZCclZDUlNPU3Q3c0VINk9RejltcGUwQ01FbVRzYlpHX28zS3RFVmNzRUY5R2pYY3pB0gG4AUFVX3lxTFBORzhVaWQ0U0Zmdjlfc205emZ4ME5iVkdBX2RHLWh3XzNXTl80RlNpeC1hak1OemRLNjRROUlDRGo2Zk9iRFhJck1kcHh5RFotMWNMS0E5cllvVTNHaHU0aElTS1BhLWk1ME1ZU0pLLTN1OW5TZ1dzQXZza3B3ekNQa3AyQ1I1S2JSNlFKZ1VOejV3emZUR1VVdUh5d1NvSUVESlh1blg3emc5X2JYYU5NZU5xWjRQbjU?oc=5",
+              "published_at": "Sat, 21 Mar 2026 07:00:00 GMT",
+              "publisher": "The Indian Express"
             },
             {
               "title": "‘IS recruit’ arrested, NIA takes over probe - The Hindu",
@@ -5828,12 +5884,6 @@
               "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVl9uSDllaTcyQkNoRTJ2Z1R4NHVDdmgwUVZKQjdXLUlKNWFaelkwVGZ4aFZ2UXFHd21BVkNBdUFpUnNVZUZ4NkFLUWR0REpaejRtMnlrNjNQYjQ0ck9pSWMwb3p4NktNbGJKZjBoNHEtOU1yVHB6dU5FVWc3ZWhFTUN0b2dCVVJqS3lQTm9LSDNSaUd1ZGZSN24wRFNQekpKYy1JZU1BVjlJOUVSUV9ua2JHOGFtR2F6aC1vYWM4RElBS3kxdmZIaTdJaTMwcGdkS2F4c3BVaXRJZnE3SGVodmQtSdIB6AFBVV95cUxNdDVIVlRmWmJicUtlVUJCQnJLVW1ZZFN0Q0wwaDRwQWhGN05Xbm53ZFY5cHU0RmZPb002RWZUMHdadFB5elVoc0RZUTE3eVhYRWZzR0hnci0wa0RvaU1HWU8wV09ZX0ZtTnZ1V3VqTmVTbEluNXBrOUtNbV9FLVdVSE45OVBfRHgtQXg3UGRCYlphWkdwck91VmdHZGJJZEp6WlZMNlVSQzVXbldNbWR1NG44SllwUnJTbjc0Mm1FaEd1YVFZNHVKTHRuTUo1MjFBc0R0VEtrVkQ3OHFCT0EwTXFCbUdmZTZK?oc=5",
               "published_at": "Mon, 23 May 2016 07:00:00 GMT",
               "publisher": "The Times of India"
-            },
-            {
-              "title": "After 21 months in jail, The Kashmir Walla founder Fahad Shah comes out on bail - The Indian Express",
-              "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNY3NUTl9ZYUItVEdKSHBtUjI5MHB1S0JKY2k3QXFYWm85WURTNFFTQnJmSUkwVVRzcVJ3RUxaOXJoZjBkanBDVGJ0cjF6UmpYMEF6QUhvRlNkZkhRNEdNeVh4am80SVlEa1BzcUdzbTR4S0VhWnpVcGduUjZ4bDlvSUEtTm8xUlRfektwWUM4RV9SUUZjTkRiZlZvakJFci1lRW90OHBHUmxvR3JaUFdqc3hQX1FpaDFEVElSa1Z1cFprSVVJRWfSAcwBQVVfeXFMTVNqUEZycVN0c1lvbDRGWVZNc2xSMTVqUEdYRmNQR3pCYlVYWW5Vc0lfYmIwOWdiNEpNSHpNZEdGaE1sT2tCSURySVFJTDc0dTFBVlQ2STdnVGI3LW5rT2d5d1A5NmxIZTZJd0s0X3FnTUdaRFlPRWhpS0RGMFVLMUtRRXFFY2NIR3pHV1c2UDFYbVI3ZlJzVng3N2NaOF9uVG9UbjJoOVhhQ2tQN1VOMERTSFEyQlhtUEZ1S2xMd1BkeWo2VFRmTHpBY0hk?oc=5",
-              "published_at": "Fri, 24 Nov 2023 08:00:00 GMT",
-              "publisher": "The Indian Express"
             },
             {
               "title": "After 2 years behind bars, Kashmir Walla editor Fahad Shah walks out of jail - Newslaundry",
@@ -5868,9 +5918,11 @@
           ]
         },
         "gdelt": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-30T16:56:49.296864+00:00",
-          "items": []
+          "items": [],
+          "attempted_at": "2026-11-01T09:56:22.465004+00:00",
+          "error": "HTTPError HTTP 429"
         },
         "x": {
           "state": "not_configured",
@@ -5879,11 +5931,11 @@
       }
     },
     "67ac7c09a9d8b081cc8c": {
-      "attempted_at": "2026-10-30T16:57:12.373496+00:00",
+      "attempted_at": "2026-11-01T09:56:43.829006+00:00",
       "sources": {
         "news": {
           "state": "ok",
-          "checked_at": "2026-10-30T16:56:55.605114+00:00",
+          "checked_at": "2026-11-01T09:56:28.726458+00:00",
           "items": [
             {
               "title": "Gold smuggling case: Faisal Fareed included in NIA’s most-wanted list - The New Indian Express",
@@ -5951,7 +6003,7 @@
           "state": "failed",
           "checked_at": "2026-10-28T19:54:33.211845+00:00",
           "items": [],
-          "attempted_at": "2026-10-30T16:57:06.373335+00:00",
+          "attempted_at": "2026-11-01T09:56:37.828936+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -5961,11 +6013,11 @@
       }
     },
     "12165ba68345defa5b7f": {
-      "attempted_at": "2026-10-30T16:57:28.850346+00:00",
+      "attempted_at": "2026-11-01T09:56:59.660722+00:00",
       "sources": {
         "news": {
           "state": "ok",
-          "checked_at": "2026-10-30T16:57:12.669634+00:00",
+          "checked_at": "2026-11-01T09:56:44.555667+00:00",
           "items": [
             {
               "title": "Interpol help sought to trace Keralites in Syria - The New Indian Express",
@@ -6003,7 +6055,7 @@
           "state": "failed",
           "checked_at": "2026-10-26T20:25:04.921127+00:00",
           "items": [],
-          "attempted_at": "2026-10-30T16:57:22.850183+00:00",
+          "attempted_at": "2026-11-01T09:56:53.660585+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -6013,11 +6065,11 @@
       }
     },
     "462f0baa7ccd098ec4c2": {
-      "attempted_at": "2026-10-30T16:57:45.013493+00:00",
+      "attempted_at": "2026-11-01T09:57:14.525561+00:00",
       "sources": {
         "news": {
           "state": "ok",
-          "checked_at": "2026-10-30T16:57:29.169915+00:00",
+          "checked_at": "2026-11-01T09:57:00.405177+00:00",
           "items": [
             {
               "title": "Mundra port seizure: NIA says money generated via Afghan heroin was for LeT | India News - Hindustan Times",
@@ -6037,7 +6089,7 @@
           "state": "failed",
           "checked_at": "2026-10-24T01:10:24.698385+00:00",
           "items": [],
-          "attempted_at": "2026-10-30T16:57:39.013324+00:00",
+          "attempted_at": "2026-11-01T09:57:08.525443+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -6047,11 +6099,11 @@
       }
     },
     "140bafbb5a1822793706": {
-      "attempted_at": "2026-10-30T16:58:00.306181+00:00",
+      "attempted_at": "2026-11-01T09:57:28.745656+00:00",
       "sources": {
         "news": {
           "state": "ok",
-          "checked_at": "2026-10-30T16:57:45.281883+00:00",
+          "checked_at": "2026-11-01T09:57:14.778534+00:00",
           "items": [
             {
               "title": "ED chargesheets 18 accused in 2019 Attari heroin seizure case - The Hindu",
@@ -6071,7 +6123,7 @@
           "state": "failed",
           "checked_at": "2026-10-17T01:33:10.224195+00:00",
           "items": [],
-          "attempted_at": "2026-10-30T16:57:54.306014+00:00",
+          "attempted_at": "2026-11-01T09:57:22.745495+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -6081,11 +6133,11 @@
       }
     },
     "86525cbf5723a1a38c77": {
-      "attempted_at": "2026-10-30T16:58:16.591536+00:00",
+      "attempted_at": "2026-11-01T09:57:43.110370+00:00",
       "sources": {
         "news": {
           "state": "ok",
-          "checked_at": "2026-10-30T16:58:00.631330+00:00",
+          "checked_at": "2026-11-01T09:57:29.035419+00:00",
           "items": [
             {
               "title": "Dawood aide killed in Pakistan for 'plot' against boss? - The Times of India",
@@ -6105,7 +6157,7 @@
           "state": "failed",
           "checked_at": "2026-10-12T00:03:46.009320+00:00",
           "items": [],
-          "attempted_at": "2026-10-30T16:58:10.591349+00:00",
+          "attempted_at": "2026-11-01T09:57:37.110253+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -6115,11 +6167,11 @@
       }
     },
     "d13693aab4d33f6a6b40": {
-      "attempted_at": "2026-10-30T16:58:30.793283+00:00",
+      "attempted_at": "2026-11-01T09:57:57.192545+00:00",
       "sources": {
         "news": {
           "state": "ok",
-          "checked_at": "2026-10-30T16:58:16.933213+00:00",
+          "checked_at": "2026-11-01T09:57:43.375252+00:00",
           "items": [
             {
               "title": "Fatima Isa-'s mom moves Kerala HC to repatriate daughter from Afghanistan to India - Deccan Chronicle",
@@ -6158,12 +6210,6 @@
               "publisher": "Awaz The Voice"
             },
             {
-              "title": "Kerala High Court junks Fatima Isa mom's plea to repatriate daughter from Afghanistan, asks her to approach .. - Economic Times Legal",
-              "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQNzU2T0lJdkwtc1ZmNEh6SFVFMmJQS0phVXZWRDY1cjFZR1dpaDhtX1ZmZktEb3ZNRXM4SG5oMWJlQlg2cGpINlpDajEzd1RhX2xRWnpndUUzbjhISjlCaWgzUjQydVNxUW5waVhKUWx0V19oUDhoWXZ6NGNoMURoZUZndlhnWWVHYURMNGxXel92WUNZVnZKNlJob0VfYVA0cDBRYTFSWUdwRDg5LWZlVzNSWWdlcmJjejZPR0lyTDRnUG5YVWo3WWVHN3RxdkZDNE5YbEdTN3BvTlVjSGNiSjBNUHNHN0lnSmpQbFMwUy1UU3JodTFNWURrSS1oRlVibzRHMGR1QmxwYTdHSzFiRUV30gGXAkFVX3lxTFBkSmJWVDJ2aUNvb2xzQV9zd2NPei0zRHZGUFh5QnU3YXBfTUxxMFdEbXRaUXo3QWdJeldzU3N2ZWFsUVVqMVFMcjgzSzVsZTRIWEpuTnZpMHlYODVtNDc0YVMwQnNYaFpNdEpFNV83M2xKVWxJUjRZeUllYmpXWEJ4U1otdGZmOENhckpQeDhwcFdUd2haTW5ONU4zck9rOFZxaFlXMlJYVllIWldYV1FkZGtfRGR4LW11US1Cak1VVkdsRm5ySkRMWm05LWM3aWppR2ZCUlc2bzRyVVhDWE94ckVBZktQajJNRFBSb1hWVnd4WVpBWTg2ek9QQVZlaUtVcjNhV1RJeVVhdER4NWx0OURqNTFvSQ?oc=5",
-              "published_at": "Wed, 14 Jul 2021 07:00:00 GMT",
-              "publisher": "Economic Times Legal"
-            },
-            {
               "title": "IS supporter Nimisha's mother lodged in Afghanistan's jail appealed to the Kerala government - thenationalbulletin.in",
               "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdlNjM21QU2NTa19kdjFuanNvb0VDWVcyNDRyZHA4dWhGd2twMlJkVkhBd2xPV0RIVnA4V19SVFUybVc3RWY1dUpHb3U0NThyYmE1SHc3QmgzRy1jOWNqV2w5ZHlwQmlMSDBvR2QwWEE5TFk0SkZIUVU1Y3dUVjduZUQzVEI0VDF4RGlIUEFuZ3NIQW56b2ZQOHJYTGV5VC10dGdkanhIM243U2NzdVRsdHJFTDg3Nzlud3VZdlhn?oc=5",
               "published_at": "Sun, 27 Nov 2022 08:00:00 GMT",
@@ -6175,7 +6221,7 @@
           "state": "failed",
           "checked_at": "2026-10-28T19:56:03.655056+00:00",
           "items": [],
-          "attempted_at": "2026-10-30T16:58:24.793093+00:00",
+          "attempted_at": "2026-11-01T09:57:51.192387+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -6185,17 +6231,19 @@
       }
     },
     "764f8dc7125cb8654aed": {
-      "attempted_at": "2026-10-30T16:58:48.286469+00:00",
+      "attempted_at": "2026-11-01T09:58:11.023305+00:00",
       "sources": {
         "news": {
           "state": "ok",
-          "checked_at": "2026-10-30T16:58:31.059891+00:00",
+          "checked_at": "2026-11-01T09:57:57.444155+00:00",
           "items": []
         },
         "gdelt": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-30T16:58:42.286318+00:00",
-          "items": []
+          "items": [],
+          "attempted_at": "2026-11-01T09:58:05.023155+00:00",
+          "error": "HTTPError HTTP 429"
         },
         "x": {
           "state": "not_configured",
@@ -6204,11 +6252,11 @@
       }
     },
     "f351e12f48288b039f56": {
-      "attempted_at": "2026-10-30T16:59:03.425350+00:00",
+      "attempted_at": "2026-11-01T09:58:31.865908+00:00",
       "sources": {
         "news": {
           "state": "ok",
-          "checked_at": "2026-10-30T16:58:48.556133+00:00",
+          "checked_at": "2026-11-01T09:58:11.252267+00:00",
           "items": [
             {
               "title": "NIA seeks Interpol red corner notice against 19 ISIS suspects - The New Indian Express",
@@ -6219,11 +6267,9 @@
           ]
         },
         "gdelt": {
-          "state": "failed",
-          "checked_at": "2026-10-28T19:56:39.255247+00:00",
-          "items": [],
-          "attempted_at": "2026-10-30T16:58:57.425192+00:00",
-          "error": "HTTPError HTTP 429"
+          "state": "ok",
+          "checked_at": "2026-11-01T09:58:25.865768+00:00",
+          "items": []
         },
         "x": {
           "state": "not_configured",
@@ -6232,19 +6278,17 @@
       }
     },
     "79736dd9b31b3c7ed0d7": {
-      "attempted_at": "2026-10-30T16:59:19.694429+00:00",
+      "attempted_at": "2026-11-01T09:58:49.654112+00:00",
       "sources": {
         "news": {
           "state": "ok",
-          "checked_at": "2026-10-30T16:59:03.692909+00:00",
+          "checked_at": "2026-11-01T09:58:32.108141+00:00",
           "items": []
         },
         "gdelt": {
-          "state": "failed",
-          "checked_at": "2026-10-19T11:27:24.653882+00:00",
-          "items": [],
-          "attempted_at": "2026-10-30T16:59:13.694275+00:00",
-          "error": "HTTPError HTTP 429"
+          "state": "ok",
+          "checked_at": "2026-11-01T09:58:43.653980+00:00",
+          "items": []
         },
         "x": {
           "state": "not_configured",
@@ -6253,11 +6297,11 @@
       }
     },
     "ed3af062c83739c32e67": {
-      "attempted_at": "2026-10-30T16:59:36.804717+00:00",
+      "attempted_at": "2026-11-01T09:59:17.867661+00:00",
       "sources": {
         "news": {
           "state": "ok",
-          "checked_at": "2026-10-30T16:59:19.996324+00:00",
+          "checked_at": "2026-11-01T09:58:49.879188+00:00",
           "items": [
             {
               "title": "NIA court convicts three LeT terrorists to 10 years in jail - The New Indian Express",
@@ -6269,7 +6313,7 @@
         },
         "gdelt": {
           "state": "ok",
-          "checked_at": "2026-10-30T16:59:30.804557+00:00",
+          "checked_at": "2026-11-01T09:59:11.867506+00:00",
           "items": []
         },
         "x": {
@@ -6279,11 +6323,11 @@
       }
     },
     "e9cf510b8d8b8de7c6ff": {
-      "attempted_at": "2026-10-30T16:59:51.656815+00:00",
+      "attempted_at": "2026-11-01T09:59:36.427099+00:00",
       "sources": {
         "news": {
           "state": "ok",
-          "checked_at": "2026-10-30T16:59:37.149768+00:00",
+          "checked_at": "2026-11-01T09:59:18.175439+00:00",
           "items": [
             {
               "title": "NIA Arrests Accused Involved In Human Trafficking To US - News On AIR",
@@ -6302,18 +6346,6 @@
               "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdG5VVGtrQklGVjF4R29aNVhBTFZfOFA3VGJFZGg4UVhPT1d5Y1FqaE9jNWdLZXRRSWZXay16NW00S255aVBaNUY2R25vTFFBX3gzaGZ6MlVzMzl0QWRELXhiNXVvekpIUmlPUWF0ZnZFbllYdmd5aEx0bGREWnJ1YXJJaG5OQWZJZXlvajcyMzdjLWtTb2xDcUh1cHJEV1J0VVYzaHVUS0VNNDJDNTl3ekxpSDZGVjQ5dFRfejZXdV91RVQ2Q0pR0gHUAUFVX3lxTFBpd18zRmlacmJhdnFkOHpSeW9nUHFvbERtc0dZYnc1bXlLVHI4cVRxM1l2T0s3dy1BMEEwbDdjZzBXdWdCcXJlcTQ0VmlhOTFNaF9ueTJ6TkkxZ24wUlVZdmxWTE52SWg4MVFKeEZqM2gwRTZlR3pHclpNVDJTUkc4OVM3N2JFUUxBdll2ZHM0TlhaQm52UWlsY08zYk9DTVcyd1p2T3lCdm41bkFsd0JSbHZnbTM1U0JzLXdCMFJJXzRKYVM2a3NnZnJxWDVOaGRZOXJy?oc=5",
               "published_at": "Sun, 30 Mar 2025 07:00:00 GMT",
               "publisher": "The New Indian Express"
-            },
-            {
-              "title": "NIA arrests two alleged U.S donkey route human traffickers - The Hindu",
-              "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNFYtOVo3Vl9URVItNDF0cDhSWlJVbGIzR18zNVpjRXhoOWtZQ0g5NkRGMTNBNE12dWp6ZVdVOHBKSXhoT0J6bE16QTFWY2U0U3J3a1RvMHBaWXBCTUZPUm90a1RDOVVWYXZOQWdmTGoyOUgwYW9JdjlEaGhWNS14YWdDVXB3UTgtY1VhdzZQQ3dSV1FhRlZVYWlJNzFvcTdRNm8wbVk0VVBkTDNRdFhwZEdybDV4TTdseWNoMVhuOVhYVzhFblFGTW5za3fSAdMBQVVfeXFMTWc0ZHR0VkRieFpzQjhyQTZ5NHloN004a1pjVURPTzNvNERtTmJiWU9lVXRacDN4amtrRXNDbG9pMDRhaFQ0cGdtWWdfY3NzM2tndk52OXlYekw1ZWx3MEd2VmpId3ZqbDZkYWk2cFNod3NoalZGUWw2NHhaTUswcEZZTVB2MlZHVGNNcXpIS0tHOTRPQnprVUUzRHVpM0E4T1JKNDczYktoMDY3YXhGWXhyQnNSdEFRQnZ2TktscV9pbU9mYy1vajFnM08yTzQ4Uy1uZw?oc=5",
-              "published_at": "Sat, 05 Jul 2025 07:00:00 GMT",
-              "publisher": "The Hindu"
-            },
-            {
-              "title": "2 Men Charged With Human Trafficking Via Dunki Route To US - NDTV",
-              "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTVh1dDEwMFRjUkVhT2NpT01lME9GSVJ4MmY5XzhDZnkwOEtkcjVFdDBvZzNzT202Rk5YS00wVi1RWWtGZGVYQVlkbjItNTE0UWRJSXJvZHB2VV8ycXFBQmR0WWxpU3hXU2tjWHdTTjdmd2xIWnR0YVloaDhZNm1FdUoyeUlfVGFLeXpQT2thaW1BNWR3UmktMkJxNERMWHfSAacBQVVfeXFMT3FOQWpaaEJBV2pSc3RBRUlsMENyVVlFcmdhN1BGeEsycUNzYnRhbWg3ZFp3MlpHNk1icGF2LUlhLXFkN3FRRTR6SXRvRHdXVWZGZjdVdHdlbUhZdXBBZUo0STZuSVY2djlXNUZvZGU3R0JRLVptbW9HS0RqZkJtLUxMQ1BkRS1VWTlwZ0NCSlVuTjdpTE5hZ0RSVEtyU2tZV1p2Z3AwVkE?oc=5",
-              "published_at": "Thu, 02 Oct 2025 07:00:00 GMT",
-              "publisher": "NDTV"
             },
             {
               "title": "NIA chargesheets eight more, including 4 absconders in LeT linked transnational narco-terror case - ANI News",
@@ -6340,19 +6372,29 @@
               "publisher": "Organiser"
             },
             {
-              "title": "NIA chargesheets Goldy Brar, 9 others in extortion-cum-firing case - Business Standard",
-              "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONHpKRnhTdkRwRXlVZnM1bHc2Z3J0bzBjVVhQdHFsWDFfbzRRa1NNOGg2ZnIzZ0R3Qk1SSEZMNjVrNWdqOXFMZElMbV9HdTlzQkxWR3E1cTR1WDJWWnFxNXM4bnR2SGFab2FvaU1MQ2pjenh5S0g2d3hoNGhEa190ZVZWM1ZVNWNhNXlNOUhMT0JDbjJQUzg4YWhLbnliVnJpczNxWkd0VnI0X0JYQi1rXy1LcmczVEhPdUdtcVZHMlR2blBSd25xTDNR0gHPAUFVX3lxTE5RRnp4bVZoaTJ0eW1PVThGWjhlVlRrSTJnVE1pNEpORnR0TDk2UDV3blZwdjI1Z0hHeVV4YVhaWTExejBPVnJmSmdIV21jYnpGMld6UFF0NVFTWXlqRU1Reml3bFNmWEpuMkl0eks2V1k1ZHMyT3FUdkd6OXd6YlBDVlBvekFjY3JKdmZRRzBrbnZ1cktucmZnR1ZrSHVGQXhka3NFWkhmQjlRRndiVDRNZ3U2UTlBcHZqZzloZUZQTjJNSUMtdVBKUU9lVmRRZw?oc=5",
-              "published_at": "Sat, 20 Jul 2024 07:00:00 GMT",
-              "publisher": "Business Standard"
+              "title": "[Ludhiana Court Complex Blast Case] NIA files chargesheet against 5 persons before Special Court in... - LawBeat",
+              "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVGhsa21ZbG5Nb0hLRFJzajB3MnZ6aXpvemxpXzdVRDE1T1JtdjlBY0hTTHFnZVEwQ09NWHR3X3FXTkdSNzdWcnlrdVVPZ1ZSalNySnhiVFNETFk3SjFZU28zQ3VrYVFIR05JSnF1X3hOcWE2VmJSanYxR2s3RUVpaTFNWGF3UkZDUjdmX1ZLT0x0c3owRWtfYWFJb2M1MHFxT3ZhQjVHeTkteXNNQlNYMm1ibTFvQWs1VzNVeHUxM0IzOWRO0gHKAUFVX3lxTFBpb200SmVKeWJGSHd2MVhra3NESV9iQzNEZ29mOERnT3JCMXlzdXBoM3JSaGc3cXByWElaYkY4VDVMVE0zVTlaTy01LTdQb2lSV1dJSWJDTHpacGFhQ240Ym5QeE1aUHp6ZmI2VWFEQXdCeDY5Z0ZVNlZaaGtKRDJhbHBaNGJYYlBucDJZTGJEdjZjb1RadFdlMllCN0N3cmE1N2h6VGNac3Ntd0ctdWRiT3lUeHctdzE1VVB5b3BwcHh0VXNQVGxETWc?oc=5",
+              "published_at": "Fri, 13 Jan 2023 08:00:00 GMT",
+              "publisher": "LawBeat"
+            },
+            {
+              "title": "NIA files supplementary charge-sheet against 4 Khalistan Tiger Force operatives in recruitment, arms smuggling case - ANI News",
+              "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPOXFFSmJkb1pHeEh2X1B1eFlHTmlVX3FDWnFtVEtKUnFJTDJVdVpYZG81ZHNydFloSVhGeWJvbnR4eXhLOG10azVtU0RBSE1BYlRqQ2ZycHRkN2RQLTJYSW1LSnhIYTlURUlPaFFJRWNlakhLMmd0Njh4TkxEdnBZTUhGT1Z1ZW1OVWs3U0lsT2h4UnZIVWpPSEhEcnN0Z1hmSUVXZF90dU4xS0ZZV19rWVRHaTFGc3VTaEI2eHQtLWtLQmJIVUppck5jdldsMjZObEtrQXRIRjVvNDBSU28xVDY0dEN5NWY5czhQM0V1N0pEVFpUa0Z4TmNGQ0s0S1FfYnlyUDd5NlhMdw?oc=5",
+              "published_at": "Sat, 11 Nov 2023 08:00:00 GMT",
+              "publisher": "ANI News"
+            },
+            {
+              "title": "Gagandeep Singh Wasu is NIA’s spl public prosecutor for Punjab, Haryana - The Tribune",
+              "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWHhKY2I0aWJNaWppa0h4VTI3dUxUS3R6YjlmSXNxSFFXdzEzWHVoNTBwZTh0MElDSDFsaGp2YURQUUU0U0hpN0lfZmxZbnV4UFVlM2YxNWRyb3cwY1kybVJPRFhSYWh1Ql8wTDROUVVVY0FUbkktQjdMblpoTHVhVXREakpfbzZzSDNtdlNMZzlXZVh3SF80blNTSzVRNkl5cm55U3o3SXJUX0R3MGxTdm9jOXYtSV9oUUxV0gG_AUFVX3lxTFBXd0Q3QWFMbFgwR1dyTFBVZTZrMGlYV2lxQ1djMDktUW4tUy1veXg3V0hvYjg1Tk5XZGhNT2x0V09PRDZOOEE2REVXakFKZndRVmxqOXVIVkw3Z01fc1pzR3VPY3BfTE1TMFlTaVFfTzdhR2xEclNnVEFYYUVfUkptd1NLcU9FRWhWWkRNbmdTTXdDX1Jnb1RvUnFoSWx4dVB2V25oYkVZNnc1MVNsRjFDajhiVE5vWTM0aEgwR2dr?oc=5",
+              "published_at": "Thu, 22 Jul 2021 07:00:00 GMT",
+              "publisher": "The Tribune"
             }
           ]
         },
         "gdelt": {
-          "state": "failed",
-          "checked_at": "2026-10-21T05:17:16.715240+00:00",
-          "items": [],
-          "attempted_at": "2026-10-30T16:59:45.656659+00:00",
-          "error": "HTTPError HTTP 429"
+          "state": "ok",
+          "checked_at": "2026-11-01T09:59:30.426957+00:00",
+          "items": []
         },
         "x": {
           "state": "not_configured",
@@ -6361,71 +6403,71 @@
       }
     },
     "3caea520287767374718": {
-      "attempted_at": "2026-10-30T17:00:06.990381+00:00",
+      "attempted_at": "2026-11-01T09:59:50.838301+00:00",
       "sources": {
         "news": {
           "state": "ok",
-          "checked_at": "2026-10-30T16:59:51.991743+00:00",
+          "checked_at": "2026-11-01T09:59:36.779215+00:00",
           "items": [
             {
-              "title": "NIA to probe mid-air cockpit attack on Captain Smit Machchhar in flydubai flight - The Hitavada",
-              "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY0lwUDFCRUNpdG9NR0V6NDBJNGxjZDVxQV96RXdILXY1d1VHM2gxYnppWlZHZ2JNUVg3STk5U1p3cEFIUGlDTzlYWWE5ZHRBX0Q0cGsyQkZKYkJBcnRheG5uTlhaV3NoSEZIVHZfTG5odVFMSnc1eVJrX24tbk9zVTExQ1dZZTFnU09Gd3BDaHlZaWZTV2dLb0hKdGJLNmx4NTY2TUFYMldZa0hzaGhWZ2UxeDFYenhiVjVLSGkzX1JXNUhsSnFaOHFB?oc=5",
-              "published_at": "Sun, 11 Oct 2026 03:43:49 GMT",
-              "publisher": "The Hitavada"
+              "title": "NIA chargesheets ULFA (I) chief Paresh Baruah, 4 others for IED blast plot - Rediff",
+              "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNURLeFZPOUQ5NmNodk9MaG8tM1lCTk5kMG5FNHFsd213aV92SjItQnZqejJwV0tXNHhobG42YV9aYUJRUlZBYV9wSTFrUzhGRW00TG92Sk9IWDY3OVpoczZyamxkLUFwREJ3dTJueVIwcHJSSlRuc1hvYnllUkMxSUlvLW5zWERfYVlTT2tfeDZmNW5QR3R2bHpINzFCc2gwa1YtUmtzQ0F1WGRyLUw3U3lSTHBUal9RMG5UUG41V0lmS3FlSzhGX3lRaG03amdWcWFHZGltVmduS1VxVk5pTmJac1I0N0hKTHpN?oc=5",
+              "published_at": "Fri, 16 Oct 2026 07:00:00 GMT",
+              "publisher": "Rediff"
             },
             {
-              "title": "Land along Ganga e-way, airport link can’t be sold in Noida - The Times of India",
-              "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRWoySG1IcmJSNGQ0QVNKNk5BVFRZNU5QM3ZLa1VFUUV0dDMybmVhM3FMSUZJdW1nM0lZaWhoeTk2NlRuYTdWV0VoZU1CamYzekp5U3pDZUd3NjdBZE9rVTNvbjQ3UC1FTHdLOVg0M0I0OF9tNDcxbFdsZms2elh2MXNMQnd1enUzbXJ3bEd6RmNWeWgteURMU0NvQlkxVEFpeUZTaXF6Y0pJSWN0Wms5b0o1UndCeU01SXk5c3Y2bFM4YUl3aUh3Mk930gHPAUFVX3lxTFBDWmMzdFhTTzV2Q0pwWjdKdDhTSF9sbFJObGp5anhmRXV2UFl3dDFsekwzNGppWURTRF95anFCbGdzMnd3QXlVRjlZS0JxWDlqUGtsTHp5ZzBSeWYxaGwwZTJFenJtMGdIMUg4dXc4NDkxLWxYX0dlREtURWlpZHRoUkI5cFlGMFB6M1hsZTlCZE1Cdk9uZF9kdUc2MjFJSlF6WDBJQWVmSTdRNHpaR1k3VVZGaEN0UGx2SE52VEJSV0ZsYXhfaWFtcWx1ZjJsdw?oc=5",
-              "published_at": "Tue, 01 Jul 2025 07:00:00 GMT",
+              "title": "Arrests by NIA: Ex-CM Biren Singh questions if political interests worked to destabilise Manipur - Press Trust of India",
+              "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVFFCZE00Y2lLUFVYTTBtODR4cEk4LTkwVXJJUVdtWVBkVmo1RHphOW01ZUREM0hiV0dmMWtobXZNMUlXOEJaUnJPcFQ0dkZNbTJ5cHhzU3dXZlVac21yRUszNUotSklYYTlKMmtRaDRIRE1ZTW1iT0ZLeGYzMWdia3JBdkprbnlYTDNSY2phZ29RcXdFTXItdzlMaGxUcWZRbFNBQ1BuRHZXT0Fnak5GQ3BPN3lqSU05TUlGU0RPRDYwRTNtSnVIaExldXZObXJIR1VkTkkyQlBDZw?oc=5",
+              "published_at": "Wed, 30 Sep 2026 14:10:17 GMT",
+              "publisher": "Press Trust of India"
+            },
+            {
+              "title": "Ebola in the DRC: More than 4,100 deaths recorded in 7 provinces - Outbreak News Today",
+              "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMHdRQTVQck4zalczM0lmRFQxX0VjeUtzblU4eVFMM3RxTmh6NDlBVnJtanZuZGZtV0dTenBPeE9aZjN4ZDJuVFFoNGNrU2dNVnZaODhoYmZBY3ZUQjdsZzQzMW0zS1B4SVF5SDBZM1dYRE9hd0YwM2p6eWlBaEpkaGUySl9nZw?oc=5",
+              "published_at": "Wed, 07 Oct 2026 07:00:00 GMT",
+              "publisher": "Outbreak News Today"
+            },
+            {
+              "title": "Fresh NIA raid at residence of Saran councillor - The Times of India",
+              "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZVZYM2hJYXBWSGU1NS1vR19iYUNUSUJzdFJReTdlMXM5TmpGbDNtZHFQcktBdkhlSC10clFVckdManE0VG91d3FMb1ZnUWptS3h2QklYSXB4V0lucEJ4ZEZmdE9maF9kZ3VmSlQ5eXloWmRhdlc4N2RsT1ZDOG9nenhfd3ByM0xNTDNKZnRwLU1MS0NXeHlQTnp2eUc4TllleThtcUJuc3BMTEl6QVh2a3dzeHJEQjRGb2drSdIBwgFBVV95cUxNNk84Z2R0YVI1d1BUUmRrU3FvSG1TRXlCd2pwVGxKamRoMUpEWWZCaFQ0U2czTnNObVZDUzRySV9CQm5SVU9aVFpEVVNGbWhzRXZhYUpNZGNQV1VGMmZrSXlVQUpHWXpEYzJMNkdDdGF0akpiQko5S2pwQWpJQU9JTmdMOFVQS21lbUlyeXJDTHFfalc0enY0S2F3N1RIWGc5dlZnTXFka3h1ZHhGQVFCYkxFVFFxTTNpQ1dCcDRvaDVfQQ?oc=5",
+              "published_at": "Sat, 22 Aug 2026 07:00:00 GMT",
               "publisher": "The Times of India"
+            },
+            {
+              "title": "NIA searches residence of 'white-collar' terror accused in J-K - Rediff",
+              "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTjNDWTF6WUhhRmNBZVZCMXd6bnZiZjFNZkNNZU94MUVVS0ROUkxzNkRYb1lUWU5vOEhOOFJFTVJ5SVRzdVpIZFVsTlFMcUpqZ2ZiYnZLa2VDSUR2X1NCOXdlaDM5SUgxWThiTnhqU2ZtdTFuQ2RnN1lyelRTSHpESzk2Ti04SDhOTHJvZjd5SUk4SHE5eHl3MDJtcmxYSVVMWnFMQ0RzUnRENWMxUDE5QW02RnJGNGs1dkFzdnltRHl0eVJwMWR2OFVTTmUxOGZUZjQ4RUNlQkRhbUk?oc=5",
+              "published_at": "Mon, 07 Sep 2026 07:00:00 GMT",
+              "publisher": "Rediff"
+            },
+            {
+              "title": "Ebola case tally now 7,200 confirmed, 3,475 deaths - Outbreak News Today",
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTUxrWHRKWTAzMUhlb2pGZnhQTU1HNVIwSVB5WHA5STByZHlleklqSmo5Y1NzdVNzaF80dUJXTHZWQ2lvRUYwUlV6d2xDVUtVSEZ5S0hpcEk1SmtocFltQjg3REpxTUptRzFoSF9aZGx6X1g3T0Z2aDRYM2JOSTlTR3hB?oc=5",
+              "published_at": "Mon, 14 Sep 2026 07:00:00 GMT",
+              "publisher": "Outbreak News Today"
+            },
+            {
+              "title": "Noida International Airport will become launchpad for UP's bright future: CM Yogi - The New Indian Express",
+              "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQOTVITU91aVRuWTdCMWlDUWk1OVJMcjBnWGtpNzFiRUEweEwtQXdCSWQ1cW1wcW1uaG5SV1BCQVg1RXMyQTZ4WlJvaW1aSjlRU3VXbTFJMHRXM1VGMzUya2JGSFdEYXpuejFmRENmZmhWTWpEZ1NwcG1HeDBwNlJIWXhxeWlZTnotVWRZSGQ0RnJXM2NYOUJpdE8wdWYxN2RITlBGX3BkbHJzMHpKVGVWLW43dHRZd0NwRVhfUFpmUExEX05xN3UxaVRaeTRfT3Q0Vmd0MEhqV0k3aF9PVVHSAesBQVVfeXFMTl82MFhOMkRyS2xKZFBBV0VzY25FeEpjV200OXlUMzFqTzRyZ3BDWmdzMnkxd3BBeEl6RTRXYWNwNHdTMXotb1BxdzRUOURrQTlqem9sWVlPQ0hjaEJsb0hFM1ZzUm1PNlNyRlBmMUlfRjVpR3Y2cWhLVGhIS2hOS293T0FrX3JkaE53a2V1VmZNNGY0NHZsQ2hwekh0RUpOWWVSWlJhRzRJdnhRQm5UbGZ4bjR4b1VBS3RHd09Iam9mMV90eklXaHRuM0txN29hdlV6b1hGNU1HOUczZUNMSmNNTXNtMmpHQUNhbw?oc=5",
+              "published_at": "Sat, 28 Mar 2026 07:00:00 GMT",
+              "publisher": "The New Indian Express"
+            },
+            {
+              "title": "Uttar Pradesh set to unveil ₹65,000 crore infra projects in January - Business Standard",
+              "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWDExTlc4a0k5WVYxNThDMnBrSGJBY210T0FraGVfV2k5VGRsS05OLVdxUzRUUnZId0EwdGF3dkgyQnRoLU9NTmJqVWlhQWhjV084RjF0bWxBY0RiTWRlWi03RENLWGFIbDM1aWdPTGp3RUYyOEI3bEs3QmNuTUJiY0Z5V1FKRURpSldzYnpUdlQ5QzNBTFlxUEl6dlVwd3RpbmliZEZTd24zWW9ydDNLc0ZUZURGZUJMWlZFWHhxaThobmQzSFRPcWRIekZTVk3SAdQBQVVfeXFMT2E1MlNNbzlXeVA0MzRoeENSNFcwY18ybTNuRTBSemUxZGQ5NzVGQ3NZZnYzV0J3cUx4Y0ZhQkhDSnVpYm5uVmlNOTlZbTg3azEyQVlWMjFEQ1RBbXlvYXBYa2F5cHZTVkpMaUxoR19lRTdVemt6Sk91Nzk4WjJLcjdROFVpSmFsN2dieGpHM19lV3lUYnNuZzFObURoNXV3OEF2RzNoUWk4a0gzRXdCOWVPaFJsRkRLSGRjM3VDbVpWSjU1SVE0SmtUNnlxVXFOY0pkZ1U?oc=5",
+              "published_at": "Mon, 29 Dec 2025 08:00:00 GMT",
+              "publisher": "Business Standard"
+            },
+            {
+              "title": "First holy bath at Prayagraj Magh-Mela sees 9 lakh devotees: 2 fake saints nabbed, kinnar saints wave tride... - Bhaskar English",
+              "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcHNQQ1dudnBJa3UxdHd4cmp2emdMZy03V3hMQUNrd3RlVlhzOVhqeUJTekh6aHB1UTU1cWRxczNlQjdIQWZVTTNSNnFRSjc4WnhhaXNGRmZiS2RfeGRDZ1hnVmdweDdOakpCXy1CWlMyNEFWWDRWNl9RS2pEWWp0UEdDMlhXeldHb3RTQmQxRENTTlJmRnRWc2UzR1dTVXU1Nm04Wm55d1dvWkZZZDl6NnJjZEM0R1JIX25VdjJIZ0RZUGl5YVIxZVRDRUh3THo3a2xCdWpBNjVtcEgweHfSAeMBQVVfeXFMTmRxR2UtVkJnMkxqNXBCbFZ5SmpaQWx0UzdPSWpRcS1MMEF0ZDRIZFRoZVVYWXdyTHgyMG1GSll0M2hGdkVjRGxfTHY1NV9ZVWxScUVRVHBOdEtuWVh3eFQ4OGkyVEpGbjduckdxSWRCVGhHZExDZEVKUExWT3dQa3ZqT0RyVTV0Q2J3UDZrcEJ5cVAtMWlBM1V2a0FCUjA0LTBfM3dkcmhLQUxQWWJwdEVkaC1HZWttZGNYREtITnBmTG5DNExqZ0ZzLTJOdHFvb0x5OFlDb01YRm15S1JITHZ5Wk0?oc=5",
+              "published_at": "Fri, 02 Jan 2026 08:00:00 GMT",
+              "publisher": "Bhaskar English"
             },
             {
               "title": "Rs 4,000 Crore Link Expressway To Connect Noida Airport With Ganga E-Way; Land Sales Frozen Across Alignment - Swarajya",
               "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbGV0NW9lMVVQRUZ0TGpsN1RVaEQ3UVpKUnM4SHlOQVlMcXM2WU9xNERSbnVHbl8xZFhkd0g4MjNCVjc5Q0tQY0t0NjNKSk0xbEpPZFFLTkoxR3V5Sk5uMkN6Qnd4N243cHd0NXlPaTQ0Q0tXNlkzTWFEYm5IYnVWZ3Q4M2I2UFFONm9HQlk0cHlQelk3YkFTTFlVVTB0M2hKRGg1eHV3Y1BGUlpYVkw0eU1ZZzM5eXU0aGhCYU5IMTlDdGdIZ2RJLXI4akVqNkYxWTJEeFotSE7SAegBQVVfeXFMTkc4a2FaNk1xUGhoOV9od0R0T1JaZE1DUmd5WWlLcFRsaWRlNnN4R3NwalFJNE52QVJ6RXRpV3RUdHlQZU9FVVkyM0dzdjJJYVJBR3hZd0hqYnVLbVpmamEtS3pydVg3cnl6MjRkOXRtYks1bG5lTkVsY3E1d3NheE5DYlVqLVZFZnRWeHlabzc1dEZaWWNzUkJFMUZiX0xwUEU4V3M1Z1VybVhxQmdkaW1vSm5PV0FTQ29tYWxKSVpWcTNzOC1WZ0Q5aHVlaUtFZDJVSmpfcjUtOTVSZXRTWDBJTXk1bmEyUg?oc=5",
               "published_at": "Wed, 02 Jul 2025 07:00:00 GMT",
               "publisher": "Swarajya"
-            },
-            {
-              "title": "Matthew Van Dyke returns to India, appears before NIA court - India Today - India Today",
-              "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdzhVczVmV2FDVnZxcWNjdTlvb25yUklYOFZPbmk0elR4Y0xlNXNtbjRtMk1scUhrbDY0ZGVyRWFJOE1OWHlyUTJpS0loUXBnMnVscGxMSEpQSmJIejdWanN6TWJzY2pyRk5SNUJIbkFRTHRfbUdZVGYtX19mZHk0ejBpOXRxeE1CXy1zRHlCdDIzY2xtemdPd1lkajVXNDFxREUyWW9tbmZ0T1BLb0h3ZHpXR0FtdlJjMURwb3h3NVTSAcYBQVVfeXFMTl9HU2I0dVlzUzdWS051ZmF4STN1ck9tXzQ5b19NZFVsT1dvdGdMNkZnRW12Wm1sUjk2ZkNvaFgtb0FQYWc0WHJGNmJVRktSYUI1MV94OVJQSi1jSGpDZ3FWbTRVdW05RmNhZXpkdHRjRHdaTTFhai1WNkszd2hZeEZFYTZfeng3akhiSmpxdDFubUxiYWRCcnpmMnJiTlgwcERQOXZwRE9wVUgycGc2TVVhOHpFWkRnNk9VckZtazFkQkhQWGJn?oc=5",
-              "published_at": "Fri, 23 Oct 2026 09:40:25 GMT",
-              "publisher": "India Today"
-            },
-            {
-              "title": "NIA A YEAR LONG AD HOC ARRANGEMENT ENDS DINKAR GUPTA IS NEW CHIEF - IndianMandarins",
-              "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdkxDa3AzOExKM0R4T3pnVm01VWxoWHBkOUtEekt0WGJmTzJQa1Y4NFNwSzVEaTZuMjVpNjhOUFlCZ0p3bUtpX3JyQ0xhWWZTOWxieVNqdXg0UC15NXFTVU9XbEl2TUFGczhiTDMyb0t4TlJZOFdZVnBUdk1BWlF5eVA1c3dZekRzZWx1Q24yVVVXWDVGQjN1ZnNVRURaN1NoZ014SDN0X0RicFV4?oc=5",
-              "published_at": "Fri, 24 Jun 2022 07:00:00 GMT",
-              "publisher": "IndianMandarins"
-            },
-            {
-              "title": "MEA reiterates Ganga Water Treaty discussions held under Joint Rivers Commission framework - malaysiasun.com",
-              "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOLU1rVWNoVWNuSW5uOHJrWTYtZzRUeDM3NV9LekRzZDlLR19OQkVFTV9MbndJT1g3dkR3ZVpuc2VZX0NjNDIyblpieXpDSDN3YkRGUFpfSDdQREthZTlyM095MHo4aDBGcTFqRFNnMGZyVEZFU3BwbkNRVnFnbjBzTG11SkdfVlQ4d2RRLXRTN1pPRng4OEVhcUVyOFp1ZFFieGNNbzVlWG93akFxYmZ5YVJQalB2dW1jNXcwMmJQajRRSnpMNDdicHFoNTdDdw?oc=5",
-              "published_at": "Fri, 09 Oct 2026 16:19:00 GMT",
-              "publisher": "malaysiasun.com"
-            },
-            {
-              "title": "Ganga Prasad Chaurasia sworn in as Governor of Manipur - The Assam Tribune",
-              "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTktjZDd6ZVpHZVB5eUJnZmk2SlJBRGtkR1lPV0ZkTlJBYldEV1JLYnJ6Vk1zeHppWDhfcjAwcVVZOFdRLXFhUzJXWkNRSGJVQWp6VERnSnhBcmkwdHNQRy1sYkpSVklWZ3ZBTUQ2V1VldzZ4RjNTYi1hMU1OZ3hSZldsVnpFYW03UHE5QktDNklVa1NDckgydVVrVnB6WW_SAaQBQVVfeXFMTThmeWJ3eW9EbUpCWVBxSUpPR2NzWl94dTQxU3plVnBnVnlkeHc1U2d6aDQ0RmF2UVNHUU5WYmxnMWg5empvNkRrc2NBRk9MbUsyQkUtODhscFdGaDNKcXRoRlFfVWFHbkF2dmRrWTN1MktxMXBDQ21iWE1meVNzU1JGdXNfb0V1NFF4VzV5c2hSdUhsQVp2VXFpcEhVbFhkcTV4d2k?oc=5",
-              "published_at": "Thu, 12 Aug 2021 07:00:00 GMT",
-              "publisher": "The Assam Tribune"
-            },
-            {
-              "title": "BJP trying to divert attention from NIA observations: Ahmed - Business Standard",
-              "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMEVzZGhNSnh0SnEyeDFkdFJramhNdXdweEdRb1ZsM0NEUmFjYVlZU1pLZF9xbmEtNmNMd19FdWJBcXdNNFNKeEJodHl0OXZZUUhEZ2ZGWlNXOFNWT2tpeG4wRzZ1aW9KV3Mzd0VIbzRpOEZROW1VY0JuQUVJMzRobno3Y3JQamNNZ1R5bU9pMGJvT0ZUVVRPalQ5UDEyakRtbE1BblBibXJVRWtoMEVDRXcyM1VJOWVLNFNrQjViTXVKTld2TkkwcNIBzgFBVV95cUxPWkhsYXAwdk16S1pUR1FhMFVJUUxvOS12ZWJ4c1JQME9ZYm8wX0YtMUFTdVpWcE92bmU5YmJmS2VBT3l0YklIQVhwLW5KUnBZY0t3RnVNZy1SVkVjOVE4VzJtaUlxV21vTkU0VnEtLTE0MC1nc3djeW5YRXVjSzhBWmE4a2FfMmhYU1g3NVdiZUtBVWFyYUhheFFZcXluMHhuUFhzV19obkItWFJIdEd4Q1JMSTdzdDBoQ1RDbFNZRkM0Z0d4dm1pOHJQb3FSdw?oc=5",
-              "published_at": "Tue, 23 Jul 2013 07:00:00 GMT",
-              "publisher": "Business Standard"
-            },
-            {
-              "title": "Lakshmi Niwas Upcoming 26th October 2026 Written Update: Veer’s Ultimatum Leaves Radhika Heartbroken - TellyReviews",
-              "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMjF6TWl4QnFmbzNQdTVuNHZYeXBobUthb0I1Q0sxUExSMGhMZ2FWdzZQZUtIelVSUVg3bE5xOFlyREZGby0yRWxYcXkwT3hYN2d4Y0xEeENDRGdnd1BtUkF1eF9sVktkUU51UmR0RjlhakZrVWRXZkVOdTM3RGl0eDY5YjRYcXcxQkNNa0tKQkhUME5QeWZBNzhqajlUU2xKazlHdlRwRjhPajlqUzNqLTZCdFU2SmoyazZvTmlmSXozUEhzV1lJbGlWQndGeFFm?oc=5",
-              "published_at": "Mon, 26 Oct 2026 13:05:53 GMT",
-              "publisher": "TellyReviews"
-            },
-            {
-              "title": "Varanasi Breaking: PM Modi Witnesses 'Wings Over Ganga' as 100 Aircraft Showcase India's Air Power - ABP Live English",
-              "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRG1TbC1qSGNKMjlnTU1nd3VRdjhCRG1XQXVmNGZEbVdDZGthSGp2dlo5bE5NaDBuWUZKUVBNNUpDcHAyZTZJZElBTHdISDY2Zi1wS2lZWUpxUjNvYjFOQVN2bVNHR19JM3ZrOXNLX09yS29GNGQzUWFxeUxNbHdkbGx6SEtMYW03TGdsS3RJNkplRXNrT0FQWEhWbmt1bDZzNVJETVlsN0kxdXdHTHlfMWYxbWduODJmR05jUzRNRUJWY25kUFBiZ0kydGJqM2xhYzFBTzBaUzZHa0Y0YXJV0gHkAUFVX3lxTFBWMlNodXhyODZGUzRMcUtnVUFXYnRnM2d2b2stZUR4S28tUkFMTV9jbEF3V05tbThXWTdvVGVQZ0JOV2g1alhmUXpYcDZXYk5uNEdRZnR3aElNQXUwM2tKUl80RnN2bkNSaDFuaENwbVRQTC1OZDVvNGgzLVQ3X2wyaFlHWktJdC1LMUgxSVZIUmVweGtOcmFCczBzMVlxMFo0UGxwV0g4OVNOUTRjU0R5MHJLN1psbWVGcnlaZXRjYktOUk5nR3lGWXFVa3JaX1dpX0dtYkhndGNUb3BINU9BZG41bw?oc=5",
-              "published_at": "Sun, 25 Oct 2026 09:01:24 GMT",
-              "publisher": "ABP Live English"
             }
           ]
         },
@@ -6433,7 +6475,7 @@
           "state": "failed",
           "checked_at": "2026-10-28T19:57:42.453695+00:00",
           "items": [],
-          "attempted_at": "2026-10-30T17:00:00.990187+00:00",
+          "attempted_at": "2026-11-01T09:59:44.838177+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -6443,11 +6485,11 @@
       }
     },
     "7d52ae84f8338cf6ada4": {
-      "attempted_at": "2026-10-30T17:00:48.739942+00:00",
+      "attempted_at": "2026-11-01T10:00:04.847376+00:00",
       "sources": {
         "news": {
           "state": "ok",
-          "checked_at": "2026-10-30T17:00:07.370208+00:00",
+          "checked_at": "2026-11-01T09:59:51.189060+00:00",
           "items": [
             {
               "title": "“Links with Pro-Khalistani outfits”: NIA files chargesheet against 12 accused in terror-gangster nexus... - LawBeat",
@@ -6480,6 +6522,12 @@
               "publisher": "Hindustan Times"
             },
             {
+              "title": "Neeraj Bawana a.k.a Delhi's Dawood Among 3 Gangsters Arrested by NIA in Terror Conspiracy Case - News18",
+              "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRHFBNUxwcjE0a2JSUXo1YTBjQmVJRWgyRVBLRlQyQndMRW9UWjRidlE3YWZiRG85LVpFenNGemxsU2tGZ1hHQnlBdDlxaWxQYkliZDcwckFZMVhvN1VCNkVvRGU5SlMtSExaRmF3akRlbjl5cHU5RWZnaHFxMUZ2QVByaGdPNDRPdGVaSm1idU8xSFhXVm5SUEpELVNvN1dmS2FXUVo5eHJya1lqVVdKeXhtU0xfN2FmOVhqcDA1QnRHU2xvZXNxd0d6Q2tBbUtsMUlOa2tid9IB3AFBVV95cUxOSWlGZ3FLb1BuWHlHX3RLZlNlRnliaG0wUEZScXUzNTBCdkI0ajVJcUtWc3gtYmF4TFlSWHV0Q0pxdWxFSGZwVW8xOW1mQ2RRTURlY2p2SHVFS0x1Vy1rYjNEaWFnaTNGNlluMk56d21aa19odnpPS0JKQ2JjRldpOW51TmhBa09vaFd3aHZYUlFMbV9vR0JGaW0yc1N5UG9TVjlsWE9mRGVENDIyV3hUdElFOEc3elhKUy1zcTl3eTRVdm9rRkJYblROVDZKT2dMb2pscjZHQkZEQl9i?oc=5",
+              "published_at": "Sat, 24 Sep 2022 07:00:00 GMT",
+              "publisher": "News18"
+            },
+            {
               "title": "Hall of shame: MHA says 25 of 28 gangsters living abroad from Punjab - The New Indian Express",
               "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbmltSzFwWGJpNU95eFZvdE4xSTF5Um9mV3IwLWt2Y0FmZ2FreXprbnB5RkRueXJidThVSmxFd0syTUIwMi1nZFFqd0pBYmpfUTcxYXN3dHV4dk9tNndYOF9kdUU4VlJKRlprN1pvSVNGR25KWEJoMkdjYXVpam5MbGl2cUUxWHZxWVFVNDJnd2dDdnRxa3lVQ2dNVm1ydllJRXlzWExQbjZ0enpPbnp0andZWFdNaGZMSVotNkNISllUVDhIcEIxalNtc9IB2AFBVV95cUxPQnViY0cwQmU2djdBcFFpUTBTSzVWNE8tNVZSM1pHTU45Mm1jaHFsa1B2bnZtUm1LeURKeVZheko0Xy1XdDZZYi1icTBnR0dKY0ZiSzQwc0lEY3Fja2JVWWZWN2hNTzhBRnFWNThYTzdzNkVlRVAzek92UmY5MWt2MGwxUHRhN01uMVo4MXJZbWxBN0QxYzllX0hsaXZQWVEtWFJENm8xWmxsTVdxSUlDSGV2MlNGbFBrZnhmbjNndXEtQW9HOWEzRlhqVDZQVEdPeU00Y2FaOG0?oc=5",
               "published_at": "Tue, 04 Apr 2023 07:00:00 GMT",
@@ -6490,12 +6538,6 @@
               "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRG1oS05PZGlMb0t1MVZPa0p0VTdkdU1VV0xpYlRrbkpyZ0lUcTN6TmNUODFOcm5hcE0yZ2R2bnlETGpYbU1IcmFmbVNhV3ZCSjMwVHNaaWlaMUhzX0ZreE9SSVFVdm9wM3d6Zm01eEFERWk2R2t6dW1LOHo3UVlYMURLemNXMVJDcnVYaE8yajVPcG12X3JJeU82TXVKNUVhRG9IeTJWNEZLTDg?oc=5",
               "published_at": "Wed, 20 Sep 2023 07:00:00 GMT",
               "publisher": "Prudent Media Goa"
-            },
-            {
-              "title": "Neeraj Bawana a.k.a Delhi's Dawood Among 3 Gangsters Arrested by NIA in Terror Conspiracy Case - News18",
-              "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRHFBNUxwcjE0a2JSUXo1YTBjQmVJRWgyRVBLRlQyQndMRW9UWjRidlE3YWZiRG85LVpFenNGemxsU2tGZ1hHQnlBdDlxaWxQYkliZDcwckFZMVhvN1VCNkVvRGU5SlMtSExaRmF3akRlbjl5cHU5RWZnaHFxMUZ2QVByaGdPNDRPdGVaSm1idU8xSFhXVm5SUEpELVNvN1dmS2FXUVo5eHJya1lqVVdKeXhtU0xfN2FmOVhqcDA1QnRHU2xvZXNxd0d6Q2tBbUtsMUlOa2tid9IB3AFBVV95cUxOSWlGZ3FLb1BuWHlHX3RLZlNlRnliaG0wUEZScXUzNTBCdkI0ajVJcUtWc3gtYmF4TFlSWHV0Q0pxdWxFSGZwVW8xOW1mQ2RRTURlY2p2SHVFS0x1Vy1rYjNEaWFnaTNGNlluMk56d21aa19odnpPS0JKQ2JjRldpOW51TmhBa09vaFd3aHZYUlFMbV9vR0JGaW0yc1N5UG9TVjlsWE9mRGVENDIyV3hUdElFOEc3elhKUy1zcTl3eTRVdm9rRkJYblROVDZKT2dMb2pscjZHQkZEQl9i?oc=5",
-              "published_at": "Sat, 24 Sep 2022 07:00:00 GMT",
-              "publisher": "News18"
             },
             {
               "title": "NIA bares links between Gurugram gangster Kaushal Chaudhary, Arsh Dalla - IANS LIVE",
@@ -6512,9 +6554,11 @@
           ]
         },
         "gdelt": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-30T17:00:42.739794+00:00",
-          "items": []
+          "items": [],
+          "attempted_at": "2026-11-01T09:59:58.847227+00:00",
+          "error": "HTTPError HTTP 429"
         },
         "x": {
           "state": "not_configured",
@@ -6523,18 +6567,18 @@
       }
     },
     "87557a632834ad12c9f0": {
-      "attempted_at": "2026-10-30T17:01:11.708453+00:00",
+      "attempted_at": "2026-11-01T10:00:27.136145+00:00",
       "sources": {
         "news": {
           "state": "ok",
-          "checked_at": "2026-10-30T17:00:49.032782+00:00",
+          "checked_at": "2026-11-01T10:00:05.088544+00:00",
           "items": []
         },
         "gdelt": {
           "state": "failed",
           "checked_at": "2026-10-27T00:06:25.369075+00:00",
           "items": [],
-          "attempted_at": "2026-10-30T17:01:05.708287+00:00",
+          "attempted_at": "2026-11-01T10:00:21.136002+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -6544,17 +6588,29 @@
       }
     },
     "877c1238c09b5c94eafc": {
-      "attempted_at": "2026-10-30T17:01:41.512710+00:00",
+      "attempted_at": "2026-11-01T10:00:48.782136+00:00",
       "sources": {
         "news": {
           "state": "ok",
-          "checked_at": "2026-10-30T17:01:11.993998+00:00",
+          "checked_at": "2026-11-01T10:00:27.458575+00:00",
           "items": [
             {
               "title": "NIA conducts raids at three locations in Anantnag, South Kashmir - WION",
               "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPamRLTTM1S1VVam5iWjRTeGNWanBEcVc4dy1KQ01QZmNHa2owZGhScE9RcnFBNzRFWjRXYnNSckZKUUJsc2hvVWs5Z25YbzZjc1FmSXJxU1AyVnpHSmFfZEtaYjNqV1UtU1ZlelozVGhqaUFjUkJxMlRyZEJMRTBXOVQ3bloyUnhxTzlWaEZqNGZhaWlKZXljcHNCYjUwQ0RwcnIxendyYl81T2gwRVVfTkV30gG3AUFVX3lxTE9temw5TE10MlBKSVA5eGpMb0tuWngxNmlGOV9QeHB2Yl9fMWxUdThSekswUDJKZ0RfY1RTenlCcG9hZXNQanNIUUdsODI0YnUwNWtkcGVYZW9hWWQwNlJnZkQ3WEY5SEMzNGZBdzktVUJpQk1kYzlUb0FUM2pjTmo0aDZyU2FzWlp5M1V6MkhrZWpSZm8xN1NNb1hpX0ZkaHNsZElFTU5sTXhZY0dFWE13VHQtazB6dw?oc=5",
               "published_at": "Sat, 22 Aug 2026 07:00:00 GMT",
               "publisher": "WION"
+            },
+            {
+              "title": "NIA Special Court Issues Proclamation Against Hizb Chief Syed Salahuddin, Three Others In 1996 Terrorism Case - ETV Bharat",
+              "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQWjh4cUdhcWx3M1BuV3pETERRSkpaNk5sZE5rNEpWdFl4SXl0YzllejcwbzhrS0oyellqUHM5LWJOTUd2LVBlQ2lBbGdOWkc1Q3Z2bzc5Ry1LMEhHY0EyZHhiUy02OE44VlVsRHctTE1CeGl0WEJ0cFBXck5ycnFCM3FPVkY3VWFMOTY5T3VrVWUxYU9GT3BrZmZsbUZNN1hZdWRYN1lrTUVHMElGMDhKYkRZNXpkN3Atc2dkLUItNXdxWGN5Ri1SY1hadXpjSWpqMFdQSWF4UTFyUE5PVHFfNlloY2ExUTVGc0NzV1FTMkHSAfYBQVVfeXFMT1RtQTVmMTh1cVFSVXRFajA4VUFjYWdZTXdMRjBJOVB5cmRuSDlibGdQUnlPWVJIQndSZG1QU1NuVDY0U1RoZ09YS2xBVU5WYkU5bDBrSTNpV2xHZGRfU292LTY5bmt1SzZ3TWtJVmNIblMxX0NveE53YzFKa0pUNzhvRDBjaUF2N1lhMWZ4R0VyazdxMmhxWDM5ZDd0T2hGVksyQ0pVN0Fwc1hkMFdHWU9xVVFGTXQ0VHl3MldXaXBuSWwwWUgyNzdGNkhzN0pZTUMyOFNTSlA3RnVSUXUwUWdEam5BckpucEJSczVGdzlQdmdXaTFR?oc=5",
+              "published_at": "Wed, 10 Jun 2026 07:00:00 GMT",
+              "publisher": "ETV Bharat"
+            },
+            {
+              "title": "Special NIA court frames charges in SIA Kashmir's landmark narco-terror case; trial to begin - Greater Kashmir",
+              "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeGh6WWQyTjJ2d2ZzdEtzSTMxNVN5d2cta3h5UUloSTBCNXRvX3lpdFRoUDJiZ2VnOEpSUGp0OHE1OHpSWTlfMkhrRzhtTFJfRW5Gd2x3bmxMV1llSXk3cy0zN08wY1hHVEhlbjZGXzhaek5feEg3a3hUV0IyN0hwQ2RNMkJKZTFCTlFMbnl0d3NiZHdqUS1vUEdOa1FfaHlTUjJuU05mZjZqd3g0QnhRSzFQZzV2dVNILVVJSjBHdjRMd2hpQV9pVXJ5MDZfMFJRUUVTNUp6cmxkR29i0gHiAUFVX3lxTE5yWFMwMDRHVDhMcWI0aUdyOTJjVUo1SVdiZkpUZlhDby1zcDNVN0ZVZ2hreEx4MFJHbzdaU29WVXpSVnJoa0N0Z0ZvZmRKVEx1MWNVYXUycUNmS3J2MDA4RUNtazkxNlF1WEVYUGVCVUw5ZndIaGhmeG5tRnY2RkZMNks3YVVlMHJRNlN6MmdRMHd6NDgwVTZyMDZoX2J2cUtiX2N6RUFKVURKSGE0QmJBX0pHYUlrS3JoOVJtaC04OGxpY2FNWlRXWEEyRGJWV2JWTThnQUZZUlBFTi1QT3lEZWc?oc=5",
+              "published_at": "Thu, 16 Jul 2026 12:59:52 GMT",
+              "publisher": "Greater Kashmir"
             },
             {
               "title": "NIA court orders attachment of separatist Ghulam Nabi Fai land in Kashmir - Telegraph India",
@@ -6597,25 +6653,15 @@
               "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY1lQR2hTQmJlY3FJaWpacTFqX3BGZGhlaWdKV1lFWThVZmhPN1ZYYlphMWMxUGNZTkJTc2ozMWVrc3dJa2Etc1ROYmRKOXA1TzZXSVVtdTNWNEpZUGk4VENoYUUwZ1hhQnY1MWtXeG1oRW42RmgwMXNESTNYY2V3TTRyV1JleW9EVFVmWEQxVFVMNzZjMzdBMktmZTR0VVJPdnFNX3lCcjNnUUVDZDljU1I2R2NCXzdTdWpISzlhVEEtQdIByAFBVV95cUxQdzI4NkFBS0pYZUF4RTJVVHdmbUFIR3lGZkJYUkJZUHl0ZmVpWmhub3NwX2gyay1haGlPZUJab195T1hnVEhlZjVMbVB3Q3hQdzZSMTZIU3ppN21Xbm9qLVhRQmpZZHRyR3FVZ1gxcDNmZmJucWFmek51VTh5Q0JIM0lvZ1RSdG1hb0V5cEd1QzkzTUt6SE96VlNZQUZHeG1ySVhPX2s2RzF2NXZ1bDJZVUdGdnNSZjZPbWhCamN2NWNUcnlCbkt3Mg?oc=5",
               "published_at": "Wed, 11 Jul 2018 07:00:00 GMT",
               "publisher": "The Indian Express"
-            },
-            {
-              "title": "US-based Ghulam Nabi Fai declared proclaimed offender in UAPA case by Kashmir NIA court, asked to surrend - The Times of India",
-              "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNcWdqYkVHYkRxbkFhdkdpREowSnBmbXBfNU8yMDhCWEV0MDg3MEdVM3FsTjZ3aWRYbDNFak5vRkU4SE5IU19ET0Q4RElvQnM5MDZYZDRpQm5xcVpleUN4ejBETUpXY3d3b3lOMG4yOTZlRDNtMXc0T29WcTZRQzVpT2xXWG4tdFFQTWFRbFVMQzhqbFkyc0dwZHJBcmNwVnNkRGRfUDY1Tnh6cWNCN0VlMmxEOFlyUUJkejFveW5DUWlWVExSYTJXOVNJeGp5M1VkME40N3pqRVV6MFVCeFNkZVctSmdMV2M4Y0hOWHJTZHg0eGVnSnBwSzBkNEdLT016Z19ONHY0UTc1MzQzSnZfWWYzQdIBmAJBVV95cUxNcjJRTGdsQ3BGaXFOYWNGRTgwN2U2akxnUjdObjNfam5McXdidHdnNm9HWlZENlN2Z1FnRC1ySmRNazlsS3hCem1DY0lxRms3OUNGbUhpS3NlSmVvRGVkYWc4N2xLOFJ4QUZ6OEp1elJyRVgweXN1UHlhd25iTUhTWXJGRjc5UHI5YTlnUVA5OUFTanhMcTlMc3ZxUnV2dFFWTnYtNDMyTzlfWURQN0czMlVnYXN1ajJMbnQ0b2VkM29VaF9vdHI2NXgyVGlETC1yVUVWMDc5bTgzbXhRM2VnWkFWNEhPODN1NlZCaVlQZzAyT3dlSmJaNUdXbWJ0YklTZDUxN0FKUk9ONDFXb3VQajBURlJydEd1?oc=5",
-              "published_at": "Fri, 02 May 2025 07:00:00 GMT",
-              "publisher": "The Times of India"
-            },
-            {
-              "title": "Navlakha sought mercy for ISI spy Fai convicted in US, NIA charge sheet says - ThePrint",
-              "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYVljbFlWbEZnSXhRSVp6eG4wd3otc182VVNmTFU5NXA5MGZydXM4V09LOGpUdm0yMTV5VWV4WTc0SXFaUE5XTThCWFdZZjlwVFVMTG0tNHpncmtQajZodnlhbEIzMEhCNlByLUVjRnBnMEE2TmFGTDlUcDVkdi1OaDBhNnU3bUtDNF8zYlFEU1doRng5ZkdpVE5tVkdyVWl6OWlGN1hDNVZ1d015dHB0TjkwN0gwQmJ2MkM00gHAAUFVX3lxTFBKdmM1QlZlc2NoTlJrTVVLSy1GMVpOajAzMlQyczBxZ0F4VUNDYS1Ja2tJY1hMREVZaFZOQTBCN1NEOEQ3ZGJEbUJCSElVTUVtZ3pYdTRWblhmZWlQejN4eWxENnkySVFDOVYzcDZLOFJ3TnVzQk84Nm4yNGJ3djlPSmREX1cydDlTRkhMYzFsZl9IZExqdFNYZW1fZ0xwdm1OdEs4dWtSNmtUbFBnRlhaTzdkS3UydFNJTEhXaHdfRQ?oc=5",
-              "published_at": "Wed, 14 Oct 2020 07:00:00 GMT",
-              "publisher": "ThePrint"
             }
           ]
         },
         "gdelt": {
-          "state": "ok",
+          "state": "failed",
           "checked_at": "2026-10-30T17:01:35.512522+00:00",
-          "items": []
+          "items": [],
+          "attempted_at": "2026-11-01T10:00:42.781994+00:00",
+          "error": "HTTPError HTTP 429"
         },
         "x": {
           "state": "not_configured",
@@ -6624,18 +6670,18 @@
       }
     },
     "8953e08841cbbc9a5cbf": {
-      "attempted_at": "2026-10-30T17:02:03.445172+00:00",
+      "attempted_at": "2026-11-01T10:01:11.934384+00:00",
       "sources": {
         "news": {
           "state": "ok",
-          "checked_at": "2026-10-30T17:01:41.771403+00:00",
+          "checked_at": "2026-11-01T10:00:49.100581+00:00",
           "items": []
         },
         "gdelt": {
           "state": "failed",
           "checked_at": "2026-10-24T01:14:24.639947+00:00",
           "items": [],
-          "attempted_at": "2026-10-30T17:01:57.445014+00:00",
+          "attempted_at": "2026-11-01T10:01:05.934231+00:00",
           "error": "HTTPError HTTP 429"
         },
         "x": {
@@ -6645,16 +6691,16 @@
       }
     },
     "4fb452bd26e481511de7": {
-      "attempted_at": "2026-10-30T17:02:25.418393+00:00",
+      "attempted_at": "2026-11-01T10:01:37.192944+00:00",
       "sources": {
         "news": {
           "state": "ok",
-          "checked_at": "2026-10-30T17:02:03.716222+00:00",
+          "checked_at": "2026-11-01T10:01:12.170033+00:00",
           "items": []
         },
         "gdelt": {
           "state": "ok",
-          "checked_at": "2026-10-30T17:02:19.418263+00:00",
+          "checked_at": "2026-11-01T10:01:31.192796+00:00",
           "items": []
         },
         "x": {
@@ -6664,11 +6710,11 @@
       }
     },
     "f629b0bd262a1c3c53fa": {
-      "attempted_at": "2026-10-30T17:02:43.395795+00:00",
+      "attempted_at": "2026-11-01T10:02:00.397363+00:00",
       "sources": {
         "news": {
           "state": "ok",
-          "checked_at": "2026-10-30T17:02:25.737464+00:00",
+          "checked_at": "2026-11-01T10:01:37.443694+00:00",
           "items": [
             {
               "title": "NIA Court Sentences 12 In Terror Funding Case In Jharkhand, All Convicts Get Jail Term Of Over 8 Years - ETV Bharat",
@@ -6733,11 +6779,9 @@
           ]
         },
         "gdelt": {
-          "state": "failed",
-          "checked_at": "2026-10-27T00:07:41.176862+00:00",
-          "items": [],
-          "attempted_at": "2026-10-30T17:02:37.395673+00:00",
-          "error": "HTTPError HTTP 429"
+          "state": "ok",
+          "checked_at": "2026-11-01T10:01:54.397224+00:00",
+          "items": []
         },
         "x": {
           "state": "not_configured",
